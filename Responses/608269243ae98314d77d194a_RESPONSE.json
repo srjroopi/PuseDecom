@@ -1,0 +1,1801 @@
+[
+    {
+        "id": "614d2334728464224233a545",
+        "productId": "614d2334728464224233a545",
+        "pageNo": "1",
+        "updatedTime": "1724831063753",
+        "title": "Heinemann Biology 2 6th Edition",
+        "resources": [
+            {
+                "name": "Whole book resources",
+                "subtopic": [
+                    {
+                        "name": "Reader+ help",
+                        "description": "",
+                        "url": "https://www.pearson.com.au/educator/secondary/digital-learning/readerplus/reader-plus-support/#online",
+                        "contentTypeValue": "weblink",
+                        "fileType": "html",
+                        "launchBrowser": true,
+                        "isDownloadable": false
+                    },
+                    {
+                        "name": "eBook and assessment credits",
+                        "description": "",
+                        "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=14606B03-F132-0346-A17A-C9F8E85AE6DC",
+                        "contentTypeValue": "document",
+                        "fileType": "misc",
+                        "launchBrowser": true,
+                        "isDownloadable": false
+                    }
+                ],
+                "relatedTo": [
+                    {
+                        "productId": "608269243ae98314d77d194a",
+                        "resourceType": "resource"
+                    }
+                ],
+                "limitByRoles": [
+                    "Student"
+                ]
+            },
+            {
+                "name": "Scientific investigation",
+                "subtopic": [
+                    {
+                        "name": "Chapter 1 Scientific investigation",
+                        "subtopic": [
+                            {
+                                "name": "Chapter 1 fully worked solutions",
+                                "description": "",
+                                "pageId": "65",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=F72458C9-4BB8-554E-B1D0-47F715463876",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 1 video: The scientific method",
+                                "description": "",
+                                "pageId": "5",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=F7C30545-C2A5-D948-9816-C184CE2656F1",
+                                "contentTypeValue": "video",
+                                "fileType": "video",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 1 video: Alternatives to animal testing",
+                                "description": "",
+                                "pageId": "17",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=3C5D5A4B-7420-F645-8F3B-28E67C04A033",
+                                "contentTypeValue": "video",
+                                "fileType": "video",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 1 video: Personal protective equipment",
+                                "description": "",
+                                "pageId": "18",
+                                "url": "https://www.mauthor.com/embed/6306255329820672",
+                                "contentTypeValue": "video",
+                                "fileType": "html",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 1 Untamed Science video: Being precisely accurate",
+                                "description": "",
+                                "pageId": "39",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=F6597161-2DD4-894A-8CFA-ACA7E7B18B33",
+                                "contentTypeValue": "video",
+                                "fileType": "video",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            }
+                        ]
+                    }
+                ],
+                "relatedTo": [
+                    {
+                        "productId": "608269243ae98314d77d194a",
+                        "resourceType": "resource"
+                    }
+                ],
+                "limitByRoles": [
+                    "Student"
+                ]
+            },
+            {
+                "name": "Unit 3 How do cells maintain life?",
+                "subtopic": [
+                    {
+                        "name": "Unit 3 fully worked solutions",
+                        "description": "",
+                        "pageId": "260",
+                        "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=61D34065-7ECF-4F4E-B5EE-89615ECC2E95",
+                        "contentTypeValue": "document",
+                        "fileType": "misc",
+                        "launchBrowser": true,
+                        "isDownloadable": false
+                    },
+                    {
+                        "name": "Unit 3 AoS 1 review fully worked solutions",
+                        "description": "",
+                        "pageId": "183",
+                        "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=DBB9AB6B-EA93-9943-8134-71EE5E67AC48",
+                        "contentTypeValue": "document",
+                        "fileType": "misc",
+                        "launchBrowser": true,
+                        "isDownloadable": false
+                    },
+                    {
+                        "name": "Unit 3 AoS 2 review fully worked solutions",
+                        "description": "",
+                        "pageId": "260",
+                        "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=984FE123-0847-134E-BD0E-B69DC3E6B439",
+                        "contentTypeValue": "document",
+                        "fileType": "misc",
+                        "launchBrowser": true,
+                        "isDownloadable": false
+                    },
+                    {
+                        "name": "Chapter 2 Cells and the composition of cells",
+                        "subtopic": [
+                            {
+                                "name": "Chapter 2 fully worked solutions",
+                                "description": "",
+                                "pageId": "97",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=B56A3CBC-A797-C346-95D4-212AA09C1538",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 2 interactive: Morphology of the prokaryotic cell",
+                                "description": "",
+                                "pageId": "70",
+                                "url": "https://www.mauthor.com/embed/5274322169233408",
+                                "contentTypeValue": "interactive",
+                                "fileType": "html",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 2 interactive: Morphology of the eukaryotic cell",
+                                "description": "",
+                                "pageId": "73",
+                                "url": "https://www.mauthor.com/embed/5297584114761728",
+                                "contentTypeValue": "interactive",
+                                "fileType": "html",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 2 interactive: Bonds between amino acids\u2014peptide bonds",
+                                "description": "",
+                                "pageId": "85",
+                                "url": "https://www.mauthor.com/embed/4854096117628928",
+                                "contentTypeValue": "interactive",
+                                "fileType": "html",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 2 interactive: Endoplasmic reticulum and ribosomes",
+                                "description": "",
+                                "pageId": "90",
+                                "url": "https://www.mauthor.com/embed/5989498136297472",
+                                "contentTypeValue": "interactive",
+                                "fileType": "html",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chapter 3 From nucleic acids to proteins",
+                        "subtopic": [
+                            {
+                                "name": "Chapter 3 fully worked solutions",
+                                "description": "",
+                                "pageId": "129",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=50749DD3-731D-ED4B-A72F-1FB8BC544247",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 3 interactive: Genetic differences between prokaryotic and eukaryotic cells",
+                                "description": "",
+                                "pageId": "106",
+                                "url": "https://www.mauthor.com/embed/6013632597721088",
+                                "contentTypeValue": "interactive",
+                                "fileType": "html",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 3 interactive: The levels of chromatin organisation",
+                                "description": "",
+                                "pageId": "106",
+                                "url": "https://www.mauthor.com/embed/5845981569220608",
+                                "contentTypeValue": "interactive",
+                                "fileType": "html",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 3 interactive: The course of transcription",
+                                "description": "",
+                                "pageId": "115",
+                                "url": "https://www.mauthor.com/embed/5386429262462976",
+                                "contentTypeValue": "interactive",
+                                "fileType": "html",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 3 interactive: The course of translation",
+                                "description": "",
+                                "pageId": "117",
+                                "url": "https://www.mauthor.com/embed/6416060698591232",
+                                "contentTypeValue": "interactive",
+                                "fileType": "html",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 3 video: Gene expression",
+                                "description": "",
+                                "pageId": "110",
+                                "url": "https://www.mauthor.com/embed/4775512577409024",
+                                "contentTypeValue": "video",
+                                "fileType": "html",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chapter 4 DNA manipulation techniques and applications",
+                        "subtopic": [
+                            {
+                                "name": "Chapter 4 fully worked solutions",
+                                "description": "",
+                                "pageId": "176",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=FE61F13B-9938-B246-8A9C-9D0D926B6CEC",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 4 interactive: The polymerase chain reaction",
+                                "description": "",
+                                "pageId": "135",
+                                "url": "https://www.mauthor.com/embed/4838475120246784",
+                                "contentTypeValue": "interactive",
+                                "fileType": "html",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 4 interactive: Electrophoresis\u2014a basic technique in work with DNA",
+                                "description": "",
+                                "pageId": "137",
+                                "url": "https://www.mauthor.com/embed/4761047127556096",
+                                "contentTypeValue": "interactive",
+                                "fileType": "html",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 4 interactive: Restriction endonucleases",
+                                "description": "",
+                                "pageId": "149",
+                                "url": "https://www.mauthor.com/embed/5100922318094336",
+                                "contentTypeValue": "interactive",
+                                "fileType": "html",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 4 interactive: Genetic engineering in biotechnology",
+                                "description": "",
+                                "pageId": "152",
+                                "url": "https://www.mauthor.com/embed/4736831699288064",
+                                "contentTypeValue": "interactive",
+                                "fileType": "html",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 4 interactive: Ethical problems arising from genetic modification of organisms",
+                                "description": "",
+                                "pageId": "168",
+                                "url": "https://www.mauthor.com/embed/6134520760500224",
+                                "contentTypeValue": "interactive",
+                                "fileType": "html",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 4 video: Plasmids",
+                                "description": "",
+                                "pageId": "153",
+                                "url": "https://www.mauthor.com/embed/5370991807823872",
+                                "contentTypeValue": "video",
+                                "fileType": "html",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 4 video: Legislation and the use of genetic engineering",
+                                "description": "",
+                                "pageId": "168",
+                                "url": "https://www.mauthor.com/embed/6440091309047808",
+                                "contentTypeValue": "video",
+                                "fileType": "html",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chapter 5 Regulation of biochemical pathways",
+                        "subtopic": [
+                            {
+                                "name": "Chapter 5 fully worked solutions",
+                                "description": "",
+                                "pageId": "207",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=E709E64B-BCE2-0441-9806-ACD167C0AF7C",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 5 interactive: The enzyme\u2212substrate complex",
+                                "description": "",
+                                "pageId": "187",
+                                "url": "https://www.mauthor.com/embed/6722894681079808",
+                                "contentTypeValue": "interactive",
+                                "fileType": "html",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 5 interactive: Inhibition by the end product",
+                                "description": "",
+                                "pageId": "198",
+                                "url": "https://www.mauthor.com/embed/4634486563405824",
+                                "contentTypeValue": "interactive",
+                                "fileType": "html",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 5 interactive: Competitive and non-competitive inhibition of enzymes",
+                                "description": "",
+                                "pageId": "199",
+                                "url": "https://www.mauthor.com/embed/5303348095090688",
+                                "contentTypeValue": "interactive",
+                                "fileType": "html",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chapter 6 Biochemical pathways: Photosynthesis",
+                        "subtopic": [
+                            {
+                                "name": "Chapter 6 fully worked solutions",
+                                "description": "",
+                                "pageId": "231",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=11113631-2E73-EA48-BFBB-F174595A5D06",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 6 video: Function of chlorophyll",
+                                "description": "",
+                                "pageId": "212",
+                                "url": "https://www.mauthor.com/embed/5522468199727104",
+                                "contentTypeValue": "video",
+                                "fileType": "html",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 6 Untamed Science video: Soaking up the carbon dioxide",
+                                "description": "",
+                                "pageId": "221",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=40DE0C48-5CDE-744B-A7E8-CA50F00AE3CE",
+                                "contentTypeValue": "video",
+                                "fileType": "video",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chapter 7 Biochemical pathways: Cellular respiration",
+                        "subtopic": [
+                            {
+                                "name": "Chapter 7 fully worked solutions",
+                                "description": "",
+                                "pageId": "252",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=50D07F76-2279-B241-92C0-7B43E0E658F2",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 7 video: The beginnings of biotechnology",
+                                "description": "",
+                                "pageId": "242",
+                                "url": "https://www.mauthor.com/embed/5595044413964288",
+                                "contentTypeValue": "video",
+                                "fileType": "html",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 7 video: Production of beer and soy sauce",
+                                "description": "",
+                                "pageId": "242",
+                                "url": "https://www.mauthor.com/embed/4795943736836096",
+                                "contentTypeValue": "video",
+                                "fileType": "html",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 7 Untamed Science video: Take a deep breath",
+                                "description": "",
+                                "pageId": "249",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=A4DA25D8-E4AE-CD4E-AA94-2A32B569DD08",
+                                "contentTypeValue": "video",
+                                "fileType": "video",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            }
+                        ]
+                    }
+                ],
+                "relatedTo": [
+                    {
+                        "productId": "608269243ae98314d77d194a",
+                        "resourceType": "resource"
+                    }
+                ],
+                "limitByRoles": [
+                    "Student"
+                ]
+            },
+            {
+                "name": "Unit 4 How does life change and respond to challenges?",
+                "subtopic": [
+                    {
+                        "name": "Unit 4 fully worked solutions",
+                        "description": "",
+                        "pageId": "490",
+                        "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=94773F9C-B354-0347-9C09-D05537405E94",
+                        "contentTypeValue": "document",
+                        "fileType": "misc",
+                        "launchBrowser": true,
+                        "isDownloadable": false
+                    },
+                    {
+                        "name": "Unit 4 AoS 1 review fully worked solutions",
+                        "description": "",
+                        "pageId": "360",
+                        "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=8766D6D5-5055-D342-AD39-AE99935A0E16",
+                        "contentTypeValue": "document",
+                        "fileType": "misc",
+                        "launchBrowser": true,
+                        "isDownloadable": false
+                    },
+                    {
+                        "name": "Unit 4 AoS 2 review fully worked solutions",
+                        "description": "",
+                        "pageId": "490",
+                        "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=D375CC1C-F9D0-C44D-8C97-5A0BEDA182AC",
+                        "contentTypeValue": "document",
+                        "fileType": "misc",
+                        "launchBrowser": true,
+                        "isDownloadable": false
+                    },
+                    {
+                        "name": "Chapter 8 Responding to antigens",
+                        "subtopic": [
+                            {
+                                "name": "Chapter 8 fully worked solutions",
+                                "description": "",
+                                "pageId": "287",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=D72E1D79-F437-BC46-9EA3-7B21E70545F1",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 8 interactive: Foreign molecules\u2014antigens",
+                                "description": "",
+                                "pageId": "264",
+                                "url": "https://www.mauthor.com/embed/5402937103482880",
+                                "contentTypeValue": "interactive",
+                                "fileType": "html",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 8 interactive: Infectious diseases\u2014modes of transmission",
+                                "description": "",
+                                "pageId": "268",
+                                "url": "https://www.mauthor.com/embed/5820553752215552",
+                                "contentTypeValue": "interactive",
+                                "fileType": "html",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 8 interactive: Pathogenic viruses",
+                                "description": "",
+                                "pageId": "271",
+                                "url": "https://www.mauthor.com/embed/5096373075312640",
+                                "contentTypeValue": "interactive",
+                                "fileType": "html",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 8 interactive: Louis Pasteur's experiment",
+                                "description": "",
+                                "pageId": "272",
+                                "url": "https://www.mauthor.com/embed/5548905660678144",
+                                "contentTypeValue": "interactive",
+                                "fileType": "html",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 8 interactive: Koch's principles",
+                                "description": "",
+                                "pageId": "272",
+                                "url": "https://www.mauthor.com/embed/5701217012154368",
+                                "contentTypeValue": "interactive",
+                                "fileType": "html",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 8 interactive: Immunity",
+                                "description": "",
+                                "pageId": "274",
+                                "url": "https://www.mauthor.com/embed/5019815618805760",
+                                "contentTypeValue": "interactive",
+                                "fileType": "html",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 8 interactive: Non-specific immunity\u2014anatomical barriers",
+                                "description": "",
+                                "pageId": "276",
+                                "url": "https://www.mauthor.com/embed/6319360315228160",
+                                "contentTypeValue": "interactive",
+                                "fileType": "html",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 8 interactive: Phagocytes, the consumers of microorganisms",
+                                "description": "",
+                                "pageId": "278",
+                                "url": "https://www.mauthor.com/embed/6188986247413760",
+                                "contentTypeValue": "interactive",
+                                "fileType": "html",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 8 interactive: Innate immunity",
+                                "description": "",
+                                "pageId": "280",
+                                "url": "https://www.mauthor.com/embed/6210269622304768",
+                                "contentTypeValue": "interactive",
+                                "fileType": "html",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 8 Untamed Science video: A reason for sneezin'",
+                                "description": "",
+                                "pageId": "266",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=0D9C843C-B42D-954E-8A26-DD9F94E77E43",
+                                "contentTypeValue": "video",
+                                "fileType": "video",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chapter 9 Acquiring immunity",
+                        "subtopic": [
+                            {
+                                "name": "Chapter 9 fully worked solutions",
+                                "description": "",
+                                "pageId": "313",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=8966877D-9D2D-A940-9463-728DF42CD9F7",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 9 interactive: The components of the immune system",
+                                "description": "",
+                                "pageId": "290",
+                                "url": "https://www.mauthor.com/embed/5928983758372864",
+                                "contentTypeValue": "interactive",
+                                "fileType": "html",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 9 interactive: The diversity of antibodies",
+                                "description": "",
+                                "pageId": "298",
+                                "url": "https://www.mauthor.com/embed/6059994622197760",
+                                "contentTypeValue": "interactive",
+                                "fileType": "html",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 9 interactive: Major histocompatibility complex proteins",
+                                "description": "",
+                                "pageId": "302",
+                                "url": "https://www.mauthor.com/embed/5011016908537856",
+                                "contentTypeValue": "interactive",
+                                "fileType": "html",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 9 video: The development of a rabies vaccine",
+                                "description": "",
+                                "pageId": "308",
+                                "url": "https://www.mauthor.com/embed/6062757695455232",
+                                "contentTypeValue": "video",
+                                "fileType": "html",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chapter 10 Disease challenges and strategies",
+                        "subtopic": [
+                            {
+                                "name": "Chapter 10 fully worked solutions",
+                                "description": "",
+                                "pageId": "354",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=05C34B70-CC42-124B-897D-0A178931DB9D",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 10 interactive: Monoclonal antibodies",
+                                "description": "",
+                                "pageId": "320",
+                                "url": "https://www.mauthor.com/embed/5771269002493952",
+                                "contentTypeValue": "interactive",
+                                "fileType": "html",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 10 interactive: Autoimmune diseases",
+                                "description": "",
+                                "pageId": "324",
+                                "url": "https://www.mauthor.com/embed/5603772995469312",
+                                "contentTypeValue": "interactive",
+                                "fileType": "html",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 10 interactive: Endemic, epidemic and pandemic diseases",
+                                "description": "",
+                                "pageId": "330",
+                                "url": "https://www.mauthor.com/embed/6157682176950272",
+                                "contentTypeValue": "interactive",
+                                "fileType": "html",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 10 interactive: The history of HIV infection",
+                                "description": "",
+                                "pageId": "335",
+                                "url": "https://www.mauthor.com/embed/5367568047800320",
+                                "contentTypeValue": "interactive",
+                                "fileType": "html",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 10 interactive: The dark side of antibiotic use",
+                                "description": "",
+                                "pageId": "337",
+                                "url": "https://www.mauthor.com/embed/4790323369476096",
+                                "contentTypeValue": "interactive",
+                                "fileType": "html",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 10 interactive: Malaria\u2014the eternal serial killer",
+                                "description": "",
+                                "pageId": "338",
+                                "url": "https://www.mauthor.com/embed/6175333938757632",
+                                "contentTypeValue": "interactive",
+                                "fileType": "html",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 10 interactive: Cholera",
+                                "description": "",
+                                "pageId": "339",
+                                "url": "https://www.mauthor.com/embed/6146336215531520",
+                                "contentTypeValue": "interactive",
+                                "fileType": "html",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 10 interactive: Sterilisation and disinfection",
+                                "description": "",
+                                "pageId": "345",
+                                "url": "https://www.mauthor.com/embed/5418872371675136",
+                                "contentTypeValue": "interactive",
+                                "fileType": "html",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 10 interactive: Methods of obtaining vaccines",
+                                "description": "",
+                                "pageId": "349",
+                                "url": "https://www.mauthor.com/embed/5125867588812800",
+                                "contentTypeValue": "interactive",
+                                "fileType": "html",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chapter 11 Genetic changes in a population over time",
+                        "subtopic": [
+                            {
+                                "name": "Chapter 11 fully worked solutions",
+                                "description": "",
+                                "pageId": "389",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=7775C786-7ED5-D944-B78F-7B12FEEADF7B",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 11 interactive: Variation of traits\u2014the basis of evolution",
+                                "description": "",
+                                "pageId": "366",
+                                "url": "https://www.mauthor.com/embed/6551521953841152",
+                                "contentTypeValue": "interactive",
+                                "fileType": "html",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 11 Untamed Science video: Designer pigeons",
+                                "description": "",
+                                "pageId": "369",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=1375F89E-6E47-2443-8E89-3735481C542E",
+                                "contentTypeValue": "video",
+                                "fileType": "video",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chapter 12 Changes in species over time",
+                        "subtopic": [
+                            {
+                                "name": "Chapter 12 fully worked solutions",
+                                "description": "",
+                                "pageId": "418",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=9B9D9A64-8180-7E4A-AF08-C31108491DAD",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 12 interactive: Three billion eight hundred million years of history",
+                                "description": "",
+                                "pageId": "393",
+                                "url": "https://www.mauthor.com/embed/5391601217306624",
+                                "contentTypeValue": "interactive",
+                                "fileType": "html",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 12 video: Periodicity of extinction and speciation",
+                                "description": "",
+                                "pageId": "393",
+                                "url": "https://www.mauthor.com/embed/5447919781281792",
+                                "contentTypeValue": "video",
+                                "fileType": "html",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 12 Untamed Science video: Stories in stone",
+                                "description": "",
+                                "pageId": "394",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=AA2BB340-F7A1-FD49-83F2-7D4365E43F77",
+                                "contentTypeValue": "video",
+                                "fileType": "video",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 12 Untamed Science video: Evolution at a snail's pace",
+                                "description": "",
+                                "pageId": "408",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=FA62C2C3-91C5-8941-AA94-DCAC328C059E",
+                                "contentTypeValue": "video",
+                                "fileType": "video",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 12 Untamed Science video: It happened in Hawaii",
+                                "description": "",
+                                "pageId": "413",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=D7880ED8-ABCA-274F-8631-A5E6D52A2CAD",
+                                "contentTypeValue": "video",
+                                "fileType": "video",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chapter 13 Determining the relatedness of species",
+                        "subtopic": [
+                            {
+                                "name": "Chapter 13 fully worked solutions",
+                                "description": "",
+                                "pageId": "452",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=FCE91A9C-2333-0C4D-8CAB-D68512159ECD",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 13 interactive: Convergent evolution",
+                                "description": "",
+                                "pageId": "423",
+                                "url": "https://www.mauthor.com/embed/5159046186532864",
+                                "contentTypeValue": "interactive",
+                                "fileType": "html",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 13 video: Phylogenetics",
+                                "description": "",
+                                "pageId": "434",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=cc407fce-5c5b-42f9-8dce-5acd9ab2cfea",
+                                "contentTypeValue": "video",
+                                "fileType": "video",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chapter 14 Human change over time",
+                        "subtopic": [
+                            {
+                                "name": "Chapter 14 fully worked solutions",
+                                "description": "",
+                                "pageId": "483",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=825F2005-DA51-DC4C-9E8D-05E6E25A6E55",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            }
+                        ]
+                    }
+                ],
+                "relatedTo": [
+                    {
+                        "productId": "608269243ae98314d77d194a",
+                        "resourceType": "resource"
+                    }
+                ],
+                "limitByRoles": [
+                    "Student"
+                ]
+            },
+            {
+                "name": "Skills and assessment book resources",
+                "subtopic": [
+                    {
+                        "name": "SAB: Practical activity 1 SPARKlab: An examination of processes and issues around genetically modified food crops",
+                        "description": "",
+                        "pageId": "168",
+                        "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=59284E4A-C8C0-7345-900C-1D36C094EA11",
+                        "contentTypeValue": "document",
+                        "fileType": "misc",
+                        "launchBrowser": true,
+                        "isDownloadable": false
+                    },
+                    {
+                        "name": "SAB: Practical activity 2 SPARKlab: A case study of Huntington's disease including gel electrophoresis and a focus on issues",
+                        "description": "",
+                        "pageId": "143",
+                        "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=A082C90D-0DC7-B04E-9DE9-C8F88E15D51F",
+                        "contentTypeValue": "document",
+                        "fileType": "misc",
+                        "launchBrowser": true,
+                        "isDownloadable": false
+                    },
+                    {
+                        "name": "SAB: Practical activity 3 SPARKlab: A PCR simulation",
+                        "description": "",
+                        "pageId": "135",
+                        "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=F735709C-8A8C-6342-A363-8E6202B3341E",
+                        "contentTypeValue": "document",
+                        "fileType": "misc",
+                        "launchBrowser": true,
+                        "isDownloadable": false
+                    },
+                    {
+                        "name": "SAB: Practical activity 4 SPARKlab: Genome editing using CRISPR-Cas9",
+                        "description": "",
+                        "pageId": "164",
+                        "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=C6EE9C1F-C1D6-924E-92E2-6CD7BF502FF3",
+                        "contentTypeValue": "document",
+                        "fileType": "misc",
+                        "launchBrowser": true,
+                        "isDownloadable": false
+                    },
+                    {
+                        "name": "SAB: Practical activity 5 SPARKlab: Factors affecting enzyme function",
+                        "description": "",
+                        "pageId": "196",
+                        "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=6C2FEE44-A8F2-FB44-B7E7-E60F2E4A6AC6",
+                        "contentTypeValue": "document",
+                        "fileType": "misc",
+                        "launchBrowser": true,
+                        "isDownloadable": false
+                    },
+                    {
+                        "name": "SAB: Practical activity 6 SPARKlab: Investigating the activity of a selected plant enzyme",
+                        "description": "",
+                        "pageId": "196",
+                        "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=B86D5B2B-E83C-5149-A37B-8980BE6B29BC",
+                        "contentTypeValue": "document",
+                        "fileType": "misc",
+                        "launchBrowser": true,
+                        "isDownloadable": false
+                    },
+                    {
+                        "name": "SAB: Practical activity 7 SPARKlab: Photosynthesis in variegated leaves",
+                        "description": "",
+                        "pageId": "216",
+                        "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=0612BF46-1086-774D-BF79-B6536ACEBCBC",
+                        "contentTypeValue": "document",
+                        "fileType": "misc",
+                        "launchBrowser": true,
+                        "isDownloadable": false
+                    },
+                    {
+                        "name": "SAB: Practical activity 8 SPARKlab: Photosynthesis and cellular respiration in a pondweed",
+                        "description": "",
+                        "pageId": "223",
+                        "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=695A2A0E-25C6-8C4E-9D19-F81AC5B96010",
+                        "contentTypeValue": "document",
+                        "fileType": "misc",
+                        "launchBrowser": true,
+                        "isDownloadable": false
+                    },
+                    {
+                        "name": "SAB: Practical activity 9 SPARKlab: Investigating the effect of antibiotics on bacterial growth",
+                        "description": "",
+                        "pageId": "340",
+                        "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=ADD90B5D-08F9-944A-ABF2-1E23A45A7B83",
+                        "contentTypeValue": "document",
+                        "fileType": "misc",
+                        "launchBrowser": true,
+                        "isDownloadable": false
+                    },
+                    {
+                        "name": "SAB: Practical activity 10 SPARKlab: Vaccination programs and herd immunity",
+                        "description": "",
+                        "pageId": "352",
+                        "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=6AB2BA5D-4F70-8B43-BE3E-AFE97347324D",
+                        "contentTypeValue": "document",
+                        "fileType": "misc",
+                        "launchBrowser": true,
+                        "isDownloadable": false
+                    },
+                    {
+                        "name": "SAB: Practical activity 11 SPARKlab: Cutting-edge strategies to combat disease",
+                        "description": "",
+                        "pageId": "340",
+                        "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=62B94831-E03C-2447-AAC8-99059D2F3A4A",
+                        "contentTypeValue": "document",
+                        "fileType": "misc",
+                        "launchBrowser": true,
+                        "isDownloadable": false
+                    },
+                    {
+                        "name": "SAB: Practical activity 12 SPARKlab: Natural selection in an island population",
+                        "description": "",
+                        "pageId": "364",
+                        "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=93A557C6-E216-EB45-9992-913242362B87",
+                        "contentTypeValue": "document",
+                        "fileType": "misc",
+                        "launchBrowser": true,
+                        "isDownloadable": false
+                    },
+                    {
+                        "name": "SAB: Practical activity 13 SPARKlab: Divergent and convergent evolution in anteater species",
+                        "description": "",
+                        "pageId": "442",
+                        "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=1053D98C-CCB3-1C45-B25F-9DDB9CED4F90",
+                        "contentTypeValue": "document",
+                        "fileType": "misc",
+                        "launchBrowser": true,
+                        "isDownloadable": false
+                    },
+                    {
+                        "name": "SAB: Practical activity 14 SPARKlab: Evidence of evolutionary relationships between selected marsupials",
+                        "description": "",
+                        "pageId": "442",
+                        "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=C7CF371A-DED1-A840-A6B9-D6B4EA278FF9",
+                        "contentTypeValue": "document",
+                        "fileType": "misc",
+                        "launchBrowser": true,
+                        "isDownloadable": false
+                    },
+                    {
+                        "name": "SAB: Practical activity 15 SPARKlab: Examining primate evolution",
+                        "description": "",
+                        "pageId": "461",
+                        "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=DBE72AC9-7D11-0D4F-98F9-141711602740",
+                        "contentTypeValue": "document",
+                        "fileType": "misc",
+                        "launchBrowser": true,
+                        "isDownloadable": false
+                    },
+                    {
+                        "name": "SAB: Practical activity 16 SPARKlab: The changing face of human evolution",
+                        "description": "",
+                        "pageId": "468",
+                        "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=BD92E810-0C32-854F-A74C-939F2040B9A0",
+                        "contentTypeValue": "document",
+                        "fileType": "misc",
+                        "launchBrowser": true,
+                        "isDownloadable": false
+                    },
+                    {
+                        "name": "SAB: Practical activity 17 SPARKlab: The first Australians\u2014migration and genetic divergence",
+                        "description": "",
+                        "pageId": "478",
+                        "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=8013AF69-FD70-084E-854F-5721F77B9417",
+                        "contentTypeValue": "document",
+                        "fileType": "misc",
+                        "launchBrowser": true,
+                        "isDownloadable": false
+                    }
+                ],
+                "relatedTo": [
+                    {
+                        "productId": "608269243ae98314d77d194a",
+                        "resourceType": "resource"
+                    }
+                ],
+                "limitByRoles": [
+                    "Student"
+                ]
+            },
+            {
+                "name": "Whole book resources",
+                "subtopic": [
+                    {
+                        "name": "Heinemann Biology 2 videos and interactives list",
+                        "description": "",
+                        "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=3662713D-1C1F-1640-ABCA-4B902A59BED5",
+                        "contentTypeValue": "document",
+                        "fileType": "misc",
+                        "launchBrowser": true,
+                        "isDownloadable": false
+                    },
+                    {
+                        "name": "Online practical activity risk assessment template",
+                        "description": "",
+                        "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=FDCE7307-94CD-6D46-9935-CF8115ED085A",
+                        "contentTypeValue": "document",
+                        "fileType": "misc",
+                        "launchBrowser": true,
+                        "isDownloadable": false
+                    },
+                    {
+                        "name": "Online practical activity technician's checklist and recipes",
+                        "description": "",
+                        "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=38A3063A-2B01-544F-B5A0-FFBD494156E3",
+                        "contentTypeValue": "document",
+                        "fileType": "misc",
+                        "launchBrowser": true,
+                        "isDownloadable": false
+                    },
+                    {
+                        "name": "Units 3 & 4 exam readiness guide",
+                        "description": "",
+                        "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=B964FBAB-E330-654B-A382-91234B3CDD1C",
+                        "contentTypeValue": "document",
+                        "fileType": "misc",
+                        "launchBrowser": true,
+                        "isDownloadable": false
+                    },
+                    {
+                        "name": "Units 3 & 4 practice exam",
+                        "description": "",
+                        "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=60F177A5-B5F6-F540-ACAD-29A28E07A6D5",
+                        "contentTypeValue": "document",
+                        "fileType": "misc",
+                        "launchBrowser": true,
+                        "isDownloadable": false
+                    },
+                    {
+                        "name": "Units 3 & 4 practice exam suggested answers",
+                        "description": "",
+                        "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=23179171-F43F-8740-8717-38CD5655D99F",
+                        "contentTypeValue": "document",
+                        "fileType": "misc",
+                        "launchBrowser": true,
+                        "isDownloadable": false
+                    },
+                    {
+                        "name": "Units 3 & 4 practice exam multiple-choice answer sheet",
+                        "description": "",
+                        "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=E2051167-0AA8-F64C-9164-E73DB8C47F14",
+                        "contentTypeValue": "document",
+                        "fileType": "misc",
+                        "launchBrowser": true,
+                        "isDownloadable": false
+                    },
+                    {
+                        "name": "Units 3 & 4 practice exam mapping document",
+                        "description": "",
+                        "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=D1C59D3E-4FB2-3940-8F2C-69DD23184EC7",
+                        "contentTypeValue": "document",
+                        "fileType": "misc",
+                        "launchBrowser": true,
+                        "isDownloadable": false
+                    },
+                    {
+                        "name": "Heinemann Biology 2 VCAA Biology FAQ Summary of changes",
+                        "description": "",
+                        "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=38F0E6D3-5F34-E942-8CCF-A8939B57A71C",
+                        "contentTypeValue": "document",
+                        "fileType": "misc",
+                        "launchBrowser": true,
+                        "isDownloadable": false
+                    }
+                ],
+                "relatedTo": [
+                    {
+                        "productId": "608269243ae98314d77d194a",
+                        "resourceType": "resource"
+                    }
+                ],
+                "limitByRoles": [
+                    "Teacher"
+                ]
+            },
+            {
+                "name": "Unit 3 How do cells maintain life?",
+                "subtopic": [
+                    {
+                        "name": "Unit 3 sample teaching plan",
+                        "description": "",
+                        "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=0E9B49E0-D566-4B4B-AA83-F650D94DF3FB",
+                        "contentTypeValue": "document",
+                        "fileType": "misc",
+                        "launchBrowser": true,
+                        "isDownloadable": false
+                    },
+                    {
+                        "name": "Unit 3 teaching plan template",
+                        "description": "",
+                        "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=EA3E274B-ACCC-424B-A956-2F4663103959",
+                        "contentTypeValue": "document",
+                        "fileType": "misc",
+                        "launchBrowser": true,
+                        "isDownloadable": false
+                    },
+                    {
+                        "name": "Unit 3 VCAA past exam questions map",
+                        "description": "",
+                        "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=F2AC357E-702B-C141-A6A9-6FD992AE3704",
+                        "contentTypeValue": "document",
+                        "fileType": "misc",
+                        "launchBrowser": true,
+                        "isDownloadable": false
+                    },
+                    {
+                        "name": "Chapter 2 Cells and the composition of cells",
+                        "subtopic": [
+                            {
+                                "name": "Chapter 2 Online practical activity 2.3.1: The structure and regulation of biochemical pathways",
+                                "description": "",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=F6A16CEE-C82B-CA43-BB3C-3332B4971850",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 2 Online practical activity 2.3.1 teacher risk assessment",
+                                "description": "",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=0D12D50C-4B70-C143-A80E-9D86A8BB8F0F",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 2 Online practical activity 2.3.1 teacher notes and solutions",
+                                "description": "",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=45092F0D-561B-7749-9FC6-140F81D71B48",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chapter 4 DNA manipulation techniques and applications",
+                        "subtopic": [
+                            {
+                                "name": "Chapter 4 Online practical activity 4.1.1: DNA profiling",
+                                "description": "",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=1982B0F9-5185-C244-A686-D0F530F72A18",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 4 Online practical activity 4.1.1 teacher notes and solutions",
+                                "description": "",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=159AB2BC-D2F6-C84B-AA39-9F3D40082229",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 4 Online practical activity 4.2.1: The production of insulin",
+                                "description": "",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=08A6953D-71CE-8547-84FD-E1FD017BAB05",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 4 Online practical activity 4.2.1 teacher notes and solutions",
+                                "description": "",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=4C70A635-9864-CD4F-87F7-5DD0D403E500",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chapter 5 Regulation of biochemical pathways",
+                        "subtopic": [
+                            {
+                                "name": "Chapter 5 Online practical activity 5.1.1: Student-designed experiment (photosynthesis)",
+                                "description": "",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=34A2C2EF-A25F-F04F-BE11-E8B77CF3FEFC",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 5 Online practical activity 5.1.1 teacher notes and solutions",
+                                "description": "",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=5749FAA6-3807-D148-B6B5-3A463CA8D0CA",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 5 Online practical activity 5.1.2: Dynamic nature of photosynthesis",
+                                "description": "",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=489B571A-5538-4046-9C4D-CF005A72B9C5",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 5 Online practical activity 5.1.2 teacher risk assessment",
+                                "description": "",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=5B36150F-F64B-AB4D-BD3E-2B8B9BB7E637",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 5 Online practical activity 5.1.2 teacher notes and solutions",
+                                "description": "",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=C7A7E7DC-1B25-624E-96E9-30EE8E0F15AB",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            }
+                        ]
+                    }
+                ],
+                "relatedTo": [
+                    {
+                        "productId": "608269243ae98314d77d194a",
+                        "resourceType": "resource"
+                    }
+                ],
+                "limitByRoles": [
+                    "Teacher"
+                ]
+            },
+            {
+                "name": "Unit 4 How does life change and respond to challenges?",
+                "subtopic": [
+                    {
+                        "name": "Chapter 9 Acquiring immunity",
+                        "subtopic": [
+                            {
+                                "name": "Chapter 9 Online practical activity 9.3.1: Distinguishing between the different ways immunity may be acquired",
+                                "description": "",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=DF21381C-1FEF-D940-9A15-54CBB3B23ABB",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 9 Online practical activity 9.3.1 teacher notes and solutions",
+                                "description": "",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=8FE2C16F-57D7-5A44-8B2D-EB932BEF643C",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chapter 13 Determining the relatedness of species",
+                        "subtopic": [
+                            {
+                                "name": "Chapter 13 Online practical activity 13.1.1: Evidence for evolutionary change and its consequences",
+                                "description": "",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=E1A4F3C7-58AB-3B4A-A897-E03D24AABE14",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "Chapter 13 Online practical activity 13.1.1 teacher notes and solutions",
+                                "description": "",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=BF8EF21C-3474-F049-BFDE-AFD26CFA29B6",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            }
+                        ]
+                    }
+                ],
+                "description": "",
+                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=6DBCE703-A458-8949-A927-C5D7554D6DE6",
+                "contentTypeValue": "document",
+                "fileType": "misc",
+                "relatedTo": [
+                    {
+                        "productId": "608269243ae98314d77d194a",
+                        "resourceType": "resource"
+                    }
+                ],
+                "limitByRoles": [
+                    "Teacher"
+                ],
+                "launchBrowser": true,
+                "isDownloadable": false
+            },
+            {
+                "name": "Skills and assessment book resources",
+                "subtopic": [
+                    {
+                        "name": "Area of study 3 resources",
+                        "subtopic": [
+                            {
+                                "name": "SAB: Unit 4 AoS 3 sample logbook",
+                                "description": "",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=18E57684-914C-D444-9E44-835811EE5A29",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "SAB: Unit 4 AoS 3 logbook template",
+                                "description": "",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=94CC34DF-74B9-9344-8C4A-25F7008D39AB",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "SAB: Unit 4 AoS 3 sample poster",
+                                "description": "",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=B3A85805-7CF2-F444-8524-2D213E7B8C73",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "SAB: Unit 4 AoS 3 poster template",
+                                "description": "",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=7FB441F5-85B2-044B-ADC0-2B62E4C95D31",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "SAB: Unit 4 AoS 3 teacher notes",
+                                "description": "",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=BDC98BD4-0414-2848-A5FD-E52840E2B383",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "SAB: Unit 4 AoS 3 assessment rubric",
+                                "description": "",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=66F741C0-6D24-E144-ACB1-69C5DC6AD46C",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "SAB: Unit 4 AoS 3 student checklist",
+                                "description": "",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=62152A79-BEA6-3B4D-917B-D4A41C3E11FB",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "SAB: Unit 4 AoS 3 sample marking scheme",
+                                "description": "",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=ABCFF9CB-173A-884F-B79D-3D06B6BA73C2",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Exam question solutions",
+                        "subtopic": [
+                            {
+                                "name": "SAB: Unit 3 AoS 1 Exam question solutions",
+                                "description": "",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=829E507A-7B3A-D648-BDD6-34C7A7D9EE28",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "SAB: Unit 3 AoS 2 Exam question solutions",
+                                "description": "",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=3F192F0E-DB27-AF49-988A-4AFBC470855B",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "SAB: Unit 4 AoS 1 Exam question solutions",
+                                "description": "",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=7DBF5F50-E0C7-6245-8287-11509FC40CDD",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "SAB: Unit 4 AoS 2 Exam question solutions",
+                                "description": "",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=CE3FE378-E11B-764A-80F2-6E15BB4A925C",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Practical activity solutions",
+                        "subtopic": [
+                            {
+                                "name": "SAB: Unit 3 AoS 1 Practical activity solutions",
+                                "description": "",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=AFFB907D-CCC6-1A49-882C-92CF135054EF",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "SAB: Unit 3 AoS 2 Practical activity solutions",
+                                "description": "",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=04850D62-2949-3549-9CAA-BF937005C989",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "SAB: Unit 4 AoS 1 Practical activity solutions",
+                                "description": "",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=239EC2E8-7A40-F94A-93DE-575C5A3C68A9",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "SAB: Unit 4 AoS 2 Practical activity solutions",
+                                "description": "",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=C8EA1E2D-14D7-EB42-82CA-BA408C7543F2",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Practical activity teacher notes",
+                        "subtopic": [
+                            {
+                                "name": "SAB: Unit 3 AoS 1 Practical activity teacher notes",
+                                "description": "",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=00209F43-EAB4-D247-A1FB-826F4271367D",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "SAB: Unit 3 AoS 2 Practical activity teacher notes",
+                                "description": "",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=9F5D0CA9-1A8B-3F4F-AA8C-3F6362AB35C7",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "SAB: Unit 4 AoS 1 Practical activity teacher notes",
+                                "description": "",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=6244F828-15F1-D446-AFAA-210BC9DFC202",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "SAB: Unit 4 AoS 2 Practical activity teacher notes",
+                                "description": "",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=0AB7D115-2A84-B64C-A447-088703C9D6AC",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Practical activity teacher risk assessments",
+                        "subtopic": [
+                            {
+                                "name": "SAB: Practical activity risk assessment template",
+                                "description": "",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=647907A4-9656-6D48-8FA5-AB784616F3D5",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "SAB: Practical activity 5 teacher risk assessment",
+                                "description": "",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=B7DF382E-4841-5248-8FE0-4F75F5901005",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "SAB: Practical activity 6 teacher risk assessment",
+                                "description": "",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=94ED0427-56CC-E645-B21B-3DFC87E4EAF2",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "SAB: Practical activity 7 teacher risk assessment",
+                                "description": "",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=DA754354-AE95-E04D-883D-52651AB8664C",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "SAB: Practical activity 8 teacher risk assessment",
+                                "description": "",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=B03791CE-D3A8-F948-935A-E702CFB0C191",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "SAB: Practical activity 9 teacher risk assessment",
+                                "description": "",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=84C52581-B41F-9E48-8C62-26A1B9238063",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Practical activity lab technician's checklist & recipes",
+                        "subtopic": [
+                            {
+                                "name": "SAB: Unit 3 AoS 2 Practical activity technician's checklist & recipes",
+                                "description": "",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=81C746A6-4CBD-8B4E-9E1E-83A022A1761A",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "SAB: Unit 4 AoS 1 Practical activity technician's checklist & recipes",
+                                "description": "",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=54B4A42E-F23B-A441-915F-C9DEA344C91F",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Worksheet solutions",
+                        "subtopic": [
+                            {
+                                "name": "SAB: Unit 3 AoS 1 Worksheet solutions",
+                                "description": "",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=87A8BB3E-8376-8E4E-807A-ABA6E85E6947",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "SAB: Unit 3 AoS 2 Worksheet solutions",
+                                "description": "",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=9B1BC8D9-EC87-FB42-80BF-E03FCE6B0107",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "SAB: Unit 4 AoS 1 Worksheet solutions",
+                                "description": "",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=7719A6EC-CADA-A444-9AF9-6D24A3BE72FD",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            },
+                            {
+                                "name": "SAB: Unit 4 AoS 2 Worksheet solutions",
+                                "description": "",
+                                "url": "https://www.pearsonplaces.com.au/LinkClick.aspx?fileticket=393AA8DC-3318-9248-92BB-C81DE81C1024",
+                                "contentTypeValue": "document",
+                                "fileType": "misc",
+                                "launchBrowser": true,
+                                "isDownloadable": false
+                            }
+                        ]
+                    }
+                ],
+                "relatedTo": [
+                    {
+                        "productId": "608269243ae98314d77d194a",
+                        "resourceType": "resource"
+                    }
+                ],
+                "limitByRoles": [
+                    "Teacher"
+                ]
+            }
+        ]
+    }
+]

@@ -2,6 +2,7 @@
 ENVIRONMENT = "qa"  # type: ignore # prod/stg/qa
 
 QA_CONSTANTS = {
+    # 'TOKEN_URL'                 :   'https://piapi-internal.openclass.com/tokens',
     'TOKEN_URL'                 :   'https://login-stg.pearson.com/v1/piapi-int/login/webcredentials',
     'PRISM_TOC_API'             :   'https://prism-qa.pearsoned.com/api/contenttoc/v1/assets?',
     'PRISM_PAGE_MAPPING_API'    :   'https://prism-qa.pearsoned.com/api/contenttoc/v1/assets/page-mapping',
@@ -10,6 +11,6 @@ QA_CONSTANTS = {
     'RESOURCE_API'              :   'https://prism-qa.pearsoned.com/api/contenttoc/v1/assets/hotspot?',
 
     #PAPER API Specific
-    'TIBRON_USERNAME'   : "tiburon_system",
-    'TIBRON_PASSWORD'   : "pqGgHrjfetxH7rMKJuEqCJF3SPAE8CEQ",
+    # 'TIBRON_USERNAME'   : "tiburon_system",
+    # 'TIBRON_PASSWORD'   : "pqGgHrjfetxH7rMKJuEqCJF3SPAE8CEQ",
 }

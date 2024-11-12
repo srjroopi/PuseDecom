@@ -2,52 +2,52 @@
 import requests
 import constants as constant
 
-# API 1: Get token
-def get_token(username, password):
-    url = constant.TOKEN_URL
-    data = {'userName': username, 'password': password}
-    # print(data)
-    headers = {
-        'Content-Type':'application/json'
-        }
-    response = requests.post(url=url, headers=headers, json=data)
-    if response.status_code == 200 or response.status_code == 201:
-        # print('Token generated')
-        token = response.json()["data"]
-        return token
-    else:
-        # print(response)
-        # print('Token generation failed')
-        return None
-
 # # API 1: Get token
-# def post_token():
-#     url = f"{constant.TOKEN_URL}"
-#     # data = {'userName': username, 'password': password}
-#     print(url)
+# def post_token(username, password):
+#     url = constant.TOKEN_URL
+#     data = {'userName': username, 'password': password}
+#     # print(data)
 #     headers = {
-#         'Content-Type':'application/x-www-form-urlencoded'
+#         'Content-Type':'application/json'
 #         }
-#     body = {
-#         'client_id':'8GqRlWRMZFhfJ0R3XKCrG0jx9NQ6B3ho',
-#         'grant_type':'password',
-#         'username':'tsttch1@schstage264.com',
-#         'password':'Test@123',
-#         'isMobile':'true'
-#     }
-#     response = requests.post(url=url, headers=headers, data=body)
-#     print(response)
-#     if response.status_code in ( 200, 201 ):
-#         print('Token generated')
+#     response = requests.post(url=url, headers=headers, json=data)
+#     if response.status_code == 200 or response.status_code == 201:
+#         # print('Token generated')
 #         token = response.json()["data"]
-#         # print('token',token)
-#         access_token = token.get('access_token')
-#         # print(access_token)
-#         return access_token
+#         return token
 #     else:
 #         # print(response)
 #         # print('Token generation failed')
 #         return None
+
+# API 1: Get token
+def post_token():
+    url = f"{constant.TOKEN_URL}"
+    # data = {'userName': username, 'password': password}
+    # print(url)
+    headers = {
+        'Content-Type':'application/x-www-form-urlencoded'
+        }
+    body = {
+        'client_id':'8GqRlWRMZFhfJ0R3XKCrG0jx9NQ6B3ho',
+        'grant_type':'password',
+        'username':'tsttch1@schstage264.com',
+        'password':'Test@123',
+        'isMobile':'true'
+    }
+    response = requests.post(url=url, headers=headers, data=body)
+    # print(response)
+    if response.status_code in ( 200, 201 ):
+        # print('Token generated')
+        token = response.json()["data"]
+        # print('token',token)
+        access_token = token.get('access_token')
+        # print(access_token)
+        return access_token
+    else:
+        # print(response)
+        # print('Token generation failed')
+        return None
 
 # API 2: Get PRISM_TOC_response
 def get_PRISM_TOC_response(token, productId):
@@ -65,7 +65,7 @@ def get_PRISM_TOC_response(token, productId):
     # print(response)
     if response.status_code == 200 or response.status_code == 201:
         response_data = response.json()
-        print('passed')
+        # print('passed')
         return response_data
     else:
         print('not passed')

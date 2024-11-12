@@ -4,7 +4,7 @@ import os
 
 # Save response as JSON file
 def save_JSON_response(file_name, data):
-    file_path = os.path.join('TOC', file_name)
+    file_path = os.path.join('Responses', file_name)
     with open(file_path, "w") as file:
         json.dump(data, file, indent=4)
     # print(f"Response saved to {file_path}")
