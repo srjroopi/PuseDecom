@@ -1,0 +1,4303 @@
+[
+    {
+        "bookId": "60ff9a120e429e21ee07cce3",
+        "productId": "60ff996c0e429e21ee07cce2",
+        "assetType": "page-mapping",
+        "productModel": "RPLUS_EPUB",
+        "productPlatformCode": "ETEXT",
+        "serverUpdatedDateTime": "1729852256925",
+        "lastUpdatedDateTime": "1729852256925",
+        "children": [
+            {
+                "pageId": "html0",
+                "playOrder": "1",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page1.xhtml",
+                "pageNumberUrn": "65103415-45e6-4552-82e1-6cce84d89aa1",
+                "pageNo": "Cover",
+                "pageTitle": "Page1",
+                "type": "slate",
+                "csgReferenceId": "110793bb-428b-4b16-a97f-57f898944578"
+            },
+            {
+                "pageId": "html1",
+                "playOrder": "2",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page2.xhtml",
+                "pageNumberUrn": "d817b9c9-0b59-4a68-adb0-b7fca6bdde41",
+                "pageNo": "Blank",
+                "pageTitle": "Page2",
+                "type": "slate",
+                "csgReferenceId": "aa9a27a3-e549-48f8-bd79-453e0442cf04"
+            },
+            {
+                "pageId": "html2",
+                "playOrder": "3",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page3.xhtml",
+                "pageNumberUrn": "964b3431-0281-4bd1-946d-bef553c7fead",
+                "pageNo": "i",
+                "pageTitle": "Preliminary pages",
+                "type": "slate",
+                "csgReferenceId": "69f4e67b-59b3-4aa3-89ac-f8e31b927a74"
+            },
+            {
+                "pageId": "html3",
+                "playOrder": "4",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page4.xhtml",
+                "pageNumberUrn": "591d3011-92e7-4ad8-b842-3b365b5b9edd",
+                "pageNo": "ii",
+                "pageTitle": "Page4",
+                "type": "slate",
+                "csgReferenceId": "f022c2ef-9fd9-4ec4-913e-9cf5e614b162"
+            },
+            {
+                "pageId": "html4",
+                "playOrder": "5",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page5.xhtml",
+                "pageNumberUrn": "14862cb5-b131-4124-8b66-96f7e94eb416",
+                "pageNo": "iii",
+                "pageTitle": "Writing and development team",
+                "type": "slate",
+                "csgReferenceId": "cce5d57d-1550-4148-ba38-4ca6070d760f"
+            },
+            {
+                "pageId": "html5",
+                "playOrder": "6",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page6.xhtml",
+                "pageNumberUrn": "f2fa0b0f-bb6d-4e64-ac25-540345e62945",
+                "pageNo": "iv",
+                "pageTitle": "Contents",
+                "type": "slate",
+                "csgReferenceId": "bd6fa894-1591-429e-8a38-336b150b077f"
+            },
+            {
+                "pageId": "html6",
+                "playOrder": "7",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page7.xhtml",
+                "pageNumberUrn": "a34f2f5a-f729-4f36-b29a-80164bb909e9",
+                "pageNo": "v",
+                "pageTitle": "Page7",
+                "type": "slate",
+                "csgReferenceId": "058756e3-066c-4cc6-b85f-7d6ca48f6bd1"
+            },
+            {
+                "pageId": "html7",
+                "playOrder": "8",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page8.xhtml",
+                "pageNumberUrn": "34c95af5-5f29-4e75-b45d-3e780ce8d7af",
+                "pageNo": "vi",
+                "pageTitle": "How to use this book",
+                "type": "slate",
+                "csgReferenceId": "fb544aab-e1e3-4c59-bd26-c444a1f7076c"
+            },
+            {
+                "pageId": "html8",
+                "playOrder": "9",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page9.xhtml",
+                "pageNumberUrn": "a237665e-e4ac-4349-b848-fbbff108a2c2",
+                "pageNo": "vii",
+                "pageTitle": "Page9",
+                "type": "slate",
+                "csgReferenceId": "7ea83dbd-e608-4526-ac64-803cf17ee256"
+            },
+            {
+                "pageId": "html9",
+                "playOrder": "10",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page10.xhtml",
+                "pageNumberUrn": "e2c52c25-c50d-4b45-a5eb-cca5ff7d6d3a",
+                "pageNo": "viii",
+                "pageTitle": "Heinemann Biology 6th edition",
+                "type": "slate",
+                "csgReferenceId": "d8caaec6-558b-4909-a3be-2419b6b14dce"
+            },
+            {
+                "pageId": "html10",
+                "playOrder": "11",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page11.xhtml",
+                "pageNumberUrn": "c692b017-3129-4cd9-aa86-4d29db0094f1",
+                "pageNo": "ix",
+                "pageTitle": "Page11",
+                "type": "slate",
+                "csgReferenceId": "1784c9cd-a018-4f91-8f37-8c4584491fc6"
+            },
+            {
+                "pageId": "html11",
+                "playOrder": "12",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page12.xhtml",
+                "pageNumberUrn": "9b158c26-3e01-43dc-9e26-d1a0eca7b715",
+                "pageNo": "x",
+                "pageTitle": "Page12",
+                "type": "slate",
+                "csgReferenceId": "ecca5861-8acf-441d-9159-bdea7859148c"
+            },
+            {
+                "pageId": "html12",
+                "playOrder": "13",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page13.xhtml",
+                "pageNumberUrn": "d3e25a9d-90ff-49da-a3c3-fb5d882f7111",
+                "pageNo": "1",
+                "pageTitle": "Chapter 1 Scientific investigation",
+                "type": "slate",
+                "csgReferenceId": "7d708a5e-0208-4834-a96b-807652e4a03a"
+            },
+            {
+                "pageId": "html13",
+                "playOrder": "14",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page14.xhtml",
+                "pageNumberUrn": "59df3b18-e9af-46e6-8960-eeef88bf9bfc",
+                "pageNo": "2",
+                "pageTitle": "Page14",
+                "type": "slate",
+                "csgReferenceId": "6834c4bf-557a-400d-9cfc-1e3bd2d5dc35"
+            },
+            {
+                "pageId": "html14",
+                "playOrder": "15",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page15.xhtml",
+                "pageNumberUrn": "6edeef50-eba5-48c0-ab35-bd6c505a1d93",
+                "pageNo": "3",
+                "pageTitle": "1.1 The scientific method",
+                "type": "slate",
+                "csgReferenceId": "6a9fec0c-b60b-4356-bd6d-7c8f518406f0"
+            },
+            {
+                "pageId": "html15",
+                "playOrder": "16",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page16.xhtml",
+                "pageNumberUrn": "8a1f869d-4b7e-4bbc-a5ba-f5c9f3f1bec7",
+                "pageNo": "4",
+                "pageTitle": "Page16",
+                "type": "slate",
+                "csgReferenceId": "e0ad36e0-b8b7-49b3-858e-43516020ad3b"
+            },
+            {
+                "pageId": "html16",
+                "playOrder": "17",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page17.xhtml",
+                "pageNumberUrn": "4264e2b5-7381-4fd3-baa1-2b3095072f68",
+                "pageNo": "5",
+                "pageTitle": "Page17",
+                "type": "slate",
+                "csgReferenceId": "26a747d5-4b21-44be-aaa7-e68c13804d59"
+            },
+            {
+                "pageId": "html17",
+                "playOrder": "18",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page18.xhtml",
+                "pageNumberUrn": "3f732b9e-f90c-4af5-a72b-08ce3a2ae0d1",
+                "pageNo": "6",
+                "pageTitle": "Page18",
+                "type": "slate",
+                "csgReferenceId": "eb7965ce-b5d1-4d41-8e42-d3c7843c4c06"
+            },
+            {
+                "pageId": "html18",
+                "playOrder": "19",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page19.xhtml",
+                "pageNumberUrn": "a0d0c687-3277-4b3c-9d13-802d7db9ddce",
+                "pageNo": "7",
+                "pageTitle": "Page19",
+                "type": "slate",
+                "csgReferenceId": "f4fb9801-f4f6-4cb4-9215-f4cb1111215a"
+            },
+            {
+                "pageId": "html19",
+                "playOrder": "20",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page20.xhtml",
+                "pageNumberUrn": "5476203f-9ec0-49eb-a5a4-e83add6006f3",
+                "pageNo": "8",
+                "pageTitle": "Page20",
+                "type": "slate",
+                "csgReferenceId": "89371218-00a7-4c04-a90f-fdf2eab6c873"
+            },
+            {
+                "pageId": "html20",
+                "playOrder": "21",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page21.xhtml",
+                "pageNumberUrn": "76ee1fdd-6f6d-4f9c-a317-eccafc326eeb",
+                "pageNo": "9",
+                "pageTitle": "Page21",
+                "type": "slate",
+                "csgReferenceId": "ee714417-d181-4f72-843d-587bc80d90a8"
+            },
+            {
+                "pageId": "html21",
+                "playOrder": "22",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page22.xhtml",
+                "pageNumberUrn": "a7c268b1-3f64-46b7-8241-ef1a173dbe41",
+                "pageNo": "10",
+                "pageTitle": "Page22",
+                "type": "slate",
+                "csgReferenceId": "7fadde3c-077c-4e16-a081-510599d6a495"
+            },
+            {
+                "pageId": "html22",
+                "playOrder": "23",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page23.xhtml",
+                "pageNumberUrn": "156df2a5-22b7-4156-a594-7c84c1633c08",
+                "pageNo": "11",
+                "pageTitle": "1.2 Planning investigations",
+                "type": "slate",
+                "csgReferenceId": "6e161e4c-3de7-4abe-b780-09d96af3d73f"
+            },
+            {
+                "pageId": "html23",
+                "playOrder": "24",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page24.xhtml",
+                "pageNumberUrn": "6db0113d-7300-4b88-9f70-425b74c372ca",
+                "pageNo": "12",
+                "pageTitle": "Page24",
+                "type": "slate",
+                "csgReferenceId": "534ea531-8ae1-401d-abb3-788f6544eb1d"
+            },
+            {
+                "pageId": "html24",
+                "playOrder": "25",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page25.xhtml",
+                "pageNumberUrn": "9a4133a5-6b0e-4f31-914b-1a1af04c72c2",
+                "pageNo": "13",
+                "pageTitle": "Page25",
+                "type": "slate",
+                "csgReferenceId": "20c13c8f-cb44-4753-8a34-df79fc6cb7c7"
+            },
+            {
+                "pageId": "html25",
+                "playOrder": "26",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page26.xhtml",
+                "pageNumberUrn": "403bc8b7-688d-4e2d-88ff-96382b15eb0d",
+                "pageNo": "14",
+                "pageTitle": "Page26",
+                "type": "slate",
+                "csgReferenceId": "313c6793-4727-4a03-b3f1-82e0381c00cd"
+            },
+            {
+                "pageId": "html26",
+                "playOrder": "27",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page27.xhtml",
+                "pageNumberUrn": "221e4ebb-495b-4c18-98da-9020160ec278",
+                "pageNo": "15",
+                "pageTitle": "Page27",
+                "type": "slate",
+                "csgReferenceId": "4e09d6ce-3e5a-4527-ab9e-cdc6602e9631"
+            },
+            {
+                "pageId": "html27",
+                "playOrder": "28",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page28.xhtml",
+                "pageNumberUrn": "d220afbc-d264-42d3-b87d-9c0bbeb7c4cc",
+                "pageNo": "16",
+                "pageTitle": "Page28",
+                "type": "slate",
+                "csgReferenceId": "e38dc70e-64ad-4481-a77b-0aaa91c08972"
+            },
+            {
+                "pageId": "html28",
+                "playOrder": "29",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page29.xhtml",
+                "pageNumberUrn": "ec8d3202-8580-4c20-89f9-7e54c4af468f",
+                "pageNo": "17",
+                "pageTitle": "Page29",
+                "type": "slate",
+                "csgReferenceId": "223da934-8924-4f33-91be-bd52a06642f1"
+            },
+            {
+                "pageId": "html29",
+                "playOrder": "30",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page30.xhtml",
+                "pageNumberUrn": "72244ca9-2fd1-445f-ac75-04ee9b8311bc",
+                "pageNo": "18",
+                "pageTitle": "Page30",
+                "type": "slate",
+                "csgReferenceId": "44517de3-58fa-49be-b389-8c1ccd0d9e58"
+            },
+            {
+                "pageId": "html30",
+                "playOrder": "31",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page31.xhtml",
+                "pageNumberUrn": "e58597ed-4cb7-4f2b-b9b8-32805c4810c9",
+                "pageNo": "19",
+                "pageTitle": "Page31",
+                "type": "slate",
+                "csgReferenceId": "9b28421e-5df9-4ea4-91aa-8d9fffc36b22"
+            },
+            {
+                "pageId": "html31",
+                "playOrder": "32",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page32.xhtml",
+                "pageNumberUrn": "201618a9-4601-475f-ba74-cd8ddc7872b0",
+                "pageNo": "20",
+                "pageTitle": "Page32",
+                "type": "slate",
+                "csgReferenceId": "956afc9e-6107-4598-a169-424dd07c1998"
+            },
+            {
+                "pageId": "html32",
+                "playOrder": "33",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page33.xhtml",
+                "pageNumberUrn": "73552102-a76f-40c5-86ae-34cf84a4d30e",
+                "pageNo": "21",
+                "pageTitle": "1.3 Techniques used in scientific investigations",
+                "type": "slate",
+                "csgReferenceId": "faf24d5e-420c-4f4c-8fb2-b237401d58be"
+            },
+            {
+                "pageId": "html33",
+                "playOrder": "34",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page34.xhtml",
+                "pageNumberUrn": "d4a7942b-c1ec-4056-937e-6a724770a798",
+                "pageNo": "22",
+                "pageTitle": "Page34",
+                "type": "slate",
+                "csgReferenceId": "50406163-ea22-4546-b87e-3d013066047b"
+            },
+            {
+                "pageId": "html34",
+                "playOrder": "35",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page35.xhtml",
+                "pageNumberUrn": "860b887b-2081-4081-87ee-b222f8b07f28",
+                "pageNo": "23",
+                "pageTitle": "Page35",
+                "type": "slate",
+                "csgReferenceId": "c3c3c10b-c75a-42ed-95f0-77744196ba0d"
+            },
+            {
+                "pageId": "html35",
+                "playOrder": "36",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page36.xhtml",
+                "pageNumberUrn": "fd168802-5c87-4409-9665-bc75b01e8a1d",
+                "pageNo": "24",
+                "pageTitle": "Page36",
+                "type": "slate",
+                "csgReferenceId": "377edeb1-a47b-4f3b-ba3e-2c08fdd8c122"
+            },
+            {
+                "pageId": "html36",
+                "playOrder": "37",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page37.xhtml",
+                "pageNumberUrn": "1eba825a-9a54-458e-a390-e77ed31705c9",
+                "pageNo": "25",
+                "pageTitle": "Page37",
+                "type": "slate",
+                "csgReferenceId": "0cea2913-9f44-4651-b59b-e433170fed9f"
+            },
+            {
+                "pageId": "html37",
+                "playOrder": "38",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page38.xhtml",
+                "pageNumberUrn": "ab4727d1-135f-4914-90ef-e6b4bb2b2aed",
+                "pageNo": "26",
+                "pageTitle": "Page38",
+                "type": "slate",
+                "csgReferenceId": "c56ed559-17bc-433a-8ec1-7c7aa89c7d54"
+            },
+            {
+                "pageId": "html38",
+                "playOrder": "39",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page39.xhtml",
+                "pageNumberUrn": "8b8027a4-b989-4de9-b039-5f3fa4636f98",
+                "pageNo": "27",
+                "pageTitle": "Page39",
+                "type": "slate",
+                "csgReferenceId": "b21c4c28-b300-47cf-b77f-11791cf499af"
+            },
+            {
+                "pageId": "html39",
+                "playOrder": "40",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page40.xhtml",
+                "pageNumberUrn": "64e2aa33-e1d3-43eb-9647-b41e92a471d8",
+                "pageNo": "28",
+                "pageTitle": "Page40",
+                "type": "slate",
+                "csgReferenceId": "c8ae48af-4466-46b9-a32c-500af59d851f"
+            },
+            {
+                "pageId": "html40",
+                "playOrder": "41",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page41.xhtml",
+                "pageNumberUrn": "6b6fd457-1a53-42e1-83d5-826cc8ceb4cf",
+                "pageNo": "29",
+                "pageTitle": "Page41",
+                "type": "slate",
+                "csgReferenceId": "7462883b-c6c5-4da3-8c97-fe79f0a70a68"
+            },
+            {
+                "pageId": "html41",
+                "playOrder": "42",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page42.xhtml",
+                "pageNumberUrn": "86b5d523-8b28-4915-af9c-26553436e809",
+                "pageNo": "30",
+                "pageTitle": "Page42",
+                "type": "slate",
+                "csgReferenceId": "7e9dfaad-8a40-4b67-971b-3d9f8fabe23a"
+            },
+            {
+                "pageId": "html42",
+                "playOrder": "43",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page43.xhtml",
+                "pageNumberUrn": "e97e9a0e-97e0-42b4-b71a-09832cda85f0",
+                "pageNo": "31",
+                "pageTitle": "Page43",
+                "type": "slate",
+                "csgReferenceId": "adde2b66-43f9-4ec9-b717-472955007bac"
+            },
+            {
+                "pageId": "html43",
+                "playOrder": "44",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page44.xhtml",
+                "pageNumberUrn": "5d04fa69-e5a9-4416-bf73-9facd3812ada",
+                "pageNo": "32",
+                "pageTitle": "Page44",
+                "type": "slate",
+                "csgReferenceId": "7eb07c31-c71c-4f85-8452-aae2d8adf6f6"
+            },
+            {
+                "pageId": "html44",
+                "playOrder": "45",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page45.xhtml",
+                "pageNumberUrn": "d562b184-219c-4c21-8854-e170eb08b7be",
+                "pageNo": "33",
+                "pageTitle": "1.4 Data collection and quality",
+                "type": "slate",
+                "csgReferenceId": "8420bd71-3ec8-4118-b9b8-c434c83e08f3"
+            },
+            {
+                "pageId": "html45",
+                "playOrder": "46",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page46.xhtml",
+                "pageNumberUrn": "a9ea5cc5-f9cb-439c-a2ab-020daddbf0a2",
+                "pageNo": "34",
+                "pageTitle": "Page46",
+                "type": "slate",
+                "csgReferenceId": "967e34a7-a79b-4703-a028-7fa00d5ef578"
+            },
+            {
+                "pageId": "html46",
+                "playOrder": "47",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page47.xhtml",
+                "pageNumberUrn": "2404ca1e-1b5c-4912-a3bd-799979687e38",
+                "pageNo": "35",
+                "pageTitle": "Page47",
+                "type": "slate",
+                "csgReferenceId": "1fe1529f-d860-4bf6-8d10-e061b2429c3b"
+            },
+            {
+                "pageId": "html47",
+                "playOrder": "48",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page48.xhtml",
+                "pageNumberUrn": "68567930-8c42-4fa4-b89a-84d30057fa35",
+                "pageNo": "36",
+                "pageTitle": "Page48",
+                "type": "slate",
+                "csgReferenceId": "6253a21d-7b12-4bca-9572-3eadd002b518"
+            },
+            {
+                "pageId": "html48",
+                "playOrder": "49",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page49.xhtml",
+                "pageNumberUrn": "76329a6f-a95b-4866-a1e6-9e6196ebcced",
+                "pageNo": "37",
+                "pageTitle": "Page49",
+                "type": "slate",
+                "csgReferenceId": "c7e29ced-ffbe-40d9-aade-e88047313659"
+            },
+            {
+                "pageId": "html49",
+                "playOrder": "50",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page50.xhtml",
+                "pageNumberUrn": "855756f4-ef16-4bfa-9b47-cb6592dd086c",
+                "pageNo": "38",
+                "pageTitle": "Page50",
+                "type": "slate",
+                "csgReferenceId": "3d21091e-0b69-47c7-9ff5-5781681887b8"
+            },
+            {
+                "pageId": "html50",
+                "playOrder": "51",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page51.xhtml",
+                "pageNumberUrn": "d5dd0bc0-4074-4a1b-a2c7-a71217aec49e",
+                "pageNo": "39",
+                "pageTitle": "Page51",
+                "type": "slate",
+                "csgReferenceId": "e1459ce4-4584-490e-9905-6872addb8228"
+            },
+            {
+                "pageId": "html51",
+                "playOrder": "52",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page52.xhtml",
+                "pageNumberUrn": "f76b8599-8f11-4216-85fc-ac9d5e5aa566",
+                "pageNo": "40",
+                "pageTitle": "Page52",
+                "type": "slate",
+                "csgReferenceId": "d55d6a4a-bab7-4a17-89bc-36da271a278a"
+            },
+            {
+                "pageId": "html52",
+                "playOrder": "53",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page53.xhtml",
+                "pageNumberUrn": "529ac47c-3345-4a67-bce9-b1f13d6b0a0b",
+                "pageNo": "41",
+                "pageTitle": "Page53",
+                "type": "slate",
+                "csgReferenceId": "eef2330d-0489-4297-bea9-a15d341d0973"
+            },
+            {
+                "pageId": "html53",
+                "playOrder": "54",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page54.xhtml",
+                "pageNumberUrn": "4ae748a8-74c4-4941-8f75-1db803817216",
+                "pageNo": "42",
+                "pageTitle": "1.5 Data analysis and presentation",
+                "type": "slate",
+                "csgReferenceId": "df02285d-0278-440e-afa0-653fbcfe1165"
+            },
+            {
+                "pageId": "html54",
+                "playOrder": "55",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page55.xhtml",
+                "pageNumberUrn": "2d90e9c9-87a0-4104-bf55-6b227ca8cf1a",
+                "pageNo": "43",
+                "pageTitle": "Page55",
+                "type": "slate",
+                "csgReferenceId": "d03c989e-a4bf-42f6-bf9d-655ec2ecfe73"
+            },
+            {
+                "pageId": "html55",
+                "playOrder": "56",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page56.xhtml",
+                "pageNumberUrn": "d11af647-d813-4df6-98ba-bf87a0ec8f78",
+                "pageNo": "44",
+                "pageTitle": "Page56",
+                "type": "slate",
+                "csgReferenceId": "1668c5b6-4602-4b74-b900-3880e530d8a6"
+            },
+            {
+                "pageId": "html56",
+                "playOrder": "57",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page57.xhtml",
+                "pageNumberUrn": "82e085ef-00a8-445e-91e4-1e8467acbf01",
+                "pageNo": "45",
+                "pageTitle": "Page57",
+                "type": "slate",
+                "csgReferenceId": "93cef995-4f5e-4ee9-8884-71746628e800"
+            },
+            {
+                "pageId": "html57",
+                "playOrder": "58",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page58.xhtml",
+                "pageNumberUrn": "803e476b-6b61-4054-9a14-673edf1a6cb6",
+                "pageNo": "46",
+                "pageTitle": "Page58",
+                "type": "slate",
+                "csgReferenceId": "519b746c-e369-40f6-927b-37d93d1d12fe"
+            },
+            {
+                "pageId": "html58",
+                "playOrder": "59",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page59.xhtml",
+                "pageNumberUrn": "ff555043-e099-4177-9e6b-4c2f64b3f6bb",
+                "pageNo": "47",
+                "pageTitle": "Page59",
+                "type": "slate",
+                "csgReferenceId": "22687fd0-99cf-4f37-a375-4910c627a9b6"
+            },
+            {
+                "pageId": "html59",
+                "playOrder": "60",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page60.xhtml",
+                "pageNumberUrn": "55fcda8e-9111-4eb5-91dc-f3f5cb59e92c",
+                "pageNo": "48",
+                "pageTitle": "Page60",
+                "type": "slate",
+                "csgReferenceId": "a3e6a59c-adc2-4ea2-ae2c-52a43c4a9366"
+            },
+            {
+                "pageId": "html60",
+                "playOrder": "61",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page61.xhtml",
+                "pageNumberUrn": "73435949-a1b9-4ce8-8602-c3f1a2e9e803",
+                "pageNo": "49",
+                "pageTitle": "Page61",
+                "type": "slate",
+                "csgReferenceId": "ab0620ce-b621-41dd-b7cd-bfb7e9fc0e9b"
+            },
+            {
+                "pageId": "html61",
+                "playOrder": "62",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page62.xhtml",
+                "pageNumberUrn": "44b36f8f-e7d8-4b9e-ac53-ba24dd7ecd56",
+                "pageNo": "50",
+                "pageTitle": "Page62",
+                "type": "slate",
+                "csgReferenceId": "6957e76b-9271-468a-b748-c02c48c8fa9b"
+            },
+            {
+                "pageId": "html62",
+                "playOrder": "63",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page63.xhtml",
+                "pageNumberUrn": "c8030c6d-5cb4-43f5-921d-cbd98fc12d7f",
+                "pageNo": "51",
+                "pageTitle": "Page63",
+                "type": "slate",
+                "csgReferenceId": "1443d014-5e60-4d7e-8aac-d3aca580f80f"
+            },
+            {
+                "pageId": "html63",
+                "playOrder": "64",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page64.xhtml",
+                "pageNumberUrn": "97ae0c4c-88b1-40df-b96a-bc7c9d05e7d9",
+                "pageNo": "52",
+                "pageTitle": "Page64",
+                "type": "slate",
+                "csgReferenceId": "9d6afbce-ef2d-45e9-95c1-6458ad9724de"
+            },
+            {
+                "pageId": "html64",
+                "playOrder": "65",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page65.xhtml",
+                "pageNumberUrn": "f4007cf4-9bc9-4c93-9f5a-6eb058830931",
+                "pageNo": "53",
+                "pageTitle": "Page65",
+                "type": "slate",
+                "csgReferenceId": "73879a6c-1197-4735-9ec2-3bfbaad6c123"
+            },
+            {
+                "pageId": "html65",
+                "playOrder": "66",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page66.xhtml",
+                "pageNumberUrn": "b59d6a6b-24ce-47bd-99c8-24cf8e594cb8",
+                "pageNo": "54",
+                "pageTitle": "Page66",
+                "type": "slate",
+                "csgReferenceId": "e8feb0ab-08da-4fa9-b7da-34ecfa6ad5b2"
+            },
+            {
+                "pageId": "html66",
+                "playOrder": "67",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page67.xhtml",
+                "pageNumberUrn": "5cfc7963-fca5-4526-be47-e2bd6807676d",
+                "pageNo": "55",
+                "pageTitle": "1.6 Reporting investigations",
+                "type": "slate",
+                "csgReferenceId": "b9dd17d8-8225-4aa6-ac62-6c2dec4e5566"
+            },
+            {
+                "pageId": "html67",
+                "playOrder": "68",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page68.xhtml",
+                "pageNumberUrn": "7b9fc368-3fd1-441f-9904-3394e704f3fb",
+                "pageNo": "56",
+                "pageTitle": "Page68",
+                "type": "slate",
+                "csgReferenceId": "36f923e3-069e-4378-8818-8346ddb68299"
+            },
+            {
+                "pageId": "html68",
+                "playOrder": "69",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page69.xhtml",
+                "pageNumberUrn": "750bc3a9-6b33-4d76-9d1c-4ce111e50a7f",
+                "pageNo": "57",
+                "pageTitle": "Page69",
+                "type": "slate",
+                "csgReferenceId": "e5decbcd-7a8b-4b1f-8104-c351a2702f28"
+            },
+            {
+                "pageId": "html69",
+                "playOrder": "70",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page70.xhtml",
+                "pageNumberUrn": "2fe256df-4895-49c1-a4b7-ba7538f95722",
+                "pageNo": "58",
+                "pageTitle": "Page70",
+                "type": "slate",
+                "csgReferenceId": "434d0cdb-9032-45cc-9f07-c01c52af673d"
+            },
+            {
+                "pageId": "html70",
+                "playOrder": "71",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page71.xhtml",
+                "pageNumberUrn": "2b879e3a-8d44-4c01-9ca4-69414b674e0d",
+                "pageNo": "59",
+                "pageTitle": "Page71",
+                "type": "slate",
+                "csgReferenceId": "2758ae0a-7596-452f-aac3-132d938f1787"
+            },
+            {
+                "pageId": "html71",
+                "playOrder": "72",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page72.xhtml",
+                "pageNumberUrn": "65201fc2-67e7-413f-b076-ab7d2c3151e5",
+                "pageNo": "60",
+                "pageTitle": "Page72",
+                "type": "slate",
+                "csgReferenceId": "44ea264d-108c-4e29-ba68-7cebb8e81e22"
+            },
+            {
+                "pageId": "html72",
+                "playOrder": "73",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page73.xhtml",
+                "pageNumberUrn": "d4a2a034-b8c1-4dde-8e2b-4edb3cdd6fd2",
+                "pageNo": "61",
+                "pageTitle": "Page73",
+                "type": "slate",
+                "csgReferenceId": "4cebe03a-5f94-4390-84c1-a5bb1cc9ee82"
+            },
+            {
+                "pageId": "html73",
+                "playOrder": "74",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page74.xhtml",
+                "pageNumberUrn": "a70224b5-9ae0-4628-aa5a-033b446d195c",
+                "pageNo": "62",
+                "pageTitle": "Page74",
+                "type": "slate",
+                "csgReferenceId": "45562f46-d895-44c5-8d4d-9b1fdee53d99"
+            },
+            {
+                "pageId": "html74",
+                "playOrder": "75",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page75.xhtml",
+                "pageNumberUrn": "85e039cb-56d9-4c4d-8633-2b8103775cce",
+                "pageNo": "63",
+                "pageTitle": "Page75",
+                "type": "slate",
+                "csgReferenceId": "fd029232-0899-4922-9d9f-7885e86ec365"
+            },
+            {
+                "pageId": "html75",
+                "playOrder": "76",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page76.xhtml",
+                "pageNumberUrn": "e11a163c-7625-4cde-b33f-f979945d915d",
+                "pageNo": "64",
+                "pageTitle": "Page76",
+                "type": "slate",
+                "csgReferenceId": "a8045bfd-09be-4420-8004-351ad3eff170"
+            },
+            {
+                "pageId": "html76",
+                "playOrder": "77",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page77.xhtml",
+                "pageNumberUrn": "935fd5b0-5837-41d2-8d7a-ad78e86e4bca",
+                "pageNo": "65",
+                "pageTitle": "Page77",
+                "type": "slate",
+                "csgReferenceId": "008620da-ff38-4891-bd26-f7805c02665b"
+            },
+            {
+                "pageId": "html77",
+                "playOrder": "78",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page78.xhtml",
+                "pageNumberUrn": "f466270e-c996-49b7-8115-7b561225f1b4",
+                "pageNo": "66",
+                "pageTitle": "Page78",
+                "type": "slate",
+                "csgReferenceId": "aa3192c7-4456-4779-bbb2-3c4ab7f7a1a1"
+            },
+            {
+                "pageId": "html78",
+                "playOrder": "79",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page79.xhtml",
+                "pageNumberUrn": "8dd6e6cd-cac8-46c8-a724-35eeebc156ef",
+                "pageNo": "67",
+                "pageTitle": "Page79",
+                "type": "slate",
+                "csgReferenceId": "e4a57116-1b2f-452e-a7ce-9738577474b3"
+            },
+            {
+                "pageId": "html79",
+                "playOrder": "80",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page80.xhtml",
+                "pageNumberUrn": "14143764-f1a1-4ca4-a137-e733ebf541f1",
+                "pageNo": "68",
+                "pageTitle": "Page80",
+                "type": "slate",
+                "csgReferenceId": "96f1ea46-ac0c-4755-8afb-063a3aa9929f"
+            },
+            {
+                "pageId": "html80",
+                "playOrder": "81",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page81.xhtml",
+                "pageNumberUrn": "7007620b-4c57-4928-b4b7-60f2f3826089",
+                "pageNo": "69",
+                "pageTitle": "Unit 1 How do organisms regulate their functions?",
+                "type": "slate",
+                "csgReferenceId": "c6491156-beb2-4a44-9af7-a25f5bbdb3eb"
+            },
+            {
+                "pageId": "html81",
+                "playOrder": "82",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page82.xhtml",
+                "pageNumberUrn": "319ab90e-28ad-4469-a14e-936045ee09c8",
+                "pageNo": "70",
+                "pageTitle": "Page82",
+                "type": "slate",
+                "csgReferenceId": "678f1eb8-a153-40f2-a987-303620016cc8"
+            },
+            {
+                "pageId": "html82",
+                "playOrder": "83",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page83.xhtml",
+                "pageNumberUrn": "205d8881-78ed-44b1-ac61-8fc33251a6f8",
+                "pageNo": "71",
+                "pageTitle": "Chapter 2 Cellular structure and function",
+                "type": "slate",
+                "csgReferenceId": "5cfcc326-149d-4400-92da-b3d6a67d077e"
+            },
+            {
+                "pageId": "html83",
+                "playOrder": "84",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page84.xhtml",
+                "pageNumberUrn": "e0236c2a-5a5b-410f-8dc2-b9d382482ce9",
+                "pageNo": "72",
+                "pageTitle": "2.1 Cell types",
+                "type": "slate",
+                "csgReferenceId": "9a33ce7b-ea30-41d0-950b-73b50a6edf16"
+            },
+            {
+                "pageId": "html84",
+                "playOrder": "85",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page85.xhtml",
+                "pageNumberUrn": "34bf5119-43e9-4ff3-9309-33e854b2aa6a",
+                "pageNo": "73",
+                "pageTitle": "Page85",
+                "type": "slate",
+                "csgReferenceId": "08002326-b62a-409a-a507-e751188f7245"
+            },
+            {
+                "pageId": "html85",
+                "playOrder": "86",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page86.xhtml",
+                "pageNumberUrn": "9a472c5e-3093-4448-b9eb-4dbe59b85106",
+                "pageNo": "74",
+                "pageTitle": "Page86",
+                "type": "slate",
+                "csgReferenceId": "35bf0e00-b0ee-4a88-8eb8-638605959bf1"
+            },
+            {
+                "pageId": "html86",
+                "playOrder": "87",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page87.xhtml",
+                "pageNumberUrn": "d180909d-4d36-48e9-ba37-f5c66f54f011",
+                "pageNo": "75",
+                "pageTitle": "Page87",
+                "type": "slate",
+                "csgReferenceId": "1a329407-43b3-4783-a399-0ebf44c75e54"
+            },
+            {
+                "pageId": "html87",
+                "playOrder": "88",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page88.xhtml",
+                "pageNumberUrn": "e0bfc934-af79-49f2-9c19-ca24da5b64e0",
+                "pageNo": "76",
+                "pageTitle": "Page88",
+                "type": "slate",
+                "csgReferenceId": "aa27441d-f45c-43c1-b56e-dc63879c4a0b"
+            },
+            {
+                "pageId": "html88",
+                "playOrder": "89",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page89.xhtml",
+                "pageNumberUrn": "716c0cbe-9025-4b9e-8425-8cc430a24caa",
+                "pageNo": "77",
+                "pageTitle": "Page89",
+                "type": "slate",
+                "csgReferenceId": "8f26fef7-3a1f-46ed-b886-089a2b78936d"
+            },
+            {
+                "pageId": "html89",
+                "playOrder": "90",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page90.xhtml",
+                "pageNumberUrn": "cdf779f7-d302-4cf4-a45b-f3238a4e883a",
+                "pageNo": "78",
+                "pageTitle": "Page90",
+                "type": "slate",
+                "csgReferenceId": "32164a25-1c97-4a5c-9278-6bd67a42c95a"
+            },
+            {
+                "pageId": "html90",
+                "playOrder": "91",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page91.xhtml",
+                "pageNumberUrn": "5e035b5f-f2a9-4355-8f63-e829fb56f3d8",
+                "pageNo": "79",
+                "pageTitle": "2.2 Cell size and compartmentalisation",
+                "type": "slate",
+                "csgReferenceId": "870c3bbf-5f75-4363-ac06-aafda49a70d7"
+            },
+            {
+                "pageId": "html91",
+                "playOrder": "92",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page92.xhtml",
+                "pageNumberUrn": "9894977e-d47c-4ea6-9179-265309815c94",
+                "pageNo": "80",
+                "pageTitle": "Page92",
+                "type": "slate",
+                "csgReferenceId": "2fa4b37a-6de0-4aa1-be34-c8eafe2d0f9e"
+            },
+            {
+                "pageId": "html92",
+                "playOrder": "93",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page93.xhtml",
+                "pageNumberUrn": "8faffb99-0b94-4cc2-995b-189437fc0231",
+                "pageNo": "81",
+                "pageTitle": "Page93",
+                "type": "slate",
+                "csgReferenceId": "ad930598-b8cb-4490-9ee1-f43bf7ed9f2c"
+            },
+            {
+                "pageId": "html93",
+                "playOrder": "94",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page94.xhtml",
+                "pageNumberUrn": "e6acbfbe-19bf-4a82-820e-039497690da7",
+                "pageNo": "82",
+                "pageTitle": "Page94",
+                "type": "slate",
+                "csgReferenceId": "9576af02-0125-4a1b-8edc-0d8b4f139af3"
+            },
+            {
+                "pageId": "html94",
+                "playOrder": "95",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page95.xhtml",
+                "pageNumberUrn": "f95960f5-d1f1-4d53-b74d-a762c6161d1e",
+                "pageNo": "83",
+                "pageTitle": "Page95",
+                "type": "slate",
+                "csgReferenceId": "6ce0da30-682f-41b4-b006-0f12d91d9fe2"
+            },
+            {
+                "pageId": "html95",
+                "playOrder": "96",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page96.xhtml",
+                "pageNumberUrn": "6b89b189-98fb-4b33-bd71-bea02d1b0d66",
+                "pageNo": "84",
+                "pageTitle": "Page96",
+                "type": "slate",
+                "csgReferenceId": "c5a7c8a9-4b7d-4363-b8bb-d4075850731a"
+            },
+            {
+                "pageId": "html96",
+                "playOrder": "97",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page97.xhtml",
+                "pageNumberUrn": "0dc42a2d-885c-4f9f-b386-5c0e2d10a30d",
+                "pageNo": "85",
+                "pageTitle": "Page97",
+                "type": "slate",
+                "csgReferenceId": "dac82ec4-0279-4af9-80dd-06aaf7df4113"
+            },
+            {
+                "pageId": "html97",
+                "playOrder": "98",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page98.xhtml",
+                "pageNumberUrn": "015a0665-cfdf-455c-be55-56be45ce561a",
+                "pageNo": "86",
+                "pageTitle": "2.3 Organelle structure and function",
+                "type": "slate",
+                "csgReferenceId": "7f17de74-d954-483a-b571-f0ca037a022a"
+            },
+            {
+                "pageId": "html98",
+                "playOrder": "99",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page99.xhtml",
+                "pageNumberUrn": "8c984d27-5ffe-409a-9250-351570a8aeaf",
+                "pageNo": "87",
+                "pageTitle": "Page99",
+                "type": "slate",
+                "csgReferenceId": "19f522b9-ed71-4727-a140-50839ed679f6"
+            },
+            {
+                "pageId": "html99",
+                "playOrder": "100",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page100.xhtml",
+                "pageNumberUrn": "ec9910a1-a37c-4d30-923d-ee4fcfede003",
+                "pageNo": "88",
+                "pageTitle": "Page100",
+                "type": "slate",
+                "csgReferenceId": "a3b87c72-5df4-426e-a7c3-bdcff13697ec"
+            },
+            {
+                "pageId": "html100",
+                "playOrder": "101",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page101.xhtml",
+                "pageNumberUrn": "ac716a05-9788-48cd-b86d-7bd9cee04b10",
+                "pageNo": "89",
+                "pageTitle": "Page101",
+                "type": "slate",
+                "csgReferenceId": "3416ff0e-52b3-47b8-9a6f-067ffe6fac85"
+            },
+            {
+                "pageId": "html101",
+                "playOrder": "102",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page102.xhtml",
+                "pageNumberUrn": "8f67b308-fb14-4ba1-819e-ea323a75061e",
+                "pageNo": "90",
+                "pageTitle": "Page102",
+                "type": "slate",
+                "csgReferenceId": "76dc322d-8701-4c8e-ad4d-b58fdba5c62a"
+            },
+            {
+                "pageId": "html102",
+                "playOrder": "103",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page103.xhtml",
+                "pageNumberUrn": "3ccf8bc2-0e9a-425c-b898-dd42b8df17aa",
+                "pageNo": "91",
+                "pageTitle": "Page103",
+                "type": "slate",
+                "csgReferenceId": "8e5fe427-3d4c-41a6-b53a-b95eb6ff0f5e"
+            },
+            {
+                "pageId": "html103",
+                "playOrder": "104",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page104.xhtml",
+                "pageNumberUrn": "91d77a85-3890-4800-a3db-eb88af559c80",
+                "pageNo": "92",
+                "pageTitle": "Page104",
+                "type": "slate",
+                "csgReferenceId": "e0373659-0b37-411c-8d4d-228586fd938a"
+            },
+            {
+                "pageId": "html104",
+                "playOrder": "105",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page105.xhtml",
+                "pageNumberUrn": "4173cdd6-da60-4327-80e1-8eda7577fcc4",
+                "pageNo": "93",
+                "pageTitle": "Page105",
+                "type": "slate",
+                "csgReferenceId": "a0250eb3-b9ee-4c4f-8590-acda0d9f4a99"
+            },
+            {
+                "pageId": "html105",
+                "playOrder": "106",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page106.xhtml",
+                "pageNumberUrn": "912b239d-ccb2-4839-b38c-4fafab5ab64d",
+                "pageNo": "94",
+                "pageTitle": "Page106",
+                "type": "slate",
+                "csgReferenceId": "196dd2ba-2d5f-4f85-817f-a6fa80edbc10"
+            },
+            {
+                "pageId": "html106",
+                "playOrder": "107",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page107.xhtml",
+                "pageNumberUrn": "23d23b80-eab2-46cd-b074-f19651b1347d",
+                "pageNo": "95",
+                "pageTitle": "Page107",
+                "type": "slate",
+                "csgReferenceId": "8115c8ab-669e-4ab5-b9fe-82a519b423ba"
+            },
+            {
+                "pageId": "html107",
+                "playOrder": "108",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page108.xhtml",
+                "pageNumberUrn": "fcd45e9a-66f4-4378-90a6-028d211f4a92",
+                "pageNo": "96",
+                "pageTitle": "2.4 Plasma membrane structure and function",
+                "type": "slate",
+                "csgReferenceId": "2d3455a7-f3bd-4353-87c6-65d10fb1f68a"
+            },
+            {
+                "pageId": "html108",
+                "playOrder": "109",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page109.xhtml",
+                "pageNumberUrn": "74de8406-fdf5-4b7b-bde3-6770480675ba",
+                "pageNo": "97",
+                "pageTitle": "Page109",
+                "type": "slate",
+                "csgReferenceId": "6532a844-6ae8-4113-b964-26045697ea73"
+            },
+            {
+                "pageId": "html109",
+                "playOrder": "110",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page110.xhtml",
+                "pageNumberUrn": "97d69b4e-6d7b-4913-b208-413ea6fb0d5e",
+                "pageNo": "98",
+                "pageTitle": "Page110",
+                "type": "slate",
+                "csgReferenceId": "5bd771fd-0fce-458c-b28e-a45a78c4813d"
+            },
+            {
+                "pageId": "html110",
+                "playOrder": "111",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page111.xhtml",
+                "pageNumberUrn": "033c8875-610d-45a0-8210-97b7ee0aa2a4",
+                "pageNo": "99",
+                "pageTitle": "Page111",
+                "type": "slate",
+                "csgReferenceId": "6ebab02f-f791-42e0-beb2-da24c422481f"
+            },
+            {
+                "pageId": "html111",
+                "playOrder": "112",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page112.xhtml",
+                "pageNumberUrn": "0259e36b-5a57-460e-a07a-039781c115aa",
+                "pageNo": "100",
+                "pageTitle": "Page112",
+                "type": "slate",
+                "csgReferenceId": "0354d2dd-c399-4b05-bbab-8dc7d8ad1e9a"
+            },
+            {
+                "pageId": "html112",
+                "playOrder": "113",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page113.xhtml",
+                "pageNumberUrn": "8331bc04-77c8-41cd-b666-5b31c2663468",
+                "pageNo": "101",
+                "pageTitle": "Page113",
+                "type": "slate",
+                "csgReferenceId": "fd518feb-d312-4483-8f7a-bfc7734e36cc"
+            },
+            {
+                "pageId": "html113",
+                "playOrder": "114",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page114.xhtml",
+                "pageNumberUrn": "0dfb9dee-67e3-45f0-ab1b-46975ba6132c",
+                "pageNo": "102",
+                "pageTitle": "Page114",
+                "type": "slate",
+                "csgReferenceId": "35036f31-e272-4beb-a0a9-1591a3efb93e"
+            },
+            {
+                "pageId": "html114",
+                "playOrder": "115",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page115.xhtml",
+                "pageNumberUrn": "bebfcd81-79c3-41ff-9010-3920d1a929e2",
+                "pageNo": "103",
+                "pageTitle": "Page115",
+                "type": "slate",
+                "csgReferenceId": "8fc0bd96-0c58-4456-84ac-37689379c81e"
+            },
+            {
+                "pageId": "html115",
+                "playOrder": "116",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page116.xhtml",
+                "pageNumberUrn": "d7742ed8-605c-447b-aa6a-45c0ef78043c",
+                "pageNo": "104",
+                "pageTitle": "Page116",
+                "type": "slate",
+                "csgReferenceId": "be469b50-3e0c-4077-8745-dd7defd45d1d"
+            },
+            {
+                "pageId": "html116",
+                "playOrder": "117",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page117.xhtml",
+                "pageNumberUrn": "59c2000e-27ca-42f3-8674-030854e800c4",
+                "pageNo": "105",
+                "pageTitle": "Page117",
+                "type": "slate",
+                "csgReferenceId": "27c0dd5c-8213-49e8-ae5c-70ca16debeb4"
+            },
+            {
+                "pageId": "html117",
+                "playOrder": "118",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page118.xhtml",
+                "pageNumberUrn": "6b335162-7ace-46ff-89db-42191a5504f9",
+                "pageNo": "106",
+                "pageTitle": "Page118",
+                "type": "slate",
+                "csgReferenceId": "70cf23fa-a9c6-4782-8099-5f4e5876d928"
+            },
+            {
+                "pageId": "html118",
+                "playOrder": "119",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page119.xhtml",
+                "pageNumberUrn": "6361abcd-dcdf-4b80-8ea7-3d4d4e62a411",
+                "pageNo": "107",
+                "pageTitle": "Page119",
+                "type": "slate",
+                "csgReferenceId": "85d94dc4-81a7-4954-b5b4-122f9ad953fd"
+            },
+            {
+                "pageId": "html119",
+                "playOrder": "120",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page120.xhtml",
+                "pageNumberUrn": "2a8590b7-5df5-48de-9d1b-875ebf90a262",
+                "pageNo": "108",
+                "pageTitle": "Page120",
+                "type": "slate",
+                "csgReferenceId": "37c4958d-8210-498a-ba07-d4a2282895ca"
+            },
+            {
+                "pageId": "html120",
+                "playOrder": "121",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page121.xhtml",
+                "pageNumberUrn": "3a1c5961-7104-4dec-83b7-308641b19ca9",
+                "pageNo": "109",
+                "pageTitle": "Chapter 2 Review",
+                "type": "slate",
+                "csgReferenceId": "dd8a0ab5-b18d-49c0-94c5-96f8598b6e13"
+            },
+            {
+                "pageId": "html121",
+                "playOrder": "122",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page122.xhtml",
+                "pageNumberUrn": "ec8b2367-8bee-4218-bed5-227ea56dd227",
+                "pageNo": "110",
+                "pageTitle": "Page122",
+                "type": "slate",
+                "csgReferenceId": "17923396-b59d-4b2e-93e0-659ee78c7677"
+            },
+            {
+                "pageId": "html122",
+                "playOrder": "123",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page123.xhtml",
+                "pageNumberUrn": "0fc87573-d38e-4c74-a243-6fe80f441d0e",
+                "pageNo": "111",
+                "pageTitle": "Page123",
+                "type": "slate",
+                "csgReferenceId": "9c640d6a-6135-426a-a711-b7a3886d8ef5"
+            },
+            {
+                "pageId": "html123",
+                "playOrder": "124",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page124.xhtml",
+                "pageNumberUrn": "70e87ca5-e159-4d5f-b3a3-41086ce48108",
+                "pageNo": "112",
+                "pageTitle": "Page124",
+                "type": "slate",
+                "csgReferenceId": "fba7e150-a577-4445-adc8-7230eb85a28b"
+            },
+            {
+                "pageId": "html124",
+                "playOrder": "125",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page125.xhtml",
+                "pageNumberUrn": "8492a987-f5be-4444-b0f0-2e4857f8a21c",
+                "pageNo": "113",
+                "pageTitle": "Chapter 3 The cell cycle and cell growth, death and differentiation",
+                "type": "slate",
+                "csgReferenceId": "1e9cfb75-cd6c-4cbf-b062-a0ca0bf3108a"
+            },
+            {
+                "pageId": "html125",
+                "playOrder": "126",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page126.xhtml",
+                "pageNumberUrn": "2bb2af22-977b-4ce0-aab4-b9789848ae7f",
+                "pageNo": "114",
+                "pageTitle": "3.1 Cell replication",
+                "type": "slate",
+                "csgReferenceId": "800cb7f9-7985-4ac8-a347-1360255481df"
+            },
+            {
+                "pageId": "html126",
+                "playOrder": "127",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page127.xhtml",
+                "pageNumberUrn": "9026f5df-404f-44d2-bb64-3c26643b9cd8",
+                "pageNo": "115",
+                "pageTitle": "Page127",
+                "type": "slate",
+                "csgReferenceId": "d4c2e72b-ee13-48e8-85f8-4980612fd8a8"
+            },
+            {
+                "pageId": "html127",
+                "playOrder": "128",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page128.xhtml",
+                "pageNumberUrn": "673948be-53b7-42f0-be4b-aabc0e13a528",
+                "pageNo": "116",
+                "pageTitle": "Page128",
+                "type": "slate",
+                "csgReferenceId": "5f8ebc3b-1f58-4c38-8e82-d00f154a2d1b"
+            },
+            {
+                "pageId": "html128",
+                "playOrder": "129",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page129.xhtml",
+                "pageNumberUrn": "ea280dbd-45c3-47ab-9cb9-9649fdfa5fd1",
+                "pageNo": "117",
+                "pageTitle": "Page129",
+                "type": "slate",
+                "csgReferenceId": "233bd868-b90d-4ad9-9771-7fe815cea83a"
+            },
+            {
+                "pageId": "html129",
+                "playOrder": "130",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page130.xhtml",
+                "pageNumberUrn": "8dd5ec39-4fd1-4ad7-94c1-88abd9ae3845",
+                "pageNo": "118",
+                "pageTitle": "Page130",
+                "type": "slate",
+                "csgReferenceId": "d1fcca52-62cc-4c50-8bb6-e5cc1ab6d1b1"
+            },
+            {
+                "pageId": "html130",
+                "playOrder": "131",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page131.xhtml",
+                "pageNumberUrn": "51a50228-8594-4e5a-9e1a-fdb0fda913cb",
+                "pageNo": "119",
+                "pageTitle": "Page131",
+                "type": "slate",
+                "csgReferenceId": "73ca593c-6939-4673-96d6-f6d4e5f59eb5"
+            },
+            {
+                "pageId": "html131",
+                "playOrder": "132",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page132.xhtml",
+                "pageNumberUrn": "5a370304-526f-46a2-9f1d-c89e4e816494",
+                "pageNo": "120",
+                "pageTitle": "3.2 The cell cycle",
+                "type": "slate",
+                "csgReferenceId": "259b0b82-6dba-454a-ba78-fee2bc5edb5c"
+            },
+            {
+                "pageId": "html132",
+                "playOrder": "133",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page133.xhtml",
+                "pageNumberUrn": "6fbec0b8-8011-4b14-bf4e-54aaf9f91834",
+                "pageNo": "121",
+                "pageTitle": "Page133",
+                "type": "slate",
+                "csgReferenceId": "c195a70b-b7b3-4c7c-9eb0-5c99e51062ad"
+            },
+            {
+                "pageId": "html133",
+                "playOrder": "134",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page134.xhtml",
+                "pageNumberUrn": "4163b029-ed86-4894-b55f-15408493e40a",
+                "pageNo": "122",
+                "pageTitle": "Page134",
+                "type": "slate",
+                "csgReferenceId": "a4f69092-8129-4643-ab32-ddb3d4cf1828"
+            },
+            {
+                "pageId": "html134",
+                "playOrder": "135",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page135.xhtml",
+                "pageNumberUrn": "4445faf0-774a-4e05-be0a-cd78bf59a4ce",
+                "pageNo": "123",
+                "pageTitle": "Page135",
+                "type": "slate",
+                "csgReferenceId": "ee90e978-0885-46b8-8761-78e6e20f27f5"
+            },
+            {
+                "pageId": "html135",
+                "playOrder": "136",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page136.xhtml",
+                "pageNumberUrn": "8b9fc0f5-66f8-45f3-a525-043efb8337b6",
+                "pageNo": "124",
+                "pageTitle": "Page136",
+                "type": "slate",
+                "csgReferenceId": "b5c6af2e-1049-4b79-b95f-979d418eadfe"
+            },
+            {
+                "pageId": "html136",
+                "playOrder": "137",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page137.xhtml",
+                "pageNumberUrn": "3a9420e9-0455-4457-8f2d-f147aeccb35e",
+                "pageNo": "125",
+                "pageTitle": "Page137",
+                "type": "slate",
+                "csgReferenceId": "ae8dbf97-8e3a-46f6-ac16-e83b2a0faf73"
+            },
+            {
+                "pageId": "html137",
+                "playOrder": "138",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page138.xhtml",
+                "pageNumberUrn": "0bd82698-edb7-48d6-bf69-db4b186a3f48",
+                "pageNo": "126",
+                "pageTitle": "Page138",
+                "type": "slate",
+                "csgReferenceId": "bcc6de0f-89fe-4608-8bcb-7443e176d567"
+            },
+            {
+                "pageId": "html138",
+                "playOrder": "139",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page139.xhtml",
+                "pageNumberUrn": "0a0e0fdf-e613-4af7-bb85-ac7bcf17e9fb",
+                "pageNo": "127",
+                "pageTitle": "Page139",
+                "type": "slate",
+                "csgReferenceId": "b7e59344-8649-4195-86b0-6a59df6b8671"
+            },
+            {
+                "pageId": "html139",
+                "playOrder": "140",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page140.xhtml",
+                "pageNumberUrn": "47b308d8-8e91-4b02-85c4-b8ab25771479",
+                "pageNo": "128",
+                "pageTitle": "3.3 Controlling cell division",
+                "type": "slate",
+                "csgReferenceId": "6785c90d-bfc4-4df4-aab5-07046a080b1a"
+            },
+            {
+                "pageId": "html140",
+                "playOrder": "141",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page141.xhtml",
+                "pageNumberUrn": "ac8a4060-f87b-47f0-9adb-12409158200d",
+                "pageNo": "129",
+                "pageTitle": "Page141",
+                "type": "slate",
+                "csgReferenceId": "c0d42626-43f5-4dee-acb6-87b815377e94"
+            },
+            {
+                "pageId": "html141",
+                "playOrder": "142",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page142.xhtml",
+                "pageNumberUrn": "8ebcd40a-5588-4517-8c07-d367e2f6010a",
+                "pageNo": "130",
+                "pageTitle": "Page142",
+                "type": "slate",
+                "csgReferenceId": "73d92e46-245c-4fc8-949f-11524d51f419"
+            },
+            {
+                "pageId": "html142",
+                "playOrder": "143",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page143.xhtml",
+                "pageNumberUrn": "8601fc7c-75e9-4e85-a59d-e443d94c4d23",
+                "pageNo": "131",
+                "pageTitle": "Page143",
+                "type": "slate",
+                "csgReferenceId": "2f3b56e8-b2e9-4268-a8a9-9dac60c47040"
+            },
+            {
+                "pageId": "html143",
+                "playOrder": "144",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page144.xhtml",
+                "pageNumberUrn": "97ff74a3-1f8a-474b-9545-4609a599e4af",
+                "pageNo": "132",
+                "pageTitle": "Page144",
+                "type": "slate",
+                "csgReferenceId": "36eb1b98-bf15-4143-aa94-f99413949aa9"
+            },
+            {
+                "pageId": "html144",
+                "playOrder": "145",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page145.xhtml",
+                "pageNumberUrn": "7b270590-14d5-434a-adc8-608c4e7179ed",
+                "pageNo": "133",
+                "pageTitle": "Page145",
+                "type": "slate",
+                "csgReferenceId": "c177d38f-6a91-4751-9171-ff54db0b7516"
+            },
+            {
+                "pageId": "html145",
+                "playOrder": "146",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page146.xhtml",
+                "pageNumberUrn": "674a6af4-96cf-4e79-84be-218c4d817b5e",
+                "pageNo": "134",
+                "pageTitle": "Page146",
+                "type": "slate",
+                "csgReferenceId": "619a9363-0cc1-49d2-ae16-76a7d156009f"
+            },
+            {
+                "pageId": "html146",
+                "playOrder": "147",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page147.xhtml",
+                "pageNumberUrn": "602608fd-6f3d-414d-9690-23645b8cac6f",
+                "pageNo": "135",
+                "pageTitle": "Page147",
+                "type": "slate",
+                "csgReferenceId": "6fd236ae-b56d-4a25-aede-8502b3398f61"
+            },
+            {
+                "pageId": "html147",
+                "playOrder": "148",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page148.xhtml",
+                "pageNumberUrn": "6d31d19c-be85-4cd7-b873-c860b69a16ba",
+                "pageNo": "136",
+                "pageTitle": "Page148",
+                "type": "slate",
+                "csgReferenceId": "e7466911-614f-4461-956c-90fae87ba3fe"
+            },
+            {
+                "pageId": "html148",
+                "playOrder": "149",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page149.xhtml",
+                "pageNumberUrn": "2114306e-77db-4f9c-96dc-15d2b58aff99",
+                "pageNo": "137",
+                "pageTitle": "3.4 Stem cells",
+                "type": "slate",
+                "csgReferenceId": "8c74076d-7a11-458f-8a2c-66e618443089"
+            },
+            {
+                "pageId": "html149",
+                "playOrder": "150",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page150.xhtml",
+                "pageNumberUrn": "e407e900-8053-4b0a-841a-ceeaf93fc543",
+                "pageNo": "138",
+                "pageTitle": "Page150",
+                "type": "slate",
+                "csgReferenceId": "dbfda360-ddd1-46e5-97df-2b4d05d082c4"
+            },
+            {
+                "pageId": "html150",
+                "playOrder": "151",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page151.xhtml",
+                "pageNumberUrn": "71b0932c-dac3-4570-a29b-647ab2442890",
+                "pageNo": "139",
+                "pageTitle": "Page151",
+                "type": "slate",
+                "csgReferenceId": "368ea0d6-b1ce-464c-87af-547b35f2e980"
+            },
+            {
+                "pageId": "html151",
+                "playOrder": "152",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page152.xhtml",
+                "pageNumberUrn": "264b620f-adae-4503-9866-ac6a1b673d4a",
+                "pageNo": "140",
+                "pageTitle": "Page152",
+                "type": "slate",
+                "csgReferenceId": "387df384-ad9b-4f0a-bb46-15beae116412"
+            },
+            {
+                "pageId": "html152",
+                "playOrder": "153",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page153.xhtml",
+                "pageNumberUrn": "d9246111-5f98-4ce9-82c8-c0d60c54a415",
+                "pageNo": "141",
+                "pageTitle": "Page153",
+                "type": "slate",
+                "csgReferenceId": "22d10e5e-76d4-4368-a184-44affcad0c41"
+            },
+            {
+                "pageId": "html153",
+                "playOrder": "154",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page154.xhtml",
+                "pageNumberUrn": "c1c73d66-f44c-4f33-ae4f-afcae0485910",
+                "pageNo": "142",
+                "pageTitle": "Chapter 3 Review",
+                "type": "slate",
+                "csgReferenceId": "5a96a855-6726-4bda-bf99-4f9a617c68b2"
+            },
+            {
+                "pageId": "html154",
+                "playOrder": "155",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page155.xhtml",
+                "pageNumberUrn": "c2e086b0-51cd-4dce-95cf-46f78e95c38b",
+                "pageNo": "143",
+                "pageTitle": "Page155",
+                "type": "slate",
+                "csgReferenceId": "e9e7ffa6-40c4-4c77-9c81-241b591bddd3"
+            },
+            {
+                "pageId": "html155",
+                "playOrder": "156",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page156.xhtml",
+                "pageNumberUrn": "51f5a9cf-0d7d-40d7-8606-4fa5bd71c6c1",
+                "pageNo": "144",
+                "pageTitle": "Unit 1 Area of Study 1 Review questions",
+                "type": "slate",
+                "csgReferenceId": "b1adeacb-ba3b-4ebc-aead-670e312aaa29"
+            },
+            {
+                "pageId": "html156",
+                "playOrder": "157",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page157.xhtml",
+                "pageNumberUrn": "ba4fc754-d4cb-497e-813d-1bcc6cd8337c",
+                "pageNo": "145",
+                "pageTitle": "Page157",
+                "type": "slate",
+                "csgReferenceId": "00b73de3-e41f-45c0-8d0e-9a3ea8dde5ef"
+            },
+            {
+                "pageId": "html157",
+                "playOrder": "158",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page158.xhtml",
+                "pageNumberUrn": "3b4027eb-a9b2-4f84-90c3-947011e76084",
+                "pageNo": "146",
+                "pageTitle": "Page158",
+                "type": "slate",
+                "csgReferenceId": "15b3b2c6-8e1f-4c9c-a75b-bb7cb6ab61f6"
+            },
+            {
+                "pageId": "html158",
+                "playOrder": "159",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page159.xhtml",
+                "pageNumberUrn": "9aeac22e-9d34-4211-863d-9b61f0e546ff",
+                "pageNo": "147",
+                "pageTitle": "Page159",
+                "type": "slate",
+                "csgReferenceId": "f14ba544-5d1a-4c48-ba92-1c15e564f39b"
+            },
+            {
+                "pageId": "html159",
+                "playOrder": "160",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page160.xhtml",
+                "pageNumberUrn": "e41d6b86-fc30-4709-84e7-9eb987cde890",
+                "pageNo": "148",
+                "pageTitle": "Page160",
+                "type": "slate",
+                "csgReferenceId": "de2efae1-bacc-4b26-b70f-f26a198ba323"
+            },
+            {
+                "pageId": "html160",
+                "playOrder": "161",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page161.xhtml",
+                "pageNumberUrn": "58d0dbe9-2fe8-4193-9a4c-7a00d7af33c7",
+                "pageNo": "149",
+                "pageTitle": "Page161",
+                "type": "slate",
+                "csgReferenceId": "de27fd8f-e435-49f6-8513-2fe6b41a40a4"
+            },
+            {
+                "pageId": "html161",
+                "playOrder": "162",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page162.xhtml",
+                "pageNumberUrn": "133b479b-e91d-4f4a-bd88-9ad9f41e0178",
+                "pageNo": "150",
+                "pageTitle": "Page162",
+                "type": "slate",
+                "csgReferenceId": "6f214043-b9ce-4633-b8e5-2c4cd98aa6b9"
+            },
+            {
+                "pageId": "html162",
+                "playOrder": "163",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page163.xhtml",
+                "pageNumberUrn": "bd563bab-a6ac-4164-8e38-18bdb3599957",
+                "pageNo": "151",
+                "pageTitle": "Page163",
+                "type": "slate",
+                "csgReferenceId": "d196674e-9e99-4046-8fb0-025e145fe20f"
+            },
+            {
+                "pageId": "html163",
+                "playOrder": "164",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page164.xhtml",
+                "pageNumberUrn": "2df286d9-0fa7-40b7-b36d-2d3a3cce557d",
+                "pageNo": "152",
+                "pageTitle": "Page164",
+                "type": "slate",
+                "csgReferenceId": "09cd874d-5f5f-46a2-bc03-2702739214b5"
+            },
+            {
+                "pageId": "html164",
+                "playOrder": "165",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page165.xhtml",
+                "pageNumberUrn": "a94345d9-f155-472b-8cc9-0585b27987fc",
+                "pageNo": "153",
+                "pageTitle": "Chapter 4 Functioning systems",
+                "type": "slate",
+                "csgReferenceId": "f4bf1479-8f30-46d8-8a13-80a570b9d8d4"
+            },
+            {
+                "pageId": "html165",
+                "playOrder": "166",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page166.xhtml",
+                "pageNumberUrn": "c91a92c6-2cfe-40a1-9a13-6ab5624a23a1",
+                "pageNo": "154",
+                "pageTitle": "4.1 Multicellularity, cell specialisation and organisation",
+                "type": "slate",
+                "csgReferenceId": "cab97f29-7ede-43a6-aa10-f523cfd77ce8"
+            },
+            {
+                "pageId": "html166",
+                "playOrder": "167",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page167.xhtml",
+                "pageNumberUrn": "4c9a5d26-0c3b-430e-92c6-1cb0d3c0015d",
+                "pageNo": "155",
+                "pageTitle": "Page167",
+                "type": "slate",
+                "csgReferenceId": "cb79e7b8-ca97-4d71-8b18-01f554869234"
+            },
+            {
+                "pageId": "html167",
+                "playOrder": "168",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page168.xhtml",
+                "pageNumberUrn": "1360a79f-788a-49ff-99c4-d47d907920a4",
+                "pageNo": "156",
+                "pageTitle": "Page168",
+                "type": "slate",
+                "csgReferenceId": "59bd22f1-1960-47ef-b7d4-d62546c23b6b"
+            },
+            {
+                "pageId": "html168",
+                "playOrder": "169",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page169.xhtml",
+                "pageNumberUrn": "52a54863-88a5-459c-82dc-46b11dbceabb",
+                "pageNo": "157",
+                "pageTitle": "Page169",
+                "type": "slate",
+                "csgReferenceId": "8ffc0799-89bf-46b4-9226-ee37e375115a"
+            },
+            {
+                "pageId": "html169",
+                "playOrder": "170",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page170.xhtml",
+                "pageNumberUrn": "17881d8f-1460-4ac3-98c0-8830a9ed01d6",
+                "pageNo": "158",
+                "pageTitle": "Page170",
+                "type": "slate",
+                "csgReferenceId": "a493ee91-29d2-4e32-8c70-95d38ee7b1ca"
+            },
+            {
+                "pageId": "html170",
+                "playOrder": "171",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page171.xhtml",
+                "pageNumberUrn": "d8920809-4240-4f4e-8c91-889bdede5ee9",
+                "pageNo": "159",
+                "pageTitle": "Page171",
+                "type": "slate",
+                "csgReferenceId": "7e55812c-de91-4776-a92d-6ec6b4670876"
+            },
+            {
+                "pageId": "html171",
+                "playOrder": "172",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page172.xhtml",
+                "pageNumberUrn": "cda44b71-ca11-4d88-9dc7-e44c09419423",
+                "pageNo": "160",
+                "pageTitle": "Page172",
+                "type": "slate",
+                "csgReferenceId": "87b8794f-abb4-46fc-be57-e5c34bc6253b"
+            },
+            {
+                "pageId": "html172",
+                "playOrder": "173",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page173.xhtml",
+                "pageNumberUrn": "c7a551d7-26c4-47c3-a4a8-6a8e95849924",
+                "pageNo": "161",
+                "pageTitle": "Page173",
+                "type": "slate",
+                "csgReferenceId": "08e04205-e080-4857-a49f-77a2bb11f351"
+            },
+            {
+                "pageId": "html173",
+                "playOrder": "174",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page174.xhtml",
+                "pageNumberUrn": "d96f7cb1-5b84-4c00-ae56-2390056fa930",
+                "pageNo": "162",
+                "pageTitle": "Page174",
+                "type": "slate",
+                "csgReferenceId": "41a9c592-c321-4755-980b-9fc543aca05a"
+            },
+            {
+                "pageId": "html174",
+                "playOrder": "175",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page175.xhtml",
+                "pageNumberUrn": "a4996dd5-463f-410b-9dd6-348e0f5a46b3",
+                "pageNo": "163",
+                "pageTitle": "Page175",
+                "type": "slate",
+                "csgReferenceId": "a3257b2e-512a-44c2-af60-6b0742c8acff"
+            },
+            {
+                "pageId": "html175",
+                "playOrder": "176",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page176.xhtml",
+                "pageNumberUrn": "81f28cad-baa6-4181-8d60-4b8470dad2f9",
+                "pageNo": "164",
+                "pageTitle": "Page176",
+                "type": "slate",
+                "csgReferenceId": "187cf17e-198a-4b50-b06b-c5e82aae915b"
+            },
+            {
+                "pageId": "html176",
+                "playOrder": "177",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page177.xhtml",
+                "pageNumberUrn": "111c085c-2ff8-44ce-aff1-47490f571a80",
+                "pageNo": "165",
+                "pageTitle": "Page177",
+                "type": "slate",
+                "csgReferenceId": "144079fe-c712-478d-8baa-3881227548eb"
+            },
+            {
+                "pageId": "html177",
+                "playOrder": "178",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page178.xhtml",
+                "pageNumberUrn": "cb9d2901-29f9-4232-b744-3be6685e4796",
+                "pageNo": "166",
+                "pageTitle": "Page178",
+                "type": "slate",
+                "csgReferenceId": "6d6a5f96-b935-443b-afe1-84889215183a"
+            },
+            {
+                "pageId": "html178",
+                "playOrder": "179",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page179.xhtml",
+                "pageNumberUrn": "6fb8f84a-ea5d-420e-a1cd-c555bfad39fe",
+                "pageNo": "167",
+                "pageTitle": "4.2 Transport in vascular plants",
+                "type": "slate",
+                "csgReferenceId": "1907d2e4-5573-425b-bff3-1b3b34718bb3"
+            },
+            {
+                "pageId": "html179",
+                "playOrder": "180",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page180.xhtml",
+                "pageNumberUrn": "bb5167d8-7ec3-494e-a54d-73fba821cab6",
+                "pageNo": "168",
+                "pageTitle": "Page180",
+                "type": "slate",
+                "csgReferenceId": "e8649fc2-0924-44dc-b364-5bf324a46a73"
+            },
+            {
+                "pageId": "html180",
+                "playOrder": "181",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page181.xhtml",
+                "pageNumberUrn": "194c0531-2479-43e0-a176-21af6c11fb9e",
+                "pageNo": "169",
+                "pageTitle": "Page181",
+                "type": "slate",
+                "csgReferenceId": "69ce0f4e-b192-440a-9826-507a61e2c368"
+            },
+            {
+                "pageId": "html181",
+                "playOrder": "182",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page182.xhtml",
+                "pageNumberUrn": "4a3bad9b-d5f3-4213-8d34-96276d340618",
+                "pageNo": "170",
+                "pageTitle": "Page182",
+                "type": "slate",
+                "csgReferenceId": "da921bb7-dcab-471e-a124-9916fdf001dc"
+            },
+            {
+                "pageId": "html182",
+                "playOrder": "183",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page183.xhtml",
+                "pageNumberUrn": "bb0570a4-18ca-4d9c-bd76-31c851ea7e43",
+                "pageNo": "171",
+                "pageTitle": "Page183",
+                "type": "slate",
+                "csgReferenceId": "57a8b376-9bff-4d6b-b695-d472e0119187"
+            },
+            {
+                "pageId": "html183",
+                "playOrder": "184",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page184.xhtml",
+                "pageNumberUrn": "2bc658bd-ff81-4c0c-a306-3ce6006e65c5",
+                "pageNo": "172",
+                "pageTitle": "Page184",
+                "type": "slate",
+                "csgReferenceId": "ebd14942-488f-42ee-a7f7-805fa48f89ff"
+            },
+            {
+                "pageId": "html184",
+                "playOrder": "185",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page185.xhtml",
+                "pageNumberUrn": "f0035e5e-2079-455d-aaf8-2590084e33c1",
+                "pageNo": "173",
+                "pageTitle": "Page185",
+                "type": "slate",
+                "csgReferenceId": "16076fce-f524-4e35-8c9e-0f608c540d55"
+            },
+            {
+                "pageId": "html185",
+                "playOrder": "186",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page186.xhtml",
+                "pageNumberUrn": "97ccc756-e835-4ebd-99f8-7f7508993e14",
+                "pageNo": "174",
+                "pageTitle": "4.3 Animal systems",
+                "type": "slate",
+                "csgReferenceId": "68b5ef00-1ccf-45e6-920e-e85a0900412b"
+            },
+            {
+                "pageId": "html186",
+                "playOrder": "187",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page187.xhtml",
+                "pageNumberUrn": "3d7eba73-43e2-4ca8-9286-946fcc2ae17d",
+                "pageNo": "175",
+                "pageTitle": "Page187",
+                "type": "slate",
+                "csgReferenceId": "fb8da443-2b79-4952-be4e-8a00c62a9e50"
+            },
+            {
+                "pageId": "html187",
+                "playOrder": "188",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page188.xhtml",
+                "pageNumberUrn": "4b1be7fc-b614-45cf-888c-c0644b2e4e5b",
+                "pageNo": "176",
+                "pageTitle": "Page188",
+                "type": "slate",
+                "csgReferenceId": "a6350c88-894a-4311-80b0-4aab5a7cee5e"
+            },
+            {
+                "pageId": "html188",
+                "playOrder": "189",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page189.xhtml",
+                "pageNumberUrn": "b022c804-4fdd-4aca-8e04-40e472dbb76f",
+                "pageNo": "177",
+                "pageTitle": "Page189",
+                "type": "slate",
+                "csgReferenceId": "28fd9100-d513-4897-a855-8a1df63f788f"
+            },
+            {
+                "pageId": "html189",
+                "playOrder": "190",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page190.xhtml",
+                "pageNumberUrn": "2ec17603-5550-41e1-9f75-4bd00dc716ea",
+                "pageNo": "178",
+                "pageTitle": "Page190",
+                "type": "slate",
+                "csgReferenceId": "2dbb7b0a-bc66-4fce-8669-5cc487f17a3b"
+            },
+            {
+                "pageId": "html190",
+                "playOrder": "191",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page191.xhtml",
+                "pageNumberUrn": "a1e1eea8-ffa2-4d93-b532-43ccf83abba6",
+                "pageNo": "179",
+                "pageTitle": "Page191",
+                "type": "slate",
+                "csgReferenceId": "4dcbbdbd-9e03-44bc-a44d-93a3b5e093a0"
+            },
+            {
+                "pageId": "html191",
+                "playOrder": "192",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page192.xhtml",
+                "pageNumberUrn": "2572c47f-0459-4ee5-8c38-c30b8f81b10a",
+                "pageNo": "180",
+                "pageTitle": "Page192",
+                "type": "slate",
+                "csgReferenceId": "50b2ed81-7417-40bf-aef4-68bb53d3e851"
+            },
+            {
+                "pageId": "html192",
+                "playOrder": "193",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page193.xhtml",
+                "pageNumberUrn": "eb55f274-9f2c-4414-b403-478c95b6577c",
+                "pageNo": "181",
+                "pageTitle": "Page193",
+                "type": "slate",
+                "csgReferenceId": "e67158bb-baef-42a0-8c79-bc6ec2485123"
+            },
+            {
+                "pageId": "html193",
+                "playOrder": "194",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page194.xhtml",
+                "pageNumberUrn": "48ac04f4-2bff-47f2-9a30-dcf72116410f",
+                "pageNo": "182",
+                "pageTitle": "Page194",
+                "type": "slate",
+                "csgReferenceId": "d4a1decf-4759-452d-b620-b8c2c94d084b"
+            },
+            {
+                "pageId": "html194",
+                "playOrder": "195",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page195.xhtml",
+                "pageNumberUrn": "355fe12c-66d4-43e3-ae79-d845d40aff2b",
+                "pageNo": "183",
+                "pageTitle": "Page195",
+                "type": "slate",
+                "csgReferenceId": "ea32290d-57f7-4165-a502-0402a833b767"
+            },
+            {
+                "pageId": "html195",
+                "playOrder": "196",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page196.xhtml",
+                "pageNumberUrn": "5bc7fe88-9480-4e00-ace0-4f6df56d987d",
+                "pageNo": "184",
+                "pageTitle": "Page196",
+                "type": "slate",
+                "csgReferenceId": "b97ed723-dd72-4b39-ae6a-228fc0ce9b44"
+            },
+            {
+                "pageId": "html196",
+                "playOrder": "197",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page197.xhtml",
+                "pageNumberUrn": "286ebe79-ff49-4138-8f06-a4cfbe91ef9a",
+                "pageNo": "185",
+                "pageTitle": "Page197",
+                "type": "slate",
+                "csgReferenceId": "76740141-e8f2-4f1e-82f5-dedabe552bb4"
+            },
+            {
+                "pageId": "html197",
+                "playOrder": "198",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page198.xhtml",
+                "pageNumberUrn": "c646f587-6177-41f3-a8d3-c46f57e4148a",
+                "pageNo": "186",
+                "pageTitle": "Page198",
+                "type": "slate",
+                "csgReferenceId": "dd8f151d-6b1d-400d-be00-6802249166c9"
+            },
+            {
+                "pageId": "html198",
+                "playOrder": "199",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page199.xhtml",
+                "pageNumberUrn": "8055d01a-ed44-46c3-983d-c6b845ac0d2f",
+                "pageNo": "187",
+                "pageTitle": "Page199",
+                "type": "slate",
+                "csgReferenceId": "805012a2-29d6-49f4-b9f4-63ad0765d8df"
+            },
+            {
+                "pageId": "html199",
+                "playOrder": "200",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page200.xhtml",
+                "pageNumberUrn": "b9b9f1e4-4b6c-4db9-b77e-684acfaecad3",
+                "pageNo": "188",
+                "pageTitle": "Page200",
+                "type": "slate",
+                "csgReferenceId": "25ee7ab4-bd06-4393-a7b3-017e486eed3c"
+            },
+            {
+                "pageId": "html200",
+                "playOrder": "201",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page201.xhtml",
+                "pageNumberUrn": "38702312-3280-4467-bd2d-ba460540e497",
+                "pageNo": "189",
+                "pageTitle": "Page201",
+                "type": "slate",
+                "csgReferenceId": "ba8deca5-9238-4a81-9869-9e34c8acd197"
+            },
+            {
+                "pageId": "html201",
+                "playOrder": "202",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page202.xhtml",
+                "pageNumberUrn": "bbf13dfa-aa2c-4951-9348-1c6150a18e58",
+                "pageNo": "190",
+                "pageTitle": "Page202",
+                "type": "slate",
+                "csgReferenceId": "a34e5d2b-8bcf-450f-bace-8ee5a8d5e559"
+            },
+            {
+                "pageId": "html202",
+                "playOrder": "203",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page203.xhtml",
+                "pageNumberUrn": "b9aebb7c-a296-47e4-b879-7acb62818c48",
+                "pageNo": "191",
+                "pageTitle": "Page203",
+                "type": "slate",
+                "csgReferenceId": "6dc420b0-de71-466e-8c96-f9a0dfb5f13f"
+            },
+            {
+                "pageId": "html203",
+                "playOrder": "204",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page204.xhtml",
+                "pageNumberUrn": "b69b52d8-f73b-4a75-94b4-e4263d29ce62",
+                "pageNo": "192",
+                "pageTitle": "Page204",
+                "type": "slate",
+                "csgReferenceId": "d865bedd-c5b8-4545-aa38-f0c60d84600e"
+            },
+            {
+                "pageId": "html204",
+                "playOrder": "205",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page205.xhtml",
+                "pageNumberUrn": "c9e71f1e-d399-4cd4-8609-40f330fb530e",
+                "pageNo": "193",
+                "pageTitle": "Chapter 4 Review",
+                "type": "slate",
+                "csgReferenceId": "051aa2ee-56aa-45af-bcde-4294a1a244bc"
+            },
+            {
+                "pageId": "html205",
+                "playOrder": "206",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page206.xhtml",
+                "pageNumberUrn": "b934a576-4611-4bbc-bf1b-2dca49bd70b7",
+                "pageNo": "194",
+                "pageTitle": "Page206",
+                "type": "slate",
+                "csgReferenceId": "a305ee7d-f52b-4dfc-9e95-ec9646aa08cd"
+            },
+            {
+                "pageId": "html206",
+                "playOrder": "207",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page207.xhtml",
+                "pageNumberUrn": "e8da44ca-a6f7-4993-b173-09d74d41d8c9",
+                "pageNo": "195",
+                "pageTitle": "Page207",
+                "type": "slate",
+                "csgReferenceId": "12311dbc-69a5-49b0-a659-8f4317d85381"
+            },
+            {
+                "pageId": "html207",
+                "playOrder": "208",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page208.xhtml",
+                "pageNumberUrn": "f136c868-27bb-4c1c-ab10-5256f614db58",
+                "pageNo": "196",
+                "pageTitle": "Page208",
+                "type": "slate",
+                "csgReferenceId": "c5516ddd-a731-451e-be8d-44eff5bff44d"
+            },
+            {
+                "pageId": "html208",
+                "playOrder": "209",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page209.xhtml",
+                "pageNumberUrn": "6e156d08-403e-4c1e-a70f-25f64877b7d6",
+                "pageNo": "197",
+                "pageTitle": "Chapter 5 Regulation of systems",
+                "type": "slate",
+                "csgReferenceId": "c7937f6d-38ad-4328-9377-469d33cd2708"
+            },
+            {
+                "pageId": "html209",
+                "playOrder": "210",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page210.xhtml",
+                "pageNumberUrn": "a500ac0e-a03a-4580-a436-ef24bd1a8f02",
+                "pageNo": "198",
+                "pageTitle": "5.1 Regulatory mechanisms in plants",
+                "type": "slate",
+                "csgReferenceId": "37e67102-da1f-479c-a51c-d1aa2d007b36"
+            },
+            {
+                "pageId": "html210",
+                "playOrder": "211",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page211.xhtml",
+                "pageNumberUrn": "aacc1b7f-f00c-4e4e-a25c-2b8622be76aa",
+                "pageNo": "199",
+                "pageTitle": "Page211",
+                "type": "slate",
+                "csgReferenceId": "c4c92e01-fcf2-45a4-a323-8010abacef9b"
+            },
+            {
+                "pageId": "html211",
+                "playOrder": "212",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page212.xhtml",
+                "pageNumberUrn": "f370649f-e1bd-4388-95c3-3b43f517137a",
+                "pageNo": "200",
+                "pageTitle": "Page212",
+                "type": "slate",
+                "csgReferenceId": "54184787-6c90-4350-a980-b2f81bf8b981"
+            },
+            {
+                "pageId": "html212",
+                "playOrder": "213",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page213.xhtml",
+                "pageNumberUrn": "c552cf76-8e98-43fc-a45f-c7132b633fe5",
+                "pageNo": "201",
+                "pageTitle": "Page213",
+                "type": "slate",
+                "csgReferenceId": "069b5eba-99c4-405d-bda2-1c71374ed213"
+            },
+            {
+                "pageId": "html213",
+                "playOrder": "214",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page214.xhtml",
+                "pageNumberUrn": "0bc9f790-21e7-4ed1-b005-33acd8c95ee1",
+                "pageNo": "202",
+                "pageTitle": "Page214",
+                "type": "slate",
+                "csgReferenceId": "0fba72c2-72f8-4f40-a600-443a8b3f51f1"
+            },
+            {
+                "pageId": "html214",
+                "playOrder": "215",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page215.xhtml",
+                "pageNumberUrn": "a8ce0967-0d68-4bd9-97bf-74489655518f",
+                "pageNo": "203",
+                "pageTitle": "Page215",
+                "type": "slate",
+                "csgReferenceId": "6a6e69bd-76a9-4b03-b2b6-65bdd98feff6"
+            },
+            {
+                "pageId": "html215",
+                "playOrder": "216",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page216.xhtml",
+                "pageNumberUrn": "5fde9b01-62e9-4556-b30f-31fa2cb0c7ec",
+                "pageNo": "204",
+                "pageTitle": "Page216",
+                "type": "slate",
+                "csgReferenceId": "d6ec8bd4-8f92-4b71-9ce7-4b59a7d37b6e"
+            },
+            {
+                "pageId": "html216",
+                "playOrder": "217",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page217.xhtml",
+                "pageNumberUrn": "6e3951c1-4a02-4d53-ab24-86a1e262d4d2",
+                "pageNo": "205",
+                "pageTitle": "Page217",
+                "type": "slate",
+                "csgReferenceId": "d8c26803-bb3d-4319-a466-61b32e535da4"
+            },
+            {
+                "pageId": "html217",
+                "playOrder": "218",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page218.xhtml",
+                "pageNumberUrn": "a5d6f635-90e6-428f-9a38-d21dc31e51fb",
+                "pageNo": "206",
+                "pageTitle": "5.2 Homeostatic mechanisms in animals",
+                "type": "slate",
+                "csgReferenceId": "1da53e27-133f-4002-ad6c-99456d113b50"
+            },
+            {
+                "pageId": "html218",
+                "playOrder": "219",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page219.xhtml",
+                "pageNumberUrn": "e1c5ffa1-f751-45aa-b3bb-015f1832b3b8",
+                "pageNo": "207",
+                "pageTitle": "Page219",
+                "type": "slate",
+                "csgReferenceId": "909b6b45-f675-4143-8985-c67f20bce603"
+            },
+            {
+                "pageId": "html219",
+                "playOrder": "220",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page220.xhtml",
+                "pageNumberUrn": "b107e011-0cb9-4738-b6ee-684e071ba6cf",
+                "pageNo": "208",
+                "pageTitle": "Page220",
+                "type": "slate",
+                "csgReferenceId": "4eb5efa4-c310-495e-a32e-8b0a2763b942"
+            },
+            {
+                "pageId": "html220",
+                "playOrder": "221",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page221.xhtml",
+                "pageNumberUrn": "0524fb25-e310-4f38-8a6b-8c6bf1f28814",
+                "pageNo": "209",
+                "pageTitle": "Page221",
+                "type": "slate",
+                "csgReferenceId": "32e01f51-a9ec-4d94-88a3-bac3fd516c1f"
+            },
+            {
+                "pageId": "html221",
+                "playOrder": "222",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page222.xhtml",
+                "pageNumberUrn": "ff4d96bc-7664-4d28-9a35-7449bf8539e3",
+                "pageNo": "210",
+                "pageTitle": "Page222",
+                "type": "slate",
+                "csgReferenceId": "b59bc507-2d03-4756-aa6f-5983d0503b71"
+            },
+            {
+                "pageId": "html222",
+                "playOrder": "223",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page223.xhtml",
+                "pageNumberUrn": "37a98324-efc0-4396-8089-9cb757489394",
+                "pageNo": "211",
+                "pageTitle": "Page223",
+                "type": "slate",
+                "csgReferenceId": "0a69d175-459a-4004-b000-eaf2b79fc79f"
+            },
+            {
+                "pageId": "html223",
+                "playOrder": "224",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page224.xhtml",
+                "pageNumberUrn": "99fc006e-b63f-4356-970d-65dbe209a4ba",
+                "pageNo": "212",
+                "pageTitle": "Page224",
+                "type": "slate",
+                "csgReferenceId": "6867725a-8659-4e59-8fbc-0842144c14a3"
+            },
+            {
+                "pageId": "html224",
+                "playOrder": "225",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page225.xhtml",
+                "pageNumberUrn": "4296cd80-c4c4-4981-84b0-3df9adc6e8af",
+                "pageNo": "213",
+                "pageTitle": "Page225",
+                "type": "slate",
+                "csgReferenceId": "f4008c5e-4ac1-4753-ad30-f59e752767a8"
+            },
+            {
+                "pageId": "html225",
+                "playOrder": "226",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page226.xhtml",
+                "pageNumberUrn": "541afe8f-1513-4d80-bbbb-9e102d1e7ea9",
+                "pageNo": "214",
+                "pageTitle": "Page226",
+                "type": "slate",
+                "csgReferenceId": "560bb235-ff76-4082-acae-6f0240ade35a"
+            },
+            {
+                "pageId": "html226",
+                "playOrder": "227",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page227.xhtml",
+                "pageNumberUrn": "48ad7cd1-9129-42bf-ab96-9ed5f39a5dba",
+                "pageNo": "215",
+                "pageTitle": "Page227",
+                "type": "slate",
+                "csgReferenceId": "e6dd2c7b-2897-47fe-90ae-ddd4535bf66d"
+            },
+            {
+                "pageId": "html227",
+                "playOrder": "228",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page228.xhtml",
+                "pageNumberUrn": "f0c3a5e9-fb80-4aae-b1a2-109c8746f0d2",
+                "pageNo": "216",
+                "pageTitle": "Page228",
+                "type": "slate",
+                "csgReferenceId": "ab0d5d30-49d5-48d7-81fe-4873f23a9f99"
+            },
+            {
+                "pageId": "html228",
+                "playOrder": "229",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page229.xhtml",
+                "pageNumberUrn": "6c91653d-184b-4f42-9b8b-3f1c9cf0c36d",
+                "pageNo": "217",
+                "pageTitle": "Page229",
+                "type": "slate",
+                "csgReferenceId": "eb492b3d-9575-49b6-86b4-089b4a65faef"
+            },
+            {
+                "pageId": "html229",
+                "playOrder": "230",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page230.xhtml",
+                "pageNumberUrn": "047754a0-3b87-4479-950a-e8a702963ac2",
+                "pageNo": "218",
+                "pageTitle": "Page230",
+                "type": "slate",
+                "csgReferenceId": "055868f3-1272-4cb1-bedb-e91bb58775be"
+            },
+            {
+                "pageId": "html230",
+                "playOrder": "231",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page231.xhtml",
+                "pageNumberUrn": "697f215d-e3dc-4192-91cb-dae49304c39b",
+                "pageNo": "219",
+                "pageTitle": "Page231",
+                "type": "slate",
+                "csgReferenceId": "c6e53e07-97fc-4cac-8244-0a05ff408b09"
+            },
+            {
+                "pageId": "html231",
+                "playOrder": "232",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page232.xhtml",
+                "pageNumberUrn": "a94d59e0-c1da-4337-bd4e-6e574740a1e2",
+                "pageNo": "220",
+                "pageTitle": "Page232",
+                "type": "slate",
+                "csgReferenceId": "499d88ac-4e30-4ee5-a83b-f7ec807ad100"
+            },
+            {
+                "pageId": "html232",
+                "playOrder": "233",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page233.xhtml",
+                "pageNumberUrn": "c9a4017f-8203-4120-9081-2afc70ab60c4",
+                "pageNo": "221",
+                "pageTitle": "Page233",
+                "type": "slate",
+                "csgReferenceId": "ed485ae3-a33d-42ef-8c2a-11cab7241ed8"
+            },
+            {
+                "pageId": "html233",
+                "playOrder": "234",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page234.xhtml",
+                "pageNumberUrn": "40daa8d1-02d1-41d6-a570-143f2907b892",
+                "pageNo": "222",
+                "pageTitle": "Page234",
+                "type": "slate",
+                "csgReferenceId": "35d638e5-bf6a-4186-b5f6-1d9371c1448c"
+            },
+            {
+                "pageId": "html234",
+                "playOrder": "235",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page235.xhtml",
+                "pageNumberUrn": "6a2624f8-4bca-4ba3-8241-ec9864e49d33",
+                "pageNo": "223",
+                "pageTitle": "Page235",
+                "type": "slate",
+                "csgReferenceId": "a56b7691-1787-4b24-9f57-a17d96c3db9a"
+            },
+            {
+                "pageId": "html235",
+                "playOrder": "236",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page236.xhtml",
+                "pageNumberUrn": "7ab999fc-1687-4853-8d4a-7a0ea0a9cda7",
+                "pageNo": "224",
+                "pageTitle": "5.3 Malfunctions in homeostatic mechanisms",
+                "type": "slate",
+                "csgReferenceId": "c643eebf-12e8-4f0e-a822-7ba4067d0d04"
+            },
+            {
+                "pageId": "html236",
+                "playOrder": "237",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page237.xhtml",
+                "pageNumberUrn": "eaa57547-9198-4051-93e1-fb5e6016129e",
+                "pageNo": "225",
+                "pageTitle": "Page237",
+                "type": "slate",
+                "csgReferenceId": "da080d05-f009-4c8b-afc8-1f3aed00c4af"
+            },
+            {
+                "pageId": "html237",
+                "playOrder": "238",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page238.xhtml",
+                "pageNumberUrn": "f4637a9d-cd82-4939-9711-b3e61d67cd5d",
+                "pageNo": "226",
+                "pageTitle": "Page238",
+                "type": "slate",
+                "csgReferenceId": "0e9ba49a-9681-4f6e-9687-b10f58293639"
+            },
+            {
+                "pageId": "html238",
+                "playOrder": "239",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page239.xhtml",
+                "pageNumberUrn": "a5a548fc-e918-4702-b0be-aff9707f6277",
+                "pageNo": "227",
+                "pageTitle": "Page239",
+                "type": "slate",
+                "csgReferenceId": "13ee45b4-2ec3-480e-868f-9b920f1ecf6d"
+            },
+            {
+                "pageId": "html239",
+                "playOrder": "240",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page240.xhtml",
+                "pageNumberUrn": "8630de0d-c41e-48cf-a717-6630c3d08145",
+                "pageNo": "228",
+                "pageTitle": "Page240",
+                "type": "slate",
+                "csgReferenceId": "f4282480-a1b9-4131-998f-dfc2e4c54c2b"
+            },
+            {
+                "pageId": "html240",
+                "playOrder": "241",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page241.xhtml",
+                "pageNumberUrn": "9aca7bab-2ae9-46c5-9863-74ce9d69f6c5",
+                "pageNo": "229",
+                "pageTitle": "Page241",
+                "type": "slate",
+                "csgReferenceId": "214202c4-d0ad-4286-a8d8-78fd66f804fb"
+            },
+            {
+                "pageId": "html241",
+                "playOrder": "242",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page242.xhtml",
+                "pageNumberUrn": "3b6c623a-bcd6-4b5f-8adf-a5624207c09f",
+                "pageNo": "230",
+                "pageTitle": "Page242",
+                "type": "slate",
+                "csgReferenceId": "127a6a9e-5a71-4eab-a1ec-eadd0293477a"
+            },
+            {
+                "pageId": "html242",
+                "playOrder": "243",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page243.xhtml",
+                "pageNumberUrn": "fd955e65-7c8d-4c07-b673-39a3530a6d9e",
+                "pageNo": "231",
+                "pageTitle": "Page243",
+                "type": "slate",
+                "csgReferenceId": "5bcee3cb-36cd-4e60-a439-d10689ae9990"
+            },
+            {
+                "pageId": "html243",
+                "playOrder": "244",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page244.xhtml",
+                "pageNumberUrn": "85825ead-632e-454d-8ef2-1b57fd5cd19b",
+                "pageNo": "232",
+                "pageTitle": "Page244",
+                "type": "slate",
+                "csgReferenceId": "e8ddc8ed-afbb-48d9-9ecc-404e5598bbe4"
+            },
+            {
+                "pageId": "html244",
+                "playOrder": "245",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page245.xhtml",
+                "pageNumberUrn": "a8456813-e027-4695-8bf7-1dd69a76f68c",
+                "pageNo": "233",
+                "pageTitle": "Chapter 5 Review",
+                "type": "slate",
+                "csgReferenceId": "18da361a-212f-4e5f-b882-833f38133859"
+            },
+            {
+                "pageId": "html245",
+                "playOrder": "246",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page246.xhtml",
+                "pageNumberUrn": "230676d4-c066-45a1-b813-58dc818348a5",
+                "pageNo": "234",
+                "pageTitle": "Page246",
+                "type": "slate",
+                "csgReferenceId": "00213dcb-65dd-4a1a-aace-85b7b6db9e4f"
+            },
+            {
+                "pageId": "html246",
+                "playOrder": "247",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page247.xhtml",
+                "pageNumberUrn": "f6a899eb-cb32-4dea-88c3-c7892389173a",
+                "pageNo": "235",
+                "pageTitle": "Page247",
+                "type": "slate",
+                "csgReferenceId": "9f8da161-da26-4081-98fc-c671752d7afa"
+            },
+            {
+                "pageId": "html247",
+                "playOrder": "248",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page248.xhtml",
+                "pageNumberUrn": "d6a29665-0223-4d54-9b67-7589ed75605c",
+                "pageNo": "236",
+                "pageTitle": "Unit 1 Area of Study 2 Review questions",
+                "type": "slate",
+                "csgReferenceId": "7dcaab51-d5cd-48b9-9246-00cc490e93c6"
+            },
+            {
+                "pageId": "html248",
+                "playOrder": "249",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page249.xhtml",
+                "pageNumberUrn": "2aad7e12-fd49-41b1-84d7-df4c9a5d96bd",
+                "pageNo": "237",
+                "pageTitle": "Page249",
+                "type": "slate",
+                "csgReferenceId": "c58877bf-3703-4c3e-b62a-9b8f4a488cb9"
+            },
+            {
+                "pageId": "html249",
+                "playOrder": "250",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page250.xhtml",
+                "pageNumberUrn": "faaafea1-0839-4844-8a9f-0b46e1747eb3",
+                "pageNo": "238",
+                "pageTitle": "Page250",
+                "type": "slate",
+                "csgReferenceId": "a2a9f1ec-9611-403c-a8d8-0e494e696eaf"
+            },
+            {
+                "pageId": "html250",
+                "playOrder": "251",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page251.xhtml",
+                "pageNumberUrn": "fea2d842-d269-4c28-8732-79167e0f16a7",
+                "pageNo": "239",
+                "pageTitle": "Page251",
+                "type": "slate",
+                "csgReferenceId": "4140c7e3-a6db-4cce-a296-7a0dcde181c7"
+            },
+            {
+                "pageId": "html251",
+                "playOrder": "252",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page252.xhtml",
+                "pageNumberUrn": "7255ddf6-247e-4165-8e55-1b11d3b048c3",
+                "pageNo": "240",
+                "pageTitle": "Page252",
+                "type": "slate",
+                "csgReferenceId": "51d3c280-6251-4c70-9f77-a5f4bbae38ba"
+            },
+            {
+                "pageId": "html252",
+                "playOrder": "253",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page253.xhtml",
+                "pageNumberUrn": "094ee101-fbef-4537-9fa7-43850d963f31",
+                "pageNo": "241",
+                "pageTitle": "Page253",
+                "type": "slate",
+                "csgReferenceId": "6e693417-a1f3-4916-80cb-7596decd24a0"
+            },
+            {
+                "pageId": "html253",
+                "playOrder": "254",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page254.xhtml",
+                "pageNumberUrn": "ec5bd5e2-97da-4d45-a2e7-0ffdb7b5e8bc",
+                "pageNo": "242",
+                "pageTitle": "Page254",
+                "type": "slate",
+                "csgReferenceId": "0c57067b-02ed-4f40-b331-79fae2fb8999"
+            },
+            {
+                "pageId": "html254",
+                "playOrder": "255",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page255.xhtml",
+                "pageNumberUrn": "c4f8e440-8da7-4293-880f-997d98e615b4",
+                "pageNo": "243",
+                "pageTitle": "Unit 2 How does inheritance impact on diversity?",
+                "type": "slate",
+                "csgReferenceId": "64c55510-d486-43fa-ac20-503023db64b7"
+            },
+            {
+                "pageId": "html255",
+                "playOrder": "256",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page256.xhtml",
+                "pageNumberUrn": "727b4bdc-2a71-462a-9713-d9ca4fd724e0",
+                "pageNo": "244",
+                "pageTitle": "Page256",
+                "type": "slate",
+                "csgReferenceId": "998517f9-54c9-4c9b-ac85-f9fea30830aa"
+            },
+            {
+                "pageId": "html256",
+                "playOrder": "257",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page257.xhtml",
+                "pageNumberUrn": "25244562-dfbf-4ca7-a59d-909319cd09a3",
+                "pageNo": "245",
+                "pageTitle": "Chapter 6 The nature of genes",
+                "type": "slate",
+                "csgReferenceId": "81914b71-41f3-41d5-8f00-919e83723058"
+            },
+            {
+                "pageId": "html257",
+                "playOrder": "258",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page258.xhtml",
+                "pageNumberUrn": "a2a1111a-d3cd-4c83-9650-c6f2ddeea6ca",
+                "pageNo": "246",
+                "pageTitle": "6.1 Chromosomes",
+                "type": "slate",
+                "csgReferenceId": "75f645ba-4f79-4da1-b33a-6f9848ea0a44"
+            },
+            {
+                "pageId": "html258",
+                "playOrder": "259",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page259.xhtml",
+                "pageNumberUrn": "d0bc5527-153f-4551-937a-2bac67f74aa8",
+                "pageNo": "247",
+                "pageTitle": "Page259",
+                "type": "slate",
+                "csgReferenceId": "84898bc3-d8b4-481f-927b-7882a5eb1e62"
+            },
+            {
+                "pageId": "html259",
+                "playOrder": "260",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page260.xhtml",
+                "pageNumberUrn": "be494bb4-b99e-471e-b623-5a97e2a183ec",
+                "pageNo": "248",
+                "pageTitle": "Page260",
+                "type": "slate",
+                "csgReferenceId": "ed9119b2-07b4-469b-900f-412a726d3106"
+            },
+            {
+                "pageId": "html260",
+                "playOrder": "261",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page261.xhtml",
+                "pageNumberUrn": "d8dffc81-d630-4bdc-9ac1-945f8486ca28",
+                "pageNo": "249",
+                "pageTitle": "Page261",
+                "type": "slate",
+                "csgReferenceId": "d93e9fa7-18b3-4e31-94c4-a124c058fd3a"
+            },
+            {
+                "pageId": "html261",
+                "playOrder": "262",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page262.xhtml",
+                "pageNumberUrn": "73a2f159-2af5-462e-a450-e92cf6d4a84a",
+                "pageNo": "250",
+                "pageTitle": "Page262",
+                "type": "slate",
+                "csgReferenceId": "524e87bb-1481-48f5-88ac-5ba1be36b2f9"
+            },
+            {
+                "pageId": "html262",
+                "playOrder": "263",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page263.xhtml",
+                "pageNumberUrn": "7a753e93-092f-4de7-a229-88bac1914d3b",
+                "pageNo": "251",
+                "pageTitle": "Page263",
+                "type": "slate",
+                "csgReferenceId": "6453b226-e19e-4680-a6ed-a3829242119d"
+            },
+            {
+                "pageId": "html263",
+                "playOrder": "264",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page264.xhtml",
+                "pageNumberUrn": "af382e21-b804-4e30-b37a-a97afad147bf",
+                "pageNo": "252",
+                "pageTitle": "Page264",
+                "type": "slate",
+                "csgReferenceId": "51b63056-cbdd-40b1-a129-5c715a93c689"
+            },
+            {
+                "pageId": "html264",
+                "playOrder": "265",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page265.xhtml",
+                "pageNumberUrn": "11690062-985a-4f73-9ec4-9ed711a4b7a6",
+                "pageNo": "253",
+                "pageTitle": "Page265",
+                "type": "slate",
+                "csgReferenceId": "67da82c8-557f-49a7-a7c6-e2005963d081"
+            },
+            {
+                "pageId": "html265",
+                "playOrder": "266",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page266.xhtml",
+                "pageNumberUrn": "56e57fc6-b66d-4164-b8a4-991e1897de36",
+                "pageNo": "254",
+                "pageTitle": "Page266",
+                "type": "slate",
+                "csgReferenceId": "8519ddf5-210e-49e6-a6b4-4d5a440a9ce8"
+            },
+            {
+                "pageId": "html266",
+                "playOrder": "267",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page267.xhtml",
+                "pageNumberUrn": "cf32014e-6078-46ab-a453-00782af36681",
+                "pageNo": "255",
+                "pageTitle": "Page267",
+                "type": "slate",
+                "csgReferenceId": "ea564dbd-4a1a-4a38-8be9-5170f97c0625"
+            },
+            {
+                "pageId": "html267",
+                "playOrder": "268",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page268.xhtml",
+                "pageNumberUrn": "7d4bba83-b7ef-4174-95a5-794d95c61e36",
+                "pageNo": "256",
+                "pageTitle": "Page268",
+                "type": "slate",
+                "csgReferenceId": "3446d03a-d21c-41cf-8c61-2bf222550d8b"
+            },
+            {
+                "pageId": "html268",
+                "playOrder": "269",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page269.xhtml",
+                "pageNumberUrn": "9094a847-f93f-407b-afdc-789ddadb19f1",
+                "pageNo": "257",
+                "pageTitle": "Page269",
+                "type": "slate",
+                "csgReferenceId": "3993d277-e967-43a2-ac43-6ed710f1bfba"
+            },
+            {
+                "pageId": "html269",
+                "playOrder": "270",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page270.xhtml",
+                "pageNumberUrn": "3b824534-6308-491b-af37-3e00ec629a0f",
+                "pageNo": "258",
+                "pageTitle": "Page270",
+                "type": "slate",
+                "csgReferenceId": "c8836ed8-7008-468b-8d9f-b5b103ee84b3"
+            },
+            {
+                "pageId": "html270",
+                "playOrder": "271",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page271.xhtml",
+                "pageNumberUrn": "dbab2fdc-1c51-4cfe-bb80-22c300935efc",
+                "pageNo": "259",
+                "pageTitle": "Page271",
+                "type": "slate",
+                "csgReferenceId": "1e09c513-7826-4bad-9dce-57df36f5cfc9"
+            },
+            {
+                "pageId": "html271",
+                "playOrder": "272",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page272.xhtml",
+                "pageNumberUrn": "b2b29c89-217d-48f1-8452-4eef951bc0bf",
+                "pageNo": "260",
+                "pageTitle": "Page272",
+                "type": "slate",
+                "csgReferenceId": "5b61f976-a2b7-4e69-b285-01b6689fae65"
+            },
+            {
+                "pageId": "html272",
+                "playOrder": "273",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page273.xhtml",
+                "pageNumberUrn": "d81e96c8-7a2b-43a8-9485-e0199b92b753",
+                "pageNo": "261",
+                "pageTitle": "Page273",
+                "type": "slate",
+                "csgReferenceId": "fc333db7-2dd3-49e2-b71e-96ed45c871af"
+            },
+            {
+                "pageId": "html273",
+                "playOrder": "274",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page274.xhtml",
+                "pageNumberUrn": "8f09da13-1ed5-4d55-aec8-ddd2e06e555b",
+                "pageNo": "262",
+                "pageTitle": "6.2 DNA and genes",
+                "type": "slate",
+                "csgReferenceId": "84725e61-e31e-433e-b91b-124fed637392"
+            },
+            {
+                "pageId": "html274",
+                "playOrder": "275",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page275.xhtml",
+                "pageNumberUrn": "2d180a39-ce8b-4219-88f2-9c87aaa94a2c",
+                "pageNo": "263",
+                "pageTitle": "Page275",
+                "type": "slate",
+                "csgReferenceId": "1697f4a0-8577-419c-b375-126defa86955"
+            },
+            {
+                "pageId": "html275",
+                "playOrder": "276",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page276.xhtml",
+                "pageNumberUrn": "661f6910-7915-4301-b7c3-a3c1989358a1",
+                "pageNo": "264",
+                "pageTitle": "Page276",
+                "type": "slate",
+                "csgReferenceId": "ade00e88-2f64-49fa-a7f7-57f6cbfeaf41"
+            },
+            {
+                "pageId": "html276",
+                "playOrder": "277",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page277.xhtml",
+                "pageNumberUrn": "0f9bf211-d0cd-4981-a26a-0636b7fd6d77",
+                "pageNo": "265",
+                "pageTitle": "Page277",
+                "type": "slate",
+                "csgReferenceId": "7b2faf68-2bad-4114-bb67-9f4fe9b26cd5"
+            },
+            {
+                "pageId": "html277",
+                "playOrder": "278",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page278.xhtml",
+                "pageNumberUrn": "33b5f652-6e35-4162-ae80-f91fb1f8f363",
+                "pageNo": "266",
+                "pageTitle": "Page278",
+                "type": "slate",
+                "csgReferenceId": "1e986049-d63b-4fc5-b792-4dd0ad32c63c"
+            },
+            {
+                "pageId": "html278",
+                "playOrder": "279",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page279.xhtml",
+                "pageNumberUrn": "99e029a3-cfe8-4007-afbd-67ff9b7b2f60",
+                "pageNo": "267",
+                "pageTitle": "6.3 Genotypes and phenotypes",
+                "type": "slate",
+                "csgReferenceId": "b3753d37-e480-41ec-a13a-dbf6867be7f8"
+            },
+            {
+                "pageId": "html279",
+                "playOrder": "280",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page280.xhtml",
+                "pageNumberUrn": "67d2035d-a777-46a5-a146-f9772c5e4dfd",
+                "pageNo": "268",
+                "pageTitle": "Page280",
+                "type": "slate",
+                "csgReferenceId": "7bfb33a8-e054-43ce-96bc-0c93eee3cc9c"
+            },
+            {
+                "pageId": "html280",
+                "playOrder": "281",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page281.xhtml",
+                "pageNumberUrn": "a3c62441-c284-4ee4-841e-d49382e2363e",
+                "pageNo": "269",
+                "pageTitle": "Page281",
+                "type": "slate",
+                "csgReferenceId": "589cc775-d9ae-4d99-832e-5c8a6c6f456d"
+            },
+            {
+                "pageId": "html281",
+                "playOrder": "282",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page282.xhtml",
+                "pageNumberUrn": "68cc7db0-bc73-4130-85bf-5cba405d0fe0",
+                "pageNo": "270",
+                "pageTitle": "Page282",
+                "type": "slate",
+                "csgReferenceId": "e68e6d10-3679-48bf-b3b6-d94e0a1ffdfd"
+            },
+            {
+                "pageId": "html282",
+                "playOrder": "283",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page283.xhtml",
+                "pageNumberUrn": "2d647f7d-2861-4029-9d03-0a6cef1ca1ae",
+                "pageNo": "271",
+                "pageTitle": "Page283",
+                "type": "slate",
+                "csgReferenceId": "c4fd6bd0-f3b9-40c6-af99-617892fbe245"
+            },
+            {
+                "pageId": "html283",
+                "playOrder": "284",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page284.xhtml",
+                "pageNumberUrn": "92035840-6872-4421-b423-690a30dc225d",
+                "pageNo": "272",
+                "pageTitle": "Page284",
+                "type": "slate",
+                "csgReferenceId": "c5a888b5-eb51-4b4f-a6f1-197894fda6f5"
+            },
+            {
+                "pageId": "html284",
+                "playOrder": "285",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page285.xhtml",
+                "pageNumberUrn": "d673b67f-e1bb-4a31-95cc-2c78a3d27ecc",
+                "pageNo": "273",
+                "pageTitle": "Page285",
+                "type": "slate",
+                "csgReferenceId": "451d22a6-e9d4-4fdb-8db8-6b88a695b300"
+            },
+            {
+                "pageId": "html285",
+                "playOrder": "286",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page286.xhtml",
+                "pageNumberUrn": "a5d6d2ed-39f3-47bc-82b9-69fda51c781e",
+                "pageNo": "274",
+                "pageTitle": "Page286",
+                "type": "slate",
+                "csgReferenceId": "086cec7f-b023-40d0-b54b-e175a77051d0"
+            },
+            {
+                "pageId": "html286",
+                "playOrder": "287",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page287.xhtml",
+                "pageNumberUrn": "b4a8693b-717b-4b09-bf42-cdd6f876a510",
+                "pageNo": "275",
+                "pageTitle": "Chapter 6 Review",
+                "type": "slate",
+                "csgReferenceId": "22984d5b-34ca-47ed-b69e-2127d89439b2"
+            },
+            {
+                "pageId": "html287",
+                "playOrder": "288",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page288.xhtml",
+                "pageNumberUrn": "6027e309-c9e9-4a72-8549-5ad557e529d1",
+                "pageNo": "276",
+                "pageTitle": "Page288",
+                "type": "slate",
+                "csgReferenceId": "acccc6b2-b340-44e6-b121-b02166e981ce"
+            },
+            {
+                "pageId": "html288",
+                "playOrder": "289",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page289.xhtml",
+                "pageNumberUrn": "54d1238e-0627-4f1f-9df1-244290244669",
+                "pageNo": "277",
+                "pageTitle": "Page289",
+                "type": "slate",
+                "csgReferenceId": "a720de0d-4491-4437-bcf7-6ab74ac9c056"
+            },
+            {
+                "pageId": "html289",
+                "playOrder": "290",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page290.xhtml",
+                "pageNumberUrn": "926b5776-3437-4cce-8218-7580191660e0",
+                "pageNo": "278",
+                "pageTitle": "Page290",
+                "type": "slate",
+                "csgReferenceId": "f67f8e98-a304-4a72-98d5-6ac9790591e7"
+            },
+            {
+                "pageId": "html290",
+                "playOrder": "291",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page291.xhtml",
+                "pageNumberUrn": "19a5d864-2eae-4b65-a3ce-96bb9e71b082",
+                "pageNo": "279",
+                "pageTitle": "Page291",
+                "type": "slate",
+                "csgReferenceId": "9d221247-8621-4741-8bd6-285bc44bf7f4"
+            },
+            {
+                "pageId": "html291",
+                "playOrder": "292",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page292.xhtml",
+                "pageNumberUrn": "bf4ee660-b4cf-4a00-bb8d-4c3274bd425f",
+                "pageNo": "280",
+                "pageTitle": "Page292",
+                "type": "slate",
+                "csgReferenceId": "1ffdff77-df6e-4563-b327-e0f5a071c05a"
+            },
+            {
+                "pageId": "html292",
+                "playOrder": "293",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page293.xhtml",
+                "pageNumberUrn": "eddf2aad-e2ff-4a5e-96c9-dc3e0212ed35",
+                "pageNo": "281",
+                "pageTitle": "Chapter 7 Patterns of inheritance",
+                "type": "slate",
+                "csgReferenceId": "2c9f911c-698e-4fcd-8c28-a9535eddff50"
+            },
+            {
+                "pageId": "html293",
+                "playOrder": "294",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page294.xhtml",
+                "pageNumberUrn": "9b7ccde7-e40d-4988-91f6-acca11fd90c2",
+                "pageNo": "282",
+                "pageTitle": "7.1 Monohybrid crosses",
+                "type": "slate",
+                "csgReferenceId": "80b7d3a4-0105-41d7-b58e-061a5cd07e4b"
+            },
+            {
+                "pageId": "html294",
+                "playOrder": "295",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page295.xhtml",
+                "pageNumberUrn": "da707d36-98e6-4bf6-91be-cfc7f78cd60e",
+                "pageNo": "283",
+                "pageTitle": "Page295",
+                "type": "slate",
+                "csgReferenceId": "8b05f877-8420-4396-9105-b2569d0e09f3"
+            },
+            {
+                "pageId": "html295",
+                "playOrder": "296",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page296.xhtml",
+                "pageNumberUrn": "72bdc0cd-7008-4ea2-8ee2-8fa9e4cd99ad",
+                "pageNo": "284",
+                "pageTitle": "Page296",
+                "type": "slate",
+                "csgReferenceId": "3f5b7153-fa15-480c-8dea-4359a0afce57"
+            },
+            {
+                "pageId": "html296",
+                "playOrder": "297",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page297.xhtml",
+                "pageNumberUrn": "02be4317-ebab-464f-ba17-635b7a7cf819",
+                "pageNo": "285",
+                "pageTitle": "Page297",
+                "type": "slate",
+                "csgReferenceId": "d279e22d-8578-487d-932a-80e21c894936"
+            },
+            {
+                "pageId": "html297",
+                "playOrder": "298",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page298.xhtml",
+                "pageNumberUrn": "c4bd44a8-5c09-4728-9df8-772e06b78c27",
+                "pageNo": "286",
+                "pageTitle": "Page298",
+                "type": "slate",
+                "csgReferenceId": "1f1264a4-1a4a-454c-9c62-2cabc283c3c7"
+            },
+            {
+                "pageId": "html298",
+                "playOrder": "299",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page299.xhtml",
+                "pageNumberUrn": "50f77f06-bbe7-4b1d-b34c-532fb751d40d",
+                "pageNo": "287",
+                "pageTitle": "Page299",
+                "type": "slate",
+                "csgReferenceId": "87a81f84-3120-4296-98db-897f3999ab2b"
+            },
+            {
+                "pageId": "html299",
+                "playOrder": "300",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page300.xhtml",
+                "pageNumberUrn": "57fc9efb-5889-400a-b063-8918da445d29",
+                "pageNo": "288",
+                "pageTitle": "Page300",
+                "type": "slate",
+                "csgReferenceId": "0328acfc-a120-4712-9895-f54341485f10"
+            },
+            {
+                "pageId": "html300",
+                "playOrder": "301",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page301.xhtml",
+                "pageNumberUrn": "1b97ce15-bb9a-4797-9bc5-500c793884b9",
+                "pageNo": "289",
+                "pageTitle": "Page301",
+                "type": "slate",
+                "csgReferenceId": "a0a58bc1-b057-4bfb-99d4-bc5e160d6050"
+            },
+            {
+                "pageId": "html301",
+                "playOrder": "302",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page302.xhtml",
+                "pageNumberUrn": "91e0f2e9-8f32-45b4-9c97-9091c72fe60d",
+                "pageNo": "290",
+                "pageTitle": "Page302",
+                "type": "slate",
+                "csgReferenceId": "0f8d9e69-c488-47cb-92d0-9a733d4a7c08"
+            },
+            {
+                "pageId": "html302",
+                "playOrder": "303",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page303.xhtml",
+                "pageNumberUrn": "962909b8-ddea-4e3e-beef-a03e36a722b2",
+                "pageNo": "291",
+                "pageTitle": "Page303",
+                "type": "slate",
+                "csgReferenceId": "958e520e-c8ae-4e96-b449-59fcb8e2a0e3"
+            },
+            {
+                "pageId": "html303",
+                "playOrder": "304",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page304.xhtml",
+                "pageNumberUrn": "9151aec9-8a97-4fe0-ba85-505b1a12e9fa",
+                "pageNo": "292",
+                "pageTitle": "Page304",
+                "type": "slate",
+                "csgReferenceId": "f36699cb-ef3a-40e7-abec-b3ba95906dda"
+            },
+            {
+                "pageId": "html304",
+                "playOrder": "305",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page305.xhtml",
+                "pageNumberUrn": "b433e507-2b2e-44c6-a098-77909aad6602",
+                "pageNo": "293",
+                "pageTitle": "Page305",
+                "type": "slate",
+                "csgReferenceId": "b4cae54c-745f-4e0b-aa51-ffe36de5dbf4"
+            },
+            {
+                "pageId": "html305",
+                "playOrder": "306",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page306.xhtml",
+                "pageNumberUrn": "5deba0f8-2762-469c-8608-04dd8c163b17",
+                "pageNo": "294",
+                "pageTitle": "Page306",
+                "type": "slate",
+                "csgReferenceId": "22f0ae8c-e07e-41f4-a90b-7f0a86312ce3"
+            },
+            {
+                "pageId": "html306",
+                "playOrder": "307",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page307.xhtml",
+                "pageNumberUrn": "8e6fac20-60b2-4ea4-b57e-08c2070fcf57",
+                "pageNo": "295",
+                "pageTitle": "7.2 Pedigree charts and inheritance patterns",
+                "type": "slate",
+                "csgReferenceId": "21adc259-b57f-4d49-a546-d8bf1cc32d71"
+            },
+            {
+                "pageId": "html307",
+                "playOrder": "308",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page308.xhtml",
+                "pageNumberUrn": "98e07273-f7f7-43fd-ba27-ca023364dba2",
+                "pageNo": "296",
+                "pageTitle": "Page308",
+                "type": "slate",
+                "csgReferenceId": "959b0466-e81b-45f8-ad2e-55a15f08d83c"
+            },
+            {
+                "pageId": "html308",
+                "playOrder": "309",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page309.xhtml",
+                "pageNumberUrn": "dcb326f8-4b56-42e3-9262-bff2d10b84b1",
+                "pageNo": "297",
+                "pageTitle": "Page309",
+                "type": "slate",
+                "csgReferenceId": "3c7c6f60-4d98-42a3-a147-6615a29f6c5b"
+            },
+            {
+                "pageId": "html309",
+                "playOrder": "310",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page310.xhtml",
+                "pageNumberUrn": "0a883593-1866-4e72-8918-5ebb1ba143ac",
+                "pageNo": "298",
+                "pageTitle": "Page310",
+                "type": "slate",
+                "csgReferenceId": "c0cea149-ede5-4091-9a81-fa8d2fed1ed5"
+            },
+            {
+                "pageId": "html310",
+                "playOrder": "311",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page311.xhtml",
+                "pageNumberUrn": "ab20d30b-b886-468e-a4fe-08ef8fa11e54",
+                "pageNo": "299",
+                "pageTitle": "Page311",
+                "type": "slate",
+                "csgReferenceId": "bd09cbff-67d0-4b43-8ec7-fc026cd0847d"
+            },
+            {
+                "pageId": "html311",
+                "playOrder": "312",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page312.xhtml",
+                "pageNumberUrn": "f6fe420e-8d7c-4fbd-9774-34f7aa64c645",
+                "pageNo": "300",
+                "pageTitle": "Page312",
+                "type": "slate",
+                "csgReferenceId": "c7476d61-2e0a-440f-92f1-589ce36aee03"
+            },
+            {
+                "pageId": "html312",
+                "playOrder": "313",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page313.xhtml",
+                "pageNumberUrn": "4e21006e-d09f-4236-a311-796ea16c7995",
+                "pageNo": "301",
+                "pageTitle": "Page313",
+                "type": "slate",
+                "csgReferenceId": "5605b50b-25aa-4dd0-83ce-081599ae0b19"
+            },
+            {
+                "pageId": "html313",
+                "playOrder": "314",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page314.xhtml",
+                "pageNumberUrn": "2a227d70-a3aa-49a5-8182-ab63b4f9efa1",
+                "pageNo": "302",
+                "pageTitle": "Page314",
+                "type": "slate",
+                "csgReferenceId": "210d3e0a-af10-44a9-9f31-3e7b9004685b"
+            },
+            {
+                "pageId": "html314",
+                "playOrder": "315",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page315.xhtml",
+                "pageNumberUrn": "9e717a2b-8e3a-4aa2-b465-f8febc4d5c88",
+                "pageNo": "303",
+                "pageTitle": "Page315",
+                "type": "slate",
+                "csgReferenceId": "f0908924-67d6-430d-a577-cfb18c9a7404"
+            },
+            {
+                "pageId": "html315",
+                "playOrder": "316",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page316.xhtml",
+                "pageNumberUrn": "c3ce9d85-e1ff-4554-b933-0405ecec105e",
+                "pageNo": "304",
+                "pageTitle": "7.3 Dihybrid crosses",
+                "type": "slate",
+                "csgReferenceId": "39a80bdc-1288-450f-aef4-1ebc82db5be0"
+            },
+            {
+                "pageId": "html316",
+                "playOrder": "317",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page317.xhtml",
+                "pageNumberUrn": "840beade-9f3b-4ad9-a051-f64cdbafb55f",
+                "pageNo": "305",
+                "pageTitle": "Page317",
+                "type": "slate",
+                "csgReferenceId": "1d2a5579-cf12-4de1-bfa0-6eb2ac482020"
+            },
+            {
+                "pageId": "html317",
+                "playOrder": "318",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page318.xhtml",
+                "pageNumberUrn": "348514c4-144b-4d7f-ac2b-cf419fe08df2",
+                "pageNo": "306",
+                "pageTitle": "Page318",
+                "type": "slate",
+                "csgReferenceId": "446fa5e8-0f50-4856-a3e7-40c1c71349a1"
+            },
+            {
+                "pageId": "html318",
+                "playOrder": "319",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page319.xhtml",
+                "pageNumberUrn": "3982e902-7fd2-4ad6-a531-3bacc1321574",
+                "pageNo": "307",
+                "pageTitle": "Page319",
+                "type": "slate",
+                "csgReferenceId": "134ae939-dbde-4b3d-acec-61e9e7acc14a"
+            },
+            {
+                "pageId": "html319",
+                "playOrder": "320",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page320.xhtml",
+                "pageNumberUrn": "a7c91d84-006f-4c11-a796-cff3fbb6a57c",
+                "pageNo": "308",
+                "pageTitle": "Page320",
+                "type": "slate",
+                "csgReferenceId": "cb2101da-72a3-4dbf-877d-0eda5766778f"
+            },
+            {
+                "pageId": "html320",
+                "playOrder": "321",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page321.xhtml",
+                "pageNumberUrn": "4a4eafb4-ab2a-4a0e-a7d8-6e5e686380ce",
+                "pageNo": "309",
+                "pageTitle": "Page321",
+                "type": "slate",
+                "csgReferenceId": "f53bd7d9-cdf5-4b13-b767-558fbe33138e"
+            },
+            {
+                "pageId": "html321",
+                "playOrder": "322",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page322.xhtml",
+                "pageNumberUrn": "7b5cdbe4-d888-4c21-bc1c-227a4609e5f6",
+                "pageNo": "310",
+                "pageTitle": "Page322",
+                "type": "slate",
+                "csgReferenceId": "b9d29bb1-e1d1-4b18-9548-520546cfa4e0"
+            },
+            {
+                "pageId": "html322",
+                "playOrder": "323",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page323.xhtml",
+                "pageNumberUrn": "d141d242-1303-4cd3-b81b-10c356d7dc4b",
+                "pageNo": "311",
+                "pageTitle": "Page323",
+                "type": "slate",
+                "csgReferenceId": "abf195f7-0f93-42a8-a7c6-39823f6d5a9d"
+            },
+            {
+                "pageId": "html323",
+                "playOrder": "324",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page324.xhtml",
+                "pageNumberUrn": "f610509a-510f-4c6f-97b5-7cd7ee27321d",
+                "pageNo": "312",
+                "pageTitle": "Chapter 7 Review",
+                "type": "slate",
+                "csgReferenceId": "1b1170ab-49f8-4da8-b9e7-0a8d96d258ad"
+            },
+            {
+                "pageId": "html324",
+                "playOrder": "325",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page325.xhtml",
+                "pageNumberUrn": "26c10573-8b44-4273-be9f-5ff893aa0318",
+                "pageNo": "313",
+                "pageTitle": "Page325",
+                "type": "slate",
+                "csgReferenceId": "a334de92-a3a4-4f39-b706-8e1c7f1108f5"
+            },
+            {
+                "pageId": "html325",
+                "playOrder": "326",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page326.xhtml",
+                "pageNumberUrn": "c90d5176-c0b8-42e6-b174-5820de2f1117",
+                "pageNo": "314",
+                "pageTitle": "Unit 2 Area of Study 1 Review questions",
+                "type": "slate",
+                "csgReferenceId": "1d9b6c4c-e331-4513-bf50-bf531d1b4429"
+            },
+            {
+                "pageId": "html326",
+                "playOrder": "327",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page327.xhtml",
+                "pageNumberUrn": "4ecc7c77-2f79-43df-a66d-f74efead2cf5",
+                "pageNo": "315",
+                "pageTitle": "Page327",
+                "type": "slate",
+                "csgReferenceId": "684d1ee4-d837-4de8-9aba-c7ba63efe8f9"
+            },
+            {
+                "pageId": "html327",
+                "playOrder": "328",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page328.xhtml",
+                "pageNumberUrn": "24682dda-3ab9-4a86-8904-99b0311cdb72",
+                "pageNo": "316",
+                "pageTitle": "Page328",
+                "type": "slate",
+                "csgReferenceId": "a77fc50d-ab7a-4301-ab32-66730833f4bd"
+            },
+            {
+                "pageId": "html328",
+                "playOrder": "329",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page329.xhtml",
+                "pageNumberUrn": "2e11053d-33ab-4d09-9e2f-36ccd883cbdb",
+                "pageNo": "317",
+                "pageTitle": "Page329",
+                "type": "slate",
+                "csgReferenceId": "5d81c885-df17-4acb-b704-bbe73e2ae9e1"
+            },
+            {
+                "pageId": "html329",
+                "playOrder": "330",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page330.xhtml",
+                "pageNumberUrn": "486ac112-bee1-4277-bd28-88e8c062b296",
+                "pageNo": "318",
+                "pageTitle": "Page330",
+                "type": "slate",
+                "csgReferenceId": "64c33511-85e3-445d-8afd-bc03099fa737"
+            },
+            {
+                "pageId": "html330",
+                "playOrder": "331",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page331.xhtml",
+                "pageNumberUrn": "c4ab93c1-5213-4d7f-9efe-d870f3f122bb",
+                "pageNo": "319",
+                "pageTitle": "Page331",
+                "type": "slate",
+                "csgReferenceId": "fc7ff912-97a3-4292-9067-4c75bc527d1e"
+            },
+            {
+                "pageId": "html331",
+                "playOrder": "332",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page332.xhtml",
+                "pageNumberUrn": "9cce0805-0b82-434e-add2-36d2db925e86",
+                "pageNo": "320",
+                "pageTitle": "Page332",
+                "type": "slate",
+                "csgReferenceId": "4aa54bed-b40b-43c9-a638-cf36f585ccc9"
+            },
+            {
+                "pageId": "html332",
+                "playOrder": "333",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page333.xhtml",
+                "pageNumberUrn": "13f30d93-8e49-4792-b38c-0f46fc030f6e",
+                "pageNo": "321",
+                "pageTitle": "Chapter 8 Reproductive strategies",
+                "type": "slate",
+                "csgReferenceId": "e419c6f8-a8c6-43d8-82b0-687702afa412"
+            },
+            {
+                "pageId": "html333",
+                "playOrder": "334",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page334.xhtml",
+                "pageNumberUrn": "36661eea-b72f-40d7-ab0b-fd1529322b1b",
+                "pageNo": "322",
+                "pageTitle": "8.1 Sexual and asexual reproduction",
+                "type": "slate",
+                "csgReferenceId": "2a69e1b4-6fea-4f58-b2b5-a8533295591a"
+            },
+            {
+                "pageId": "html334",
+                "playOrder": "335",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page335.xhtml",
+                "pageNumberUrn": "0fb5d49d-87aa-47af-b931-205f8629ae7c",
+                "pageNo": "323",
+                "pageTitle": "Page335",
+                "type": "slate",
+                "csgReferenceId": "aefd2b55-aca0-4d12-a580-7434ff68bf35"
+            },
+            {
+                "pageId": "html335",
+                "playOrder": "336",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page336.xhtml",
+                "pageNumberUrn": "b7468d38-8a12-4309-89dc-65dde5e25889",
+                "pageNo": "324",
+                "pageTitle": "Page336",
+                "type": "slate",
+                "csgReferenceId": "8c0ca0f2-6469-41d5-9dd9-93afa202dae7"
+            },
+            {
+                "pageId": "html336",
+                "playOrder": "337",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page337.xhtml",
+                "pageNumberUrn": "d8c920ef-b614-4152-9bae-908601ec77f4",
+                "pageNo": "325",
+                "pageTitle": "Page337",
+                "type": "slate",
+                "csgReferenceId": "c959f17b-524d-4bbd-b0fe-766c0cbfe380"
+            },
+            {
+                "pageId": "html337",
+                "playOrder": "338",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page338.xhtml",
+                "pageNumberUrn": "e799801e-8ded-4d1f-82a8-64c7b059bd1c",
+                "pageNo": "326",
+                "pageTitle": "Page338",
+                "type": "slate",
+                "csgReferenceId": "c7479abf-57cd-41e3-9737-ac22c7f560b1"
+            },
+            {
+                "pageId": "html338",
+                "playOrder": "339",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page339.xhtml",
+                "pageNumberUrn": "40dec2bd-f1cc-4b96-9eaa-d88cc7fb547c",
+                "pageNo": "327",
+                "pageTitle": "Page339",
+                "type": "slate",
+                "csgReferenceId": "ea90eb96-d8ec-49d3-8cc1-88a5dd5a5fce"
+            },
+            {
+                "pageId": "html339",
+                "playOrder": "340",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page340.xhtml",
+                "pageNumberUrn": "052e00cd-0722-4313-9233-d223de829c8f",
+                "pageNo": "328",
+                "pageTitle": "Page340",
+                "type": "slate",
+                "csgReferenceId": "cc454e0e-4802-49fe-9ae3-a222d7f33ef3"
+            },
+            {
+                "pageId": "html340",
+                "playOrder": "341",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page341.xhtml",
+                "pageNumberUrn": "fc00b477-1cfa-466f-9e78-c2fe670915f7",
+                "pageNo": "329",
+                "pageTitle": "Page341",
+                "type": "slate",
+                "csgReferenceId": "afc6b745-483b-4010-8af6-447a4b333c8f"
+            },
+            {
+                "pageId": "html341",
+                "playOrder": "342",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page342.xhtml",
+                "pageNumberUrn": "b5a273da-03ef-4843-8334-4adad07adce1",
+                "pageNo": "330",
+                "pageTitle": "Page342",
+                "type": "slate",
+                "csgReferenceId": "b45d141a-3518-4c7d-84ca-20663e886309"
+            },
+            {
+                "pageId": "html342",
+                "playOrder": "343",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page343.xhtml",
+                "pageNumberUrn": "21199d31-1c32-441a-8e08-d3d8b509ad9f",
+                "pageNo": "331",
+                "pageTitle": "8.2 Reproductive cloning technologies",
+                "type": "slate",
+                "csgReferenceId": "abf4da6e-341e-4f46-ae63-13b8d9a4e2fc"
+            },
+            {
+                "pageId": "html343",
+                "playOrder": "344",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page344.xhtml",
+                "pageNumberUrn": "b1b35f57-a4de-4a7e-bee6-fbb415e402c6",
+                "pageNo": "332",
+                "pageTitle": "Page344",
+                "type": "slate",
+                "csgReferenceId": "50862f74-8ec8-4828-85c4-44a2af0a815f"
+            },
+            {
+                "pageId": "html344",
+                "playOrder": "345",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page345.xhtml",
+                "pageNumberUrn": "9d3ba364-38a5-4f5e-b960-4e7a3643d1ea",
+                "pageNo": "333",
+                "pageTitle": "Page345",
+                "type": "slate",
+                "csgReferenceId": "a055363e-920e-4682-8e85-2d7cf4c90d8f"
+            },
+            {
+                "pageId": "html345",
+                "playOrder": "346",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page346.xhtml",
+                "pageNumberUrn": "89ea8cda-e7b0-4ce9-8e2e-d3685c528915",
+                "pageNo": "334",
+                "pageTitle": "Page346",
+                "type": "slate",
+                "csgReferenceId": "42fef645-1b72-4e23-b531-18fbcbc757df"
+            },
+            {
+                "pageId": "html346",
+                "playOrder": "347",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page347.xhtml",
+                "pageNumberUrn": "6556b218-a2b1-424d-a296-d6feeb6dbdee",
+                "pageNo": "335",
+                "pageTitle": "Page347",
+                "type": "slate",
+                "csgReferenceId": "ea07b4db-8711-46df-b0cc-3aa246e7e210"
+            },
+            {
+                "pageId": "html347",
+                "playOrder": "348",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page348.xhtml",
+                "pageNumberUrn": "448125e0-2b14-49b9-8ec9-19ff695fd591",
+                "pageNo": "336",
+                "pageTitle": "Page348",
+                "type": "slate",
+                "csgReferenceId": "e41a991d-d81a-4773-af9a-b1e1b0767d97"
+            },
+            {
+                "pageId": "html348",
+                "playOrder": "349",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page349.xhtml",
+                "pageNumberUrn": "96ccd57c-31d9-479c-a3d5-b14e575b600d",
+                "pageNo": "337",
+                "pageTitle": "Page349",
+                "type": "slate",
+                "csgReferenceId": "63387368-d235-4e42-a5d8-29aea445134e"
+            },
+            {
+                "pageId": "html349",
+                "playOrder": "350",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page350.xhtml",
+                "pageNumberUrn": "d8014ad6-a26c-4dc1-bdcc-26e38b8f30fe",
+                "pageNo": "338",
+                "pageTitle": "Page350",
+                "type": "slate",
+                "csgReferenceId": "7ff1bd85-8f64-44e5-b815-9d7b871ca1f8"
+            },
+            {
+                "pageId": "html350",
+                "playOrder": "351",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page351.xhtml",
+                "pageNumberUrn": "5b3e3b3a-0edb-496e-92eb-9124989380bb",
+                "pageNo": "339",
+                "pageTitle": "Page351",
+                "type": "slate",
+                "csgReferenceId": "0da39082-c592-44dc-ba3c-0cbfde313d98"
+            },
+            {
+                "pageId": "html351",
+                "playOrder": "352",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page352.xhtml",
+                "pageNumberUrn": "bbad654e-a716-4002-8332-725e035dee29",
+                "pageNo": "340",
+                "pageTitle": "Chapter 8 Review",
+                "type": "slate",
+                "csgReferenceId": "ba9892a3-d111-4a01-9f1b-80ba696ffd42"
+            },
+            {
+                "pageId": "html352",
+                "playOrder": "353",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page353.xhtml",
+                "pageNumberUrn": "eb6a7548-7fae-40ca-b2f8-7b2f7c75a30c",
+                "pageNo": "341",
+                "pageTitle": "Page353",
+                "type": "slate",
+                "csgReferenceId": "efb632d7-5d43-45b9-bc53-95bd8099ffac"
+            },
+            {
+                "pageId": "html353",
+                "playOrder": "354",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page354.xhtml",
+                "pageNumberUrn": "66ac414e-462b-40f6-a86d-861632bec4f1",
+                "pageNo": "342",
+                "pageTitle": "Page354",
+                "type": "slate",
+                "csgReferenceId": "cb349ab1-b332-4902-b529-92f258e1fa3e"
+            },
+            {
+                "pageId": "html354",
+                "playOrder": "355",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page355.xhtml",
+                "pageNumberUrn": "d9071421-ffa5-4f47-a839-746269a5c312",
+                "pageNo": "343",
+                "pageTitle": "Page355",
+                "type": "slate",
+                "csgReferenceId": "f6527b37-28e1-4a14-9395-27a9cbdcb164"
+            },
+            {
+                "pageId": "html355",
+                "playOrder": "356",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page356.xhtml",
+                "pageNumberUrn": "7bb57f95-12d1-463a-a0bf-44b2ceceb818",
+                "pageNo": "344",
+                "pageTitle": "Page356",
+                "type": "slate",
+                "csgReferenceId": "a52e64e9-85c8-4fc8-b50d-8becc609eccd"
+            },
+            {
+                "pageId": "html356",
+                "playOrder": "357",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page357.xhtml",
+                "pageNumberUrn": "bbc46096-7986-46cf-b7a3-ea5e1ce0f068",
+                "pageNo": "345",
+                "pageTitle": "Chapter 9 Adaptations and diversity",
+                "type": "slate",
+                "csgReferenceId": "530208ac-f893-4f93-969c-2c26d64d830f"
+            },
+            {
+                "pageId": "html357",
+                "playOrder": "358",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page358.xhtml",
+                "pageNumberUrn": "68694a96-4a41-4063-a360-afea38fcd5fe",
+                "pageNo": "346",
+                "pageTitle": "9.1 Genetic diversity",
+                "type": "slate",
+                "csgReferenceId": "1c73f387-2898-48f3-9b0d-8e3b32b061aa"
+            },
+            {
+                "pageId": "html358",
+                "playOrder": "359",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page359.xhtml",
+                "pageNumberUrn": "6fe66042-890d-4f14-b986-993a1518f941",
+                "pageNo": "347",
+                "pageTitle": "Page359",
+                "type": "slate",
+                "csgReferenceId": "a02737e1-c96d-48e8-b693-e30789de1253"
+            },
+            {
+                "pageId": "html359",
+                "playOrder": "360",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page360.xhtml",
+                "pageNumberUrn": "ed399491-66b4-44b0-8d47-e1b4a59a6230",
+                "pageNo": "348",
+                "pageTitle": "Page360",
+                "type": "slate",
+                "csgReferenceId": "897d7b97-43eb-4fba-badc-f4bf4655977b"
+            },
+            {
+                "pageId": "html360",
+                "playOrder": "361",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page361.xhtml",
+                "pageNumberUrn": "f8e87fc9-7a31-4028-bc50-29c0e20a3c7f",
+                "pageNo": "349",
+                "pageTitle": "Page361",
+                "type": "slate",
+                "csgReferenceId": "e5afe744-260d-402e-b884-1ba604bb5390"
+            },
+            {
+                "pageId": "html361",
+                "playOrder": "362",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page362.xhtml",
+                "pageNumberUrn": "15c6ae67-6deb-45dc-8669-a395c9906e06",
+                "pageNo": "350",
+                "pageTitle": "Page362",
+                "type": "slate",
+                "csgReferenceId": "eb67103f-a0be-44c1-a87b-124a9ca38aaa"
+            },
+            {
+                "pageId": "html362",
+                "playOrder": "363",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page363.xhtml",
+                "pageNumberUrn": "73ae2d37-7898-4d16-9e80-193dba110a9a",
+                "pageNo": "351",
+                "pageTitle": "Page363",
+                "type": "slate",
+                "csgReferenceId": "5e1ac9bd-37d5-442c-b7ca-1375f9abecbe"
+            },
+            {
+                "pageId": "html363",
+                "playOrder": "364",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page364.xhtml",
+                "pageNumberUrn": "13fe2706-e1a5-49ad-bd82-e121b37f519e",
+                "pageNo": "352",
+                "pageTitle": "Page364",
+                "type": "slate",
+                "csgReferenceId": "db10b1cc-069a-4d1b-9dba-7954b4eddddf"
+            },
+            {
+                "pageId": "html364",
+                "playOrder": "365",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page365.xhtml",
+                "pageNumberUrn": "f0bc4e5e-3787-4997-b083-e437fe42ad03",
+                "pageNo": "353",
+                "pageTitle": "Page365",
+                "type": "slate",
+                "csgReferenceId": "4a933421-e4b2-4fe5-bc03-f8292818052e"
+            },
+            {
+                "pageId": "html365",
+                "playOrder": "366",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page366.xhtml",
+                "pageNumberUrn": "d5b1dcb1-c626-479a-948a-0bfe5b152dd9",
+                "pageNo": "354",
+                "pageTitle": "9.2 Adaptations",
+                "type": "slate",
+                "csgReferenceId": "93c5e4d0-cda9-4f8a-9988-786668d9426f"
+            },
+            {
+                "pageId": "html366",
+                "playOrder": "367",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page367.xhtml",
+                "pageNumberUrn": "734745e1-f7d7-4dbe-88b3-0e44e33a8efe",
+                "pageNo": "355",
+                "pageTitle": "Page367",
+                "type": "slate",
+                "csgReferenceId": "92533f5c-911a-46ba-ad70-557ef7a55d28"
+            },
+            {
+                "pageId": "html367",
+                "playOrder": "368",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page368.xhtml",
+                "pageNumberUrn": "58f51d6f-247a-4446-9141-67bb50c0a180",
+                "pageNo": "356",
+                "pageTitle": "Page368",
+                "type": "slate",
+                "csgReferenceId": "aa7cbfcd-a720-43c3-8fc3-eb2032dc5ca1"
+            },
+            {
+                "pageId": "html368",
+                "playOrder": "369",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page369.xhtml",
+                "pageNumberUrn": "0e907e0a-7cab-4343-a598-d837850d0511",
+                "pageNo": "357",
+                "pageTitle": "Page369",
+                "type": "slate",
+                "csgReferenceId": "db84f0a1-0f78-4bb0-b962-f8b86f001154"
+            },
+            {
+                "pageId": "html369",
+                "playOrder": "370",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page370.xhtml",
+                "pageNumberUrn": "6e303a4a-6000-4160-bc0f-4a15bbec1ad3",
+                "pageNo": "358",
+                "pageTitle": "Page370",
+                "type": "slate",
+                "csgReferenceId": "c15ae1b8-ffab-45e6-affb-873da62e4069"
+            },
+            {
+                "pageId": "html370",
+                "playOrder": "371",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page371.xhtml",
+                "pageNumberUrn": "e589c10c-bc59-445c-acba-a52aa029e82e",
+                "pageNo": "359",
+                "pageTitle": "Page371",
+                "type": "slate",
+                "csgReferenceId": "0b1786e6-7975-4c48-be1a-96d97cc487a5"
+            },
+            {
+                "pageId": "html371",
+                "playOrder": "372",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page372.xhtml",
+                "pageNumberUrn": "dad508a5-6172-4307-8e5e-26dd6cd94e2c",
+                "pageNo": "360",
+                "pageTitle": "Page372",
+                "type": "slate",
+                "csgReferenceId": "21f408e8-8017-4b4e-b4d0-3c65197ca496"
+            },
+            {
+                "pageId": "html372",
+                "playOrder": "373",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page373.xhtml",
+                "pageNumberUrn": "a79613e7-fe3c-4205-a2be-2c925366556f",
+                "pageNo": "361",
+                "pageTitle": "Page373",
+                "type": "slate",
+                "csgReferenceId": "a7f23506-fe08-498b-9a6c-4aa873e97a3c"
+            },
+            {
+                "pageId": "html373",
+                "playOrder": "374",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page374.xhtml",
+                "pageNumberUrn": "669d9681-ac44-4c47-9e9e-925da5331d07",
+                "pageNo": "362",
+                "pageTitle": "Page374",
+                "type": "slate",
+                "csgReferenceId": "828bf47e-529e-4895-a125-ae6af1ef47d9"
+            },
+            {
+                "pageId": "html374",
+                "playOrder": "375",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page375.xhtml",
+                "pageNumberUrn": "08a4d210-e92b-4308-ab49-c0d3c5d58af3",
+                "pageNo": "363",
+                "pageTitle": "Page375",
+                "type": "slate",
+                "csgReferenceId": "0016f617-bd6e-472f-8eac-978da4b3f509"
+            },
+            {
+                "pageId": "html375",
+                "playOrder": "376",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page376.xhtml",
+                "pageNumberUrn": "7f507998-a716-40fd-bf51-537b20763a25",
+                "pageNo": "364",
+                "pageTitle": "Page376",
+                "type": "slate",
+                "csgReferenceId": "85585f5a-3ff2-4b9e-aff3-b5d1dea22d73"
+            },
+            {
+                "pageId": "html376",
+                "playOrder": "377",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page377.xhtml",
+                "pageNumberUrn": "6f8e80af-a557-497d-afd3-7810260c4206",
+                "pageNo": "365",
+                "pageTitle": "Page377",
+                "type": "slate",
+                "csgReferenceId": "c2e4c653-3e25-475a-a9ca-c58b3f9f36c9"
+            },
+            {
+                "pageId": "html377",
+                "playOrder": "378",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page378.xhtml",
+                "pageNumberUrn": "6a4238ac-c2d5-48b2-bd0c-388d1c44519f",
+                "pageNo": "366",
+                "pageTitle": "Page378",
+                "type": "slate",
+                "csgReferenceId": "aa785f2e-4eff-4454-b2ee-7bfe13f79738"
+            },
+            {
+                "pageId": "html378",
+                "playOrder": "379",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page379.xhtml",
+                "pageNumberUrn": "513cd2d0-930b-4b7e-ae63-56f0e27c625a",
+                "pageNo": "367",
+                "pageTitle": "Page379",
+                "type": "slate",
+                "csgReferenceId": "281a7b1f-f46d-4bf0-b1ca-c26c0bb5dd74"
+            },
+            {
+                "pageId": "html379",
+                "playOrder": "380",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page380.xhtml",
+                "pageNumberUrn": "7c19e809-2241-4cd5-86ee-a2ff9c57e64a",
+                "pageNo": "368",
+                "pageTitle": "Page380",
+                "type": "slate",
+                "csgReferenceId": "6d495d3b-19c4-427c-b82c-b42ff8832e7b"
+            },
+            {
+                "pageId": "html380",
+                "playOrder": "381",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page381.xhtml",
+                "pageNumberUrn": "165d2165-511e-4631-b791-c0222da4cf38",
+                "pageNo": "369",
+                "pageTitle": "Page381",
+                "type": "slate",
+                "csgReferenceId": "1d41193b-d7e7-429d-be18-c80abb071ad2"
+            },
+            {
+                "pageId": "html381",
+                "playOrder": "382",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page382.xhtml",
+                "pageNumberUrn": "2b7e4e4f-2274-4ed2-9f22-20dc73929977",
+                "pageNo": "370",
+                "pageTitle": "Page382",
+                "type": "slate",
+                "csgReferenceId": "2d3f73fc-0dba-4be8-845c-b7bc3e4357eb"
+            },
+            {
+                "pageId": "html382",
+                "playOrder": "383",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page383.xhtml",
+                "pageNumberUrn": "3938045f-716f-4767-9158-27b52669ad06",
+                "pageNo": "371",
+                "pageTitle": "9.3 Interdependencies between species",
+                "type": "slate",
+                "csgReferenceId": "3e2a7ddd-a26c-40ac-ac42-677a5f0edf4f"
+            },
+            {
+                "pageId": "html383",
+                "playOrder": "384",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page384.xhtml",
+                "pageNumberUrn": "1ba17277-7ae0-42be-908f-5dcb86755441",
+                "pageNo": "372",
+                "pageTitle": "Page384",
+                "type": "slate",
+                "csgReferenceId": "3dfcd484-e29a-415b-b2e9-556ef2e477d5"
+            },
+            {
+                "pageId": "html384",
+                "playOrder": "385",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page385.xhtml",
+                "pageNumberUrn": "d4b3514f-bde1-4da4-87b1-83898abdca20",
+                "pageNo": "373",
+                "pageTitle": "Page385",
+                "type": "slate",
+                "csgReferenceId": "c0a3d1e8-d825-40f0-856b-e457d6fe2c8e"
+            },
+            {
+                "pageId": "html385",
+                "playOrder": "386",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page386.xhtml",
+                "pageNumberUrn": "9bba5f59-21c2-4852-9267-4eda735db546",
+                "pageNo": "374",
+                "pageTitle": "Page386",
+                "type": "slate",
+                "csgReferenceId": "93e8d9df-abc4-46b1-883f-ac25866def29"
+            },
+            {
+                "pageId": "html386",
+                "playOrder": "387",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page387.xhtml",
+                "pageNumberUrn": "cd53f2a2-89dd-4954-a7a8-3b4683519379",
+                "pageNo": "375",
+                "pageTitle": "Page387",
+                "type": "slate",
+                "csgReferenceId": "29799f95-4263-44e0-bd75-7bfad53d4335"
+            },
+            {
+                "pageId": "html387",
+                "playOrder": "388",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page388.xhtml",
+                "pageNumberUrn": "b4fb1076-a108-495a-b83e-75d7b500bc88",
+                "pageNo": "376",
+                "pageTitle": "Page388",
+                "type": "slate",
+                "csgReferenceId": "23e94382-60d2-4218-ab2f-20740124cacf"
+            },
+            {
+                "pageId": "html388",
+                "playOrder": "389",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page389.xhtml",
+                "pageNumberUrn": "3829f53c-9227-4e7b-b48a-3f8d93c8605d",
+                "pageNo": "377",
+                "pageTitle": "Page389",
+                "type": "slate",
+                "csgReferenceId": "c340510a-2d4b-4cbf-83ff-283cabd10906"
+            },
+            {
+                "pageId": "html389",
+                "playOrder": "390",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page390.xhtml",
+                "pageNumberUrn": "e036f65f-25a5-428a-897b-7541881f44e3",
+                "pageNo": "378",
+                "pageTitle": "Page390",
+                "type": "slate",
+                "csgReferenceId": "812aa280-f16a-4eb6-8c6f-732f37dfdde2"
+            },
+            {
+                "pageId": "html390",
+                "playOrder": "391",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page391.xhtml",
+                "pageNumberUrn": "c0218f9a-d366-4944-8f38-ee4c0188dd36",
+                "pageNo": "379",
+                "pageTitle": "Page391",
+                "type": "slate",
+                "csgReferenceId": "838f6a36-e746-433d-ab7c-581f69eac83e"
+            },
+            {
+                "pageId": "html391",
+                "playOrder": "392",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page392.xhtml",
+                "pageNumberUrn": "9ea1f7db-420d-43f3-97fa-063f47e61c4b",
+                "pageNo": "380",
+                "pageTitle": "Page392",
+                "type": "slate",
+                "csgReferenceId": "5d0b9af2-c246-4929-abbe-7532f9fbf39d"
+            },
+            {
+                "pageId": "html392",
+                "playOrder": "393",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page393.xhtml",
+                "pageNumberUrn": "e60be91e-3ade-4b66-89e4-75160ab02966",
+                "pageNo": "381",
+                "pageTitle": "Page393",
+                "type": "slate",
+                "csgReferenceId": "9261becd-463d-4182-91ca-75886ae22024"
+            },
+            {
+                "pageId": "html393",
+                "playOrder": "394",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page394.xhtml",
+                "pageNumberUrn": "be735e74-64ba-4473-9d97-691f81e6fa27",
+                "pageNo": "382",
+                "pageTitle": "Page394",
+                "type": "slate",
+                "csgReferenceId": "40ecdeaa-e866-4a1a-8cf2-1fb0f3bdee99"
+            },
+            {
+                "pageId": "html394",
+                "playOrder": "395",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page395.xhtml",
+                "pageNumberUrn": "8219e336-e4a0-42fd-8c54-16bd173909cc",
+                "pageNo": "383",
+                "pageTitle": "Page395",
+                "type": "slate",
+                "csgReferenceId": "f2c2b833-746d-449f-ba1b-bae9a0111c51"
+            },
+            {
+                "pageId": "html395",
+                "playOrder": "396",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page396.xhtml",
+                "pageNumberUrn": "f592ba11-8444-4792-881b-f80701c29886",
+                "pageNo": "384",
+                "pageTitle": "Page396",
+                "type": "slate",
+                "csgReferenceId": "e70d52ac-1808-4c3a-9347-b1ffd7a3f4c7"
+            },
+            {
+                "pageId": "html396",
+                "playOrder": "397",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page397.xhtml",
+                "pageNumberUrn": "5da8f167-72f9-4d59-92b9-27df7c81c705",
+                "pageNo": "385",
+                "pageTitle": "Page397",
+                "type": "slate",
+                "csgReferenceId": "43b8fdc5-de0d-4249-9aac-d073199042e4"
+            },
+            {
+                "pageId": "html397",
+                "playOrder": "398",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page398.xhtml",
+                "pageNumberUrn": "4bcad245-f78f-489a-b05e-b5827973c477",
+                "pageNo": "386",
+                "pageTitle": "Page398",
+                "type": "slate",
+                "csgReferenceId": "c65e5901-c311-4291-b01c-b6112d03b4b8"
+            },
+            {
+                "pageId": "html398",
+                "playOrder": "399",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page399.xhtml",
+                "pageNumberUrn": "83b6eec6-9532-4dcb-86fa-548a186f8737",
+                "pageNo": "387",
+                "pageTitle": "Page399",
+                "type": "slate",
+                "csgReferenceId": "a348cedd-ec52-4e8b-a8d2-d308ede6cbe0"
+            },
+            {
+                "pageId": "html399",
+                "playOrder": "400",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page400.xhtml",
+                "pageNumberUrn": "a918bf53-e2f8-4484-9c9a-e349fabf3e38",
+                "pageNo": "388",
+                "pageTitle": "Page400",
+                "type": "slate",
+                "csgReferenceId": "d6c395d8-02c6-4c47-8907-b80304689fbc"
+            },
+            {
+                "pageId": "html400",
+                "playOrder": "401",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page401.xhtml",
+                "pageNumberUrn": "fb541c9c-f140-41b3-b889-4d8f61c83d6e",
+                "pageNo": "389",
+                "pageTitle": "Chapter 9 Review",
+                "type": "slate",
+                "csgReferenceId": "ca2a29ae-3dec-4c10-98d6-7f3bb586fa95"
+            },
+            {
+                "pageId": "html401",
+                "playOrder": "402",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page402.xhtml",
+                "pageNumberUrn": "f6136f47-a7c7-43e4-bf4c-c76cea000bd3",
+                "pageNo": "390",
+                "pageTitle": "Page402",
+                "type": "slate",
+                "csgReferenceId": "9c9828ca-6567-4532-bd32-82eabf9bae4d"
+            },
+            {
+                "pageId": "html402",
+                "playOrder": "403",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page403.xhtml",
+                "pageNumberUrn": "49ccee1b-fd52-42c0-a48c-859fdc1d69e9",
+                "pageNo": "391",
+                "pageTitle": "Page403",
+                "type": "slate",
+                "csgReferenceId": "0cea6c28-243e-4242-bff6-43eb5fbf2a1c"
+            },
+            {
+                "pageId": "html403",
+                "playOrder": "404",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page404.xhtml",
+                "pageNumberUrn": "98db181d-ed8f-4791-94d1-d77daa2b831d",
+                "pageNo": "392",
+                "pageTitle": "Unit 2 Area of Study 2 Review questions",
+                "type": "slate",
+                "csgReferenceId": "5ad163bd-e43e-43e3-987a-6aab9af54e6a"
+            },
+            {
+                "pageId": "html404",
+                "playOrder": "405",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page405.xhtml",
+                "pageNumberUrn": "8c451a51-a500-4a84-8edd-4c3f18c26928",
+                "pageNo": "393",
+                "pageTitle": "Page405",
+                "type": "slate",
+                "csgReferenceId": "d1e280e4-6861-4d7b-99d5-761b1cccd352"
+            },
+            {
+                "pageId": "html405",
+                "playOrder": "406",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page406.xhtml",
+                "pageNumberUrn": "b86efbe7-429d-4fd4-9ba2-5858121791b8",
+                "pageNo": "394",
+                "pageTitle": "Page406",
+                "type": "slate",
+                "csgReferenceId": "acf35094-29a9-499a-a63e-95fb845d0fbc"
+            },
+            {
+                "pageId": "html406",
+                "playOrder": "407",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page407.xhtml",
+                "pageNumberUrn": "a29324d7-9c63-460c-97cc-9f329a5e71fe",
+                "pageNo": "395",
+                "pageTitle": "Page407",
+                "type": "slate",
+                "csgReferenceId": "dfc4a3c0-8cb1-4ace-a516-6fef5f9ec0bd"
+            },
+            {
+                "pageId": "html407",
+                "playOrder": "408",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page408.xhtml",
+                "pageNumberUrn": "9a565825-793c-4ac4-b330-ef44f10a4d55",
+                "pageNo": "396",
+                "pageTitle": "Page408",
+                "type": "slate",
+                "csgReferenceId": "774559ec-f7a5-40da-8463-6014dbe6a732"
+            },
+            {
+                "pageId": "html408",
+                "playOrder": "409",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page409.xhtml",
+                "pageNumberUrn": "9d40e7f5-2230-447d-96e3-3eee2b7a5a89",
+                "pageNo": "397",
+                "pageTitle": "Page409",
+                "type": "slate",
+                "csgReferenceId": "77288903-37cc-4d3b-91e7-69414152dd40"
+            },
+            {
+                "pageId": "html409",
+                "playOrder": "410",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page410.xhtml",
+                "pageNumberUrn": "41641ae7-b8af-45b1-a3b9-bbc1fec42e75",
+                "pageNo": "398",
+                "pageTitle": "Glossary",
+                "type": "slate",
+                "csgReferenceId": "fe946d6d-9f78-46cf-8dba-2a844d416ff1"
+            },
+            {
+                "pageId": "html410",
+                "playOrder": "411",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page411.xhtml",
+                "pageNumberUrn": "42fd610c-1856-4f04-a196-c15e6510f0fa",
+                "pageNo": "399",
+                "pageTitle": "Page411",
+                "type": "slate",
+                "csgReferenceId": "64bdc888-7b0e-4d3d-83da-2344dc407661"
+            },
+            {
+                "pageId": "html411",
+                "playOrder": "412",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page412.xhtml",
+                "pageNumberUrn": "2c1549b1-19c7-4bab-b764-875a60907c02",
+                "pageNo": "400",
+                "pageTitle": "Page412",
+                "type": "slate",
+                "csgReferenceId": "005318ff-30c8-4c11-a46b-2703b9efc932"
+            },
+            {
+                "pageId": "html412",
+                "playOrder": "413",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page413.xhtml",
+                "pageNumberUrn": "5638069c-6cd0-4ca9-a52c-ba4a48264ef2",
+                "pageNo": "401",
+                "pageTitle": "Page413",
+                "type": "slate",
+                "csgReferenceId": "963c8338-cad5-441d-9818-54c5d009257d"
+            },
+            {
+                "pageId": "html413",
+                "playOrder": "414",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page414.xhtml",
+                "pageNumberUrn": "a7747372-5777-455d-8740-2cef7543ae65",
+                "pageNo": "402",
+                "pageTitle": "Page414",
+                "type": "slate",
+                "csgReferenceId": "94c52aea-eace-40d3-9862-63527f50ae0d"
+            },
+            {
+                "pageId": "html414",
+                "playOrder": "415",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page415.xhtml",
+                "pageNumberUrn": "41793f66-f944-4097-8a38-02d4c928540d",
+                "pageNo": "403",
+                "pageTitle": "Page415",
+                "type": "slate",
+                "csgReferenceId": "2147400a-2696-4bab-bfa2-de715f2edf8d"
+            },
+            {
+                "pageId": "html415",
+                "playOrder": "416",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page416.xhtml",
+                "pageNumberUrn": "de2e3de3-eea5-41e0-a707-8518068dd467",
+                "pageNo": "404",
+                "pageTitle": "Page416",
+                "type": "slate",
+                "csgReferenceId": "4865cd11-914e-4dd1-929a-7a6dd3f8d301"
+            },
+            {
+                "pageId": "html416",
+                "playOrder": "417",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page417.xhtml",
+                "pageNumberUrn": "b7f1bfef-c675-4e19-ac46-f5806c14aed1",
+                "pageNo": "405",
+                "pageTitle": "Page417",
+                "type": "slate",
+                "csgReferenceId": "f945d0db-9394-4127-ba1c-4f897f2ff125"
+            },
+            {
+                "pageId": "html417",
+                "playOrder": "418",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page418.xhtml",
+                "pageNumberUrn": "fd90d6fb-d603-44c1-a9e0-2c275e8688ae",
+                "pageNo": "406",
+                "pageTitle": "Page418",
+                "type": "slate",
+                "csgReferenceId": "964b7ef6-d84c-4aba-8345-93590213de3c"
+            },
+            {
+                "pageId": "html418",
+                "playOrder": "419",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page419.xhtml",
+                "pageNumberUrn": "c42db409-6083-42ad-ba7f-73557c5db67d",
+                "pageNo": "407",
+                "pageTitle": "Page419",
+                "type": "slate",
+                "csgReferenceId": "f47c30d7-a9d8-4546-8be5-e304cba7ec69"
+            },
+            {
+                "pageId": "html419",
+                "playOrder": "420",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page420.xhtml",
+                "pageNumberUrn": "655f3d94-465a-436f-a96f-fd3d29c38a78",
+                "pageNo": "408",
+                "pageTitle": "Index",
+                "type": "slate",
+                "csgReferenceId": "4718fad5-461b-42ea-aea4-0edf4225c83c"
+            },
+            {
+                "pageId": "html420",
+                "playOrder": "421",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page421.xhtml",
+                "pageNumberUrn": "60c6c168-add8-49f2-9c35-3820c2d4648a",
+                "pageNo": "409",
+                "pageTitle": "Page421",
+                "type": "slate",
+                "csgReferenceId": "a9930aba-74de-4291-8b0d-b4d34480a4a9"
+            },
+            {
+                "pageId": "html421",
+                "playOrder": "422",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page422.xhtml",
+                "pageNumberUrn": "513f9ca5-f313-4bc2-804f-bb35153e712e",
+                "pageNo": "410",
+                "pageTitle": "Page422",
+                "type": "slate",
+                "csgReferenceId": "069e4424-6739-4642-9524-529f575e2420"
+            },
+            {
+                "pageId": "html422",
+                "playOrder": "423",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page423.xhtml",
+                "pageNumberUrn": "0d2d4f05-b340-4548-9b5c-407e1150ebb7",
+                "pageNo": "411",
+                "pageTitle": "Page423",
+                "type": "slate",
+                "csgReferenceId": "bd4531ad-fc58-41f5-9732-3a00719e1c37"
+            },
+            {
+                "pageId": "html423",
+                "playOrder": "424",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page424.xhtml",
+                "pageNumberUrn": "770bd623-26ad-459f-9bfc-c408651ed962",
+                "pageNo": "412",
+                "pageTitle": "Page424",
+                "type": "slate",
+                "csgReferenceId": "009b4578-e1ea-4514-84d6-a9baf20a5e75"
+            },
+            {
+                "pageId": "html424",
+                "playOrder": "425",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page425.xhtml",
+                "pageNumberUrn": "e34ed066-5a01-4eac-9e95-26506738552d",
+                "pageNo": "413",
+                "pageTitle": "Page425",
+                "type": "slate",
+                "csgReferenceId": "6b77d7a4-b2c3-42af-b116-b56f455b52df"
+            },
+            {
+                "pageId": "html425",
+                "playOrder": "426",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page426.xhtml",
+                "pageNumberUrn": "d19b9d6b-a28c-4174-970a-817670c682d4",
+                "pageNo": "414",
+                "pageTitle": "Page426",
+                "type": "slate",
+                "csgReferenceId": "fec95683-e3c5-4ed1-9047-de69a1fd93f7"
+            },
+            {
+                "pageId": "html426",
+                "playOrder": "427",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page427.xhtml",
+                "pageNumberUrn": "f33c9047-4eac-405d-8137-e84630c69e51",
+                "pageNo": "415",
+                "pageTitle": "Page427",
+                "type": "slate",
+                "csgReferenceId": "26f4b07d-4e70-4848-94b3-78a04dbab322"
+            },
+            {
+                "pageId": "html427",
+                "playOrder": "428",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page428.xhtml",
+                "pageNumberUrn": "62fdae6f-a689-4fcb-9636-184b263799dd",
+                "pageNo": "416",
+                "pageTitle": "Page428",
+                "type": "slate",
+                "csgReferenceId": "f27ab939-eb1f-49a4-b9fc-146db7d9ceb5"
+            },
+            {
+                "pageId": "html428",
+                "playOrder": "429",
+                "pageUri": "EPUB/xhtml/pdfwbbxe/pages/page429.xhtml",
+                "pageNumberUrn": "4b228d2b-0510-408b-a279-1ad787507969",
+                "pageNo": "417",
+                "pageTitle": "Attributions",
+                "type": "slate",
+                "csgReferenceId": "556840c6-fcbe-4580-afc2-913e96070e08"
+            }
+        ]
+    }
+]
