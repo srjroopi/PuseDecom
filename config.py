@@ -7,5 +7,9 @@ QA_CONSTANTS = {
     'PRISM_PAGE_MAPPING_API'    :   'https://prism-qa.pearsoned.com/api/contenttoc/v1/assets/page-mapping',
     'CSG_PRODUCT_API'           :   'https://content-service-qa.stg-prsn.com/csg/api/v3/search',
     'COURSE_API'                :   'https://stpaperapiqa.stg-prsn.com/etext/v2/courseboot/book/coursebookcatalogue',
-    'RESOURCE_API'              :   'https://prism-qa.pearsoned.com/api/contenttoc/v1/assets/hotspot?'
+    'RESOURCE_API'              :   'https://prism-qa.pearsoned.com/api/contenttoc/v1/assets/hotspot?',
+
+    #PAPER API Specific
+    'TIBRON_USERNAME'   : "tiburon_system",
+    'TIBRON_PASSWORD'   : "pqGgHrjfetxH7rMKJuEqCJF3SPAE8CEQ",
 }

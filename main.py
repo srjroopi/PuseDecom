@@ -44,23 +44,23 @@ def inputValues(productIds,token):
         print(f'\nFetching for userId: {productId}')
         execute_request(productId=productId, token=token)
 
-# #  usage
-# username = constant.USERNAME
-# password = constant.PASSWORD
+#  usage
+username = constant.USERNAME
+password = constant.PASSWORD
 
 product_ids = []
 with open(constant.PRODUCT_ID, 'r') as file:
     product_ids = [line.strip() for line in file.readlines()]
 
-# # Create directory
-# createDirectory()
-# token = get_token(username, password)
-# print('token generated')
+# Create directory
+createDirectory()
+token = post_token(username, password)
+print('token generated')
 
-print("posting")
-post_response = post_token()
-print('data', post_response)
-token = post_response
+# print("posting")
+# post_response = post_token()
+# print('data', post_response)
+# token = post_response
 
 if token:
     inputValues(productIds=product_ids, token=token)
