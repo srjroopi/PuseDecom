@@ -1,0 +1,19 @@
+[
+    {
+        "bookId": "60ff9a120e429e21ee07cce3",
+        "title": "HB1 6e",
+        "description": "No description available",
+        "coverImageUrl": "https://etext-ise-stg.pearson.com/epub/rplus/60ff9a120e429e21ee07cce3/v1/hb2_6e_sandbox_cover.jpg",
+        "bookType": "EPUB",
+        "author": "Pearson Australia",
+        "indexId": null,
+        "version": "v1",
+        "productId": "60ff996c0e429e21ee07cce2",
+        "productModel": "RPLUS_EPUB",
+        "isbn": null,
+        "language": "en",
+        "baseUrl": null,
+        "catalogueUrl": null,
+        "downloadURL": "https://etext-ise-stg.pearson.com/epub/rplus/60ff9a120e429e21ee07cce3/v1/1627363712035-8686-7ce556283cdc1011hb1_6e_sandbox.epub"
+    }
+]
